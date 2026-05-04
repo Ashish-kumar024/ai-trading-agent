@@ -1,146 +1,335 @@
-# Market Context
+# Market Context - 2026-05-04 (Enhanced Pre-Market Intelligence Analysis)
 
-## Last Updated: 2026-05-04 (Midday Check #2 — ~12:00)
-
----
-
-## Midday Risk Management Check — 2026-05-04
-
-**Run Time:** Midday (automated — second pass)
-**Checked By:** AI Trading Agent
-
-### Portfolio Health Summary
-
-| Metric | Value |
-|--------|-------|
-| Cash | $100,000.00 |
-| Open Positions | **0** |
-| Total Value | $100,000.00 |
-| At-Risk Positions | None |
-| Stop-Loss Flags | None |
-
-### Positions Checked
-
-> **No active positions to monitor.**
-> Portfolio is 100% cash. No P&L calculations, stop-loss checks, or trailing stop adjustments required.
-
-### Risk Flags
-
-- None — fully liquid, no market exposure.
-
-### Watchlist Price Update (Midday)
-
-| Symbol | Last Price | 50MA | % vs 50MA | Entry Zone | Status |
-|--------|-----------|------|-----------|------------|--------|
-| DAR | $63.78 | $57.96 | +10.0% above | $57.96–$60.86 | ⏳ Awaiting pullback |
-| SUI | ~$130.05 | — | — | Pullback to 50MA | ⏳ Monitoring |
-| SPY | $720.19 | — | +9.5% vs 200MA | — | ✅ BULLISH regime |
-
-### Recommended Actions
-
-1. **DAR** — Price holding near $63.78, approximately +10% above 50MA ($57.96). Entry zone ($57.96–$60.86) remains untriggered. No action. Continue monitoring for pullback.
-2. **SUI** — No updated intraday price available; last known ~$130.05 (mid-April). Continue watching for 2–3% pullback toward 50MA. No entry signal.
-3. **SPY** — Regime confirmed BULLISH. SPY at $720.19 vs 200MA ~$657.54 (+9.5%). Market note: mild intraday weakness attributed to Iran geopolitical uncertainty; no regime threat at current levels.
-
-### Next Check
-
-- End-of-day review: confirm DAR/SUI closing prices, reassess SPY regime vs 200MA, update watchlist notes.
-
----
+**Run:** Full multi-source intelligence scan | **AI Agent:** Claude Sonnet 4.6
 
 ---
 
 ## Market Regime
 
-| Metric | Value |
-|--------|-------|
-| SPY Price | $720.19 (midday, 2026-05-04) |
-| SPY 200-Day MA | ~$657.54 (last confirmed) |
-| Spread | +$62.65 (+9.5%) |
-| Regime | **BULLISH** |
+| Metric | Value | Signal |
+|--------|-------|--------|
+| SPY Price | ~$720 | — |
+| SPY 200-Day MA | ~$657.54 | — |
+| SPY vs 200MA | +$62.46 (+9.5%) | ✅ **BULLISH** |
+| VIX | ~16.99 | ✅ **CALM** (<20) |
+| Advance/Decline | Trending higher since March low | ✅ **Breadth bullish** |
+| Market Today | S&P -0.18%, Dow -0.40%, Nasdaq +0.04% | ⚠️ Mild softness |
 
-SPY has risen from $679.46 (morning open scan) to $720.19 at midday — a significant move. All trend signals remain bullish. Intraday dip attributed to Iran uncertainty is minor and does not threaten the macro regime. 200MA support at ~$657.54 is well below current price.
+**Regime: BULLISH.** SPY is 9.5% above its 200-day MA. VIX at 16.99 signals calm, recovered from March peak of 31. AD line has been trending upward since late March. Today's mild pullback is Iran/Hormuz-driven volatility, not a regime threat.
+
+---
+
+## Macro Context This Week
+
+### Primary Risk: Strait of Hormuz Crisis
+- UAE intercepted Iranian missiles today (May 4) — first activation of UAE's alert system since ceasefire began
+- WTI crude: ~$106–107/barrel (+4% today); Brent: ~$114/barrel (+6%)
+- Iran conflict has restricted ~20% of global oil supply (IEA: "largest supply disruption in history")
+- Gas prices at $4.46/gallon — 4-year high
+- CNN: "Trump has a new Strait of Hormuz plan. The market isn't buying it."
+
+### Earnings Calendar This Week (High-Risk — AVOID these stocks)
+| Company | Date | Status |
+|---------|------|--------|
+| Palantir (PLTR) | May 4 after close | ⛔ Earnings tonight |
+| EOG Resources (EOG) | May 5 after close | ⛔ Earnings tomorrow |
+| AMD | This week | ⛔ Earnings risk |
+| ARM Holdings (ARM) | This week | ⛔ Earnings risk |
+| Lattice Semiconductor (LSCC) | This week | ⛔ Earnings risk |
+
+### Notable Market Events Today
+- **GameStop (GME)** proposed to acquire **eBay (EBAY)** for $125/share (~$56B) → EBAY surged ~10%
+- **Seagate (STX)** surging after blowout Q3 FY2026 earnings (April 28, already reported)
+
+---
+
+## Sector Leadership Map
+
+| Quadrant | Sectors | Notes |
+|----------|---------|-------|
+| **Leading** | Materials (+22% YTD), Energy (+23% YTD) | Real assets dominating |
+| **Improving** | Real Estate (XLRE), Utilities (XLU), Healthcare | Gaining relative strength |
+| **Lagging** | Technology (XLK), Communications (XLC), Industrials | Tech slump post-AI boom |
+| **Weakening** | Consumer Discretionary (XLY), Financials (XLF) | Losing momentum |
+
+**Key trend:** Sector rotation out of 2024–2025 AI darlings (tech) into real assets. Hormuz crisis amplifies energy/gold momentum.
 
 ---
 
 ## Portfolio State
 
-- **Cash:** $100,000.00
-- **Open Positions:** None
-- **Total Value:** $100,000.00
+| Metric | Value |
+|--------|-------|
+| Cash | $100,000.00 |
+| Open Positions | 0 |
+| Total Value | $100,000.00 |
 
-Fully liquid. Ready to deploy capital selectively.
-
----
-
-## Golden Cross Candidates (50MA > 200MA)
-
-Three stocks flagged with fresh golden cross signals and assessed for fundamental quality:
-
-### 1. Darling Ingredients (DAR) — PREFERRED
-**Sector:** Renewable Fuels / Waste-to-Energy  
-**Signal Strength:** High — golden cross with strong earnings momentum
-
-**Fundamentals:**
-- Q1 2026 EPS: $0.83 (beat $0.59 estimate by 41%)
-- Net income swung from -$26.2M (Q1 2025) to +$134.3M (Q1 2026)
-- Combined Adj. EBITDA: $406.8M vs $195.8M — more than doubled YoY
-- Revenue: $1.55B (slight miss vs $1.56B consensus — acceptable)
-- Net Debt: $4.01B at 3.17x leverage (elevated but manageable given EBITDA trajectory)
-- Analyst avg. price target: $65.63 (range $50–$78)
-
-**Thesis:** Dramatic earnings turnaround driven by Diamond Green Diesel (DGD) JV ramp to 320M gallon run rate. Biofuel policy tailwinds, improving margins, and a technical golden cross on strong volume. This is a real business with improving cash flows — not just a chart story. Leverage is the primary risk.
-
-**Risk:** High net debt; policy changes to biofuel subsidies/blending mandates.
+Fully liquid. Ready to deploy.
 
 ---
 
-### 2. Sun Communities (SUI) — SECONDARY
-**Sector:** REIT — Manufactured Housing / RV Parks  
-**Signal Strength:** Medium — golden cross in a defensive, income-generating asset
+## Intelligence-Enhanced Candidates
 
-**Fundamentals:**
-- Q1 2026 Core FFO: $1.40/share
-- FY2026 Core FFO guidance raised to $6.87–$6.97 (midpoint $6.97)
-- Same-property NOI growth: +6.3% YoY
-- Blended occupancy: 98.7% (near-full)
-- Net Debt/Recurring EBITDA: 3.7x (conservative for a REIT)
-- Dividend: $1.12/quarter → $4.48 annualized (~3.5% yield)
-- Barclays: Overweight, target raised to $148
+### Rank 1: NEM (Newmont Corporation) — Score: 17/20 — ⭐ STRONG BUY
 
-**Thesis:** Best-in-class manufactured housing REIT with nearly full occupancy, raised guidance, and a clean balance sheet. A golden cross here signals institutional accumulation in a defensive, inflation-protected asset. Dividend provides downside cushion.
-
-**Risk:** Rate sensitivity (REIT); limited upside vs pure growth plays.
+**Sector:** Materials / Gold Mining | **Market Cap:** ~$88B | **Avg Volume:** >8M shares/day
 
 ---
 
-### 3. Wave Life Sciences (WVE) — PASS
-**Sector:** Clinical-Stage Biotechnology  
-**Signal Strength:** Medium technically, but fundamentals disqualify
+**Technical Setup (7/7)**
 
-**Fundamentals:**
-- Q1 2026 Revenue: $38.2M (up from $9.2M — primarily milestone/collaboration payments, not product sales)
-- Net loss: $26.1M in Q1; TTM loss ~$183.6M
-- Cash: $544.6M, runway to Q3 2028
-- Key catalysts: FDA Phase 2a INLIGHT trial acceptance (WVE-007, obesity); AATD data in May 2026
+| Signal | Value | Score |
+|--------|-------|-------|
+| Golden Cross | 50MA $119 > 200MA $98 ✓ | +3 |
+| 50MA Pullback | Price ~$111 (-7% below 50MA) → RSI 28.8 (OVERSOLD) | +2 |
+| Volume Confirmation | Unusual call options +91% above avg daily volume | +2 |
 
-**Why passing:** Revenue is not recurring — it's driven by partnership milestones. The company is pre-commercial with significant binary event risk around upcoming AATD data. A golden cross on a clinical-stage biotech is often a reaction to news, not sustainable momentum. Risk/reward doesn't meet quality threshold with a $100k portfolio.
+Price has pulled back below the 50MA after the April 23 earnings surge — a classic "gap-and-fill" that creates a low-risk re-entry. RSI at 28.8 is deeply oversold and historically precedes bounces in quality names.
 
 ---
 
-## Watchlist Priority
+**Fundamentals (5/7)**
 
-| Rank | Ticker | Action | Rationale |
-|------|--------|--------|-----------|
-| 1 | DAR | **Watch for entry** | Earnings momentum + golden cross + biofuel tailwind |
-| 2 | SUI | **Watch for pullback** | Defensive quality, raised guidance, dividend |
-| 3 | WVE | Pass | Pre-commercial biotech; too binary |
+| Metric | Value | Score |
+|--------|-------|-------|
+| Q1 Revenue | $7.31B (+45.9% YoY) | +3 |
+| Q1 EPS | $2.90 vs $2.07 estimate (+40% beat) | +2 |
+| Guidance | Reaffirmed (5.3Moz 2026 target) — not raised | 0 |
+
+Additional context:
+- Record quarterly FCF: **$3.1 billion** in Q1 2026
+- New **$6.0B share buyback** authorization (completing prior $6B program)
+- Gold price outlook: Goldman Sachs targets $5,400/oz by end-2026 (currently ~$3,200–3,500)
+- 2026 production: ~5.3M gold ounces reaffirmed
 
 ---
 
-## Notes for Next Session
+**News Sentiment (3/3 → +3 Very Positive)**
 
-- Confirm DAR entry if price holds above 50-day MA on intraday chart
-- For SUI, a 2–3% pullback toward the 50-day MA would improve R/R
-- Re-evaluate WVE only after AATD Phase 2 data release (May 2026)
-- Monitor SPY: if it closes below $657 (200MA), shift to defensive/cash posture
+Last 7 days headlines:
+- "Newmont Stock Surges After Massive Q1 Beat And $6B Buyback" — StocksToTrade
+- "Newmont (NEM) Announces Earnings Results, Beats Expectations By $0.83 EPS" — Markets Daily
+- "Analysts Tip Newmont Mining Stock (NEM) to Extend Gains in 2026" — TipRanks
+- Risk note: Q2 gold production will be temporarily lower (Cadia mine earthquake + Ghana royalty cost +$25/oz)
+- Geopolitical safe-haven demand from Hormuz crisis = additional tailwind
+
+**Overall: Very Positive**
+
+---
+
+**Social Sentiment (1/1 → +1 Bullish)**
+
+- Reddit sentiment score: **76/100** (Bullish, trending higher vs 30-day MA)
+- Quality: High — institutional and fundamental analysis dominating (not meme activity)
+- No meme stock characteristics detected ✅
+- Twitter/X: Positive discussion around gold supercycle thesis
+
+---
+
+**Insider & Institutional Signals (2/4)**
+
+| Signal | Detail | Score |
+|--------|--------|-------|
+| Insider Buying | None in last 30 days (only selling) | 0 |
+| Institutional Accumulation | Norges Bank new stake $919M; Van ECK +5.6M shares | +1 |
+| Unusual Options Activity | 67,628 call options on 1 day (+91% above avg 35,433) | +1 |
+
+⚠️ **Red flag:** Insider selling only. No C-suite buying. However, massive institutional accumulation offsets this.
+
+---
+
+**Macro/Timing (2/2)**
+
+| Factor | Status | Score |
+|--------|--------|-------|
+| Sector Momentum | Materials #1 sector YTD (+22%) | +1 |
+| Earnings Safety | Q1 already reported April 23; Q2 ~July 2026 | +1 |
+
+---
+
+**Composite Score: 17/20 → STRONG BUY**
+
+**Catalysts & Risks:**
+- Next earnings: ~July 2026 (safe — >10 weeks away)
+- Upcoming: 2026 gold production guidance update, gold price momentum
+- Key risks: (1) Cadia mine Q2 production dip (temporary), (2) Ghana royalty regime (+$25/oz structural cost), (3) Insider selling, (4) Hormuz crisis de-escalation would reduce gold safe-haven premium
+
+**Entry Plan:**
+
+| Parameter | Value |
+|-----------|-------|
+| Ideal Entry Zone | $108–$114 (current oversold area, near/below 50MA) |
+| Stop Loss | $103 (-7% from $111 midpoint) |
+| Take Profit (near-term) | $124 (+12%) |
+| Take Profit (analyst consensus) | $145–$151 (+31–36%) |
+| Position Size | ~162 shares (~$17,982 ≈ 18% of portfolio) |
+| Max Portfolio Risk | ~$1,295 (-1.3% of total portfolio) |
+
+---
+
+### Rank 2: STX (Seagate Technology Holdings) — Score: 14/20 — BUY (Conditional Entry)
+
+**Sector:** Technology / Data Storage | **Market Cap:** ~$130B | **Avg Volume:** >5M shares/day
+
+---
+
+**Technical Setup (4/7)**
+
+| Signal | Value | Score |
+|--------|-------|-------|
+| Golden Cross | 50MA $454 > 200MA $357 ✓ | +3 |
+| 50MA Pullback | Price ~$650–720, well above 50MA (+43–58%) — NOT a pullback | 0 |
+| Volume Confirmation | Earnings-driven volume (not sustained pattern) | +1 |
+
+**⚠️ Entry caveat:** STX is at or near all-time highs ($728 on May 1). The ideal entry is on a pullback toward the $550–$600 range (closer to 50MA). **Do not chase the ATH.** Technical score reflects extended price, not a disqualifying signal — the underlying trend is firmly bullish.
+
+---
+
+**Fundamentals (7/7)**
+
+| Metric | Value | Score |
+|--------|-------|-------|
+| Q3 FY2026 Revenue | $3.11B (+44% YoY) | +3 |
+| Q3 FY2026 Non-GAAP EPS | $4.10 vs $3.50 estimate (+17% beat) | +2 |
+| Q4 FY2026 Guidance | Revenue $3.45B; EPS $5.00 (raised annual growth target to 20%+) | +2 |
+
+Additional context:
+- Non-GAAP gross margin: 47.0% (record)
+- Free cash flow: ~$1 billion in Q3 alone
+- CEO Dave Mosley: "Record margin performance, exceeding the high end of revenue and EPS guidance"
+- Goldman Sachs raised price target from $385 → $700
+- AI data center demand driving HDD storage supercycle
+
+---
+
+**News Sentiment (3/3 → +3 Very Positive)**
+
+Last 7 days:
+- "Seagate delivers outstanding March quarter results, exceeding high end of guidance, achieving record margin performance" — CEO
+- "Seagate (STX) Q3 2026 Earnings: Beats Estimates with Record Margins" — Tickeron
+- "Goldman Sachs Group boosted target price from $385.00 to $700.00" — TickerReport
+- AI data center storage demand thesis intact and accelerating
+
+**Overall: Very Positive**
+
+---
+
+**Social Sentiment (1/1 → +1 Bullish)**
+
+- Stock surging +600% YoY, +100% YTD — strong retail and institutional interest
+- AI/data storage narrative has broad appeal
+- Quality: High — fundamental AI infrastructure thesis, not meme activity ✅
+
+---
+
+**Insider & Institutional Signals (1/4)**
+
+| Signal | Detail | Score |
+|--------|--------|-------|
+| Insider Buying | **0 purchases vs 140 sales in last 6 months** | 0 |
+| Institutional | All top 10 institutional holders added positions Q4 2025 | +1 |
+| Unusual Options | Not specifically noted | 0 |
+
+⚠️ **Major red flag:** Insiders have sold 111,550 shares worth $46.5M in last 90 days with ZERO purchases. This is a significant concern at current elevated price levels. Institutional buying offsets partially but insider signal is clearly bearish.
+
+---
+
+**Macro/Timing (1/2)**
+
+| Factor | Status | Score |
+|--------|--------|-------|
+| Sector Momentum | Tech sector in "Lagging" quadrant (negative) | 0 |
+| Earnings Safety | Q3 reported April 28; Q4 ~July 2026 | +1 |
+
+---
+
+**Composite Score: 14/20 → BUY (Conditional — wait for pullback)**
+
+**Catalysts & Risks:**
+- Next earnings: Q4 FY2026 ~July 2026 (safe — >10 weeks away)
+- Key catalyst: AI data center HDD demand continues to outpace SSD for large-scale storage
+- Key risks: (1) All insiders selling (major concern), (2) Price extended well above 50MA, (3) Tech sector in lagging quadrant, (4) If AI capex slowdown hits, HDD demand drops sharply
+
+**Entry Plan:**
+
+| Parameter | Value |
+|-----------|-------|
+| Current Price | ~$650–720 (near ATH) — DO NOT ENTER YET |
+| Ideal Entry Zone | $560–$620 (5–10% pullback toward 50MA support) |
+| Stop Loss | $520 (-7% from $560 entry) |
+| Take Profit | $700+ (new all-time high zone, +13%) |
+| Position Size | ~28 shares at $630 midpoint = ~$17,640 (~18% of portfolio) |
+| Trigger | Wait for 2-day close below $640 before entering |
+
+---
+
+### Rank 3: COP (ConocoPhillips) — Score: 8/20 — WATCH
+
+**Sector:** Energy / E&P | **Market Cap:** ~$145B
+
+**Summary of scores:**
+- Technical: 4/7 (golden cross ✓, but price 18% above 50MA — extended)
+- Fundamentals: 2/7 (EPS beat +17%, but net income fell 21% YoY)
+- News: 0/3 (mixed — beat but earnings declining, CEO selling)
+- Social: 0/1 (neutral)
+- Insider/Institutional: 1/4 (CEO sold $15M, SVP sold; only small institutional additions)
+- Macro: 2/2 (energy tailwind from Hormuz, no earnings)
+
+**Score: 8/20 → WATCH. Not actionable today.**
+
+Why not a Buy: CEO Ryan Lance sold $15M (113K shares) — the most bearish insider signal possible. Price is 18% above 50MA with no pullback. Technical indicators show 10 sell signals vs 1 buy signal. Despite Hormuz tailwinds, this setup lacks the technical pullback entry required.
+
+Monitor for: Pullback to 50MA ($102–$105 range). If CEO selling stops and price retraces, re-evaluate.
+
+---
+
+## Disqualified Candidates
+
+| Ticker | Reason |
+|--------|--------|
+| EOG | Earnings reporting tomorrow May 5 (within 2-week rule) |
+| AMD | Earnings this week |
+| ARM | Earnings this week |
+| PLTR | Earnings tonight |
+| WVE | Pre-commercial biotech (prior scan) |
+
+---
+
+## Prior Watchlist Status Update
+
+| Ticker | Prior Entry Zone | Status | Action |
+|--------|-----------------|--------|--------|
+| DAR (Darling Ingredients) | $57.96–$60.86 | Price $63.78, above zone | Continue monitoring |
+| SUI (Sun Communities) | Pullback to 50MA | ~$130, watching | Continue monitoring |
+
+DAR and SUI remain valid — no entry triggered. NEM now takes priority given stronger intelligence score and active setup.
+
+---
+
+## Watchlist Priority (Updated)
+
+| Rank | Ticker | Score | Rating | Action |
+|------|--------|-------|--------|--------|
+| 1 | **NEM** | 17/20 | ⭐ STRONG BUY | Enter $108–$114 now (oversold bounce) |
+| 2 | **STX** | 14/20 | BUY | Wait for pullback to $560–$620 |
+| 3 | DAR | Prior scan | WATCH | Await pullback to $57.96–$60.86 |
+| 4 | SUI | Prior scan | WATCH | Await pullback to 50MA |
+| 5 | COP | 8/20 | WATCH | Not actionable; monitor |
+
+---
+
+## Key Macro Risks for Week
+
+1. **Strait of Hormuz escalation** — Could spike VIX >20; if so, reduce position sizing by 50%
+2. **EOG, AMD, ARM, PLTR earnings** — Results could move entire tech/energy sectors; wait for reactions
+3. **Oil at $106+** — Stagflation risk if sustained; monitor for Fed response commentary
+4. **SPY regime check** — If SPY closes below $657 (200MA), shift to full defensive/cash posture
+
+---
+
+## Session Notes
+
+- Analysis run: 2026-05-04 (pre-market / early session)
+- Sources: Web search across 25+ financial data points
+- Candidates screened: EOG (disqualified), NEM ✓, FCX (guidance cut), COP (CEO selling), STX ✓
+- Final recommendations: 2 stocks meet ≥12 threshold; 1 is WATCH
