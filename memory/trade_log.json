@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "date": "2026-05-04",
+    "action": "NO_ENTRY",
+    "symbol": "DAR",
+    "reason": "Price $63.61 is 9.75% above 50-day MA ($57.96) — exceeds 5% pullback proximity threshold",
+    "current_price": 63.61,
+    "ma_50": 57.96,
+    "pct_above_50ma": 9.75,
+    "entry_threshold_pct": 5.0,
+    "market_regime": "BULLISH",
+    "spy_price": 679.46,
+    "spy_200ma": 657.54,
+    "notes": "DAR fundamentals remain compelling (Q1 2026 EPS $0.83 vs $0.59 est, golden cross confirmed). Awaiting pullback toward 50MA (~$57.96–$60.86 zone) for entry. Will re-evaluate if price retraces. Analyst avg target $65.63.",
+    "would_be_plan": {
+      "position_size_usd": 18000.0,
+      "shares": 282,
+      "stop_loss": 59.16,
+      "take_profit": 71.24,
+      "position_pct_of_portfolio": 18.0
+    }
+  }
+]
