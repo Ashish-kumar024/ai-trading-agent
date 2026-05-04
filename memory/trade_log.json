@@ -19,5 +19,38 @@
       "take_profit": 71.24,
       "position_pct_of_portfolio": 18.0
     }
+  },
+  {
+    "date": "2026-05-04",
+    "action": "MARKET_OPEN_SCAN",
+    "routine": "market_open_execution",
+    "symbol": "DAR",
+    "decision": "NO_ENTRY",
+    "reason": "Price too far from 50MA — DAR at $63.61 is 9.74% above 50-day MA ($57.96); entry threshold is ≤5%",
+    "checks": {
+      "market_regime": "BULLISH",
+      "spy_price": 679.46,
+      "spy_200ma": 657.54,
+      "spy_above_200ma": true,
+      "top_opportunity": "DAR",
+      "conviction": "Watch for entry",
+      "current_price": 63.61,
+      "ma_50": 57.96,
+      "pct_above_50ma": 9.74,
+      "within_5pct_of_50ma": false
+    },
+    "hypothetical_plan": {
+      "portfolio_value": 100000.0,
+      "position_size_pct": 18.0,
+      "position_size_usd": 18000.0,
+      "entry_price": 63.61,
+      "shares": 283,
+      "stop_loss": 59.16,
+      "stop_loss_pct": -7.0,
+      "take_profit": 71.24,
+      "take_profit_pct": 12.0
+    },
+    "entry_zone": "Price must retrace to $57.96–$60.86 (50MA to 50MA+5%) to trigger entry",
+    "notes": "All regime conditions met. Fundamentals strong (golden cross, Q1 EPS beat +41%, EBITDA doubled YoY). Waiting on price pullback. Will monitor at end-of-day and pre-market tomorrow."
   }
 ]
