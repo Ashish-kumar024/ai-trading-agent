@@ -1,6 +1,44 @@
 # Market Context
 
-## Last Updated: 2026-05-04 (Pre-Market)
+## Last Updated: 2026-05-04 (Midday Check)
+
+---
+
+## Midday Risk Management Check — 2026-05-04
+
+**Run Time:** Midday (automated)
+**Checked By:** AI Trading Agent
+
+### Portfolio Health Summary
+
+| Metric | Value |
+|--------|-------|
+| Cash | $100,000.00 |
+| Open Positions | **0** |
+| Total Value | $100,000.00 |
+| At-Risk Positions | None |
+| Stop-Loss Flags | None |
+
+### Positions Checked
+
+> **No active positions to monitor.**
+> Portfolio is 100% cash. No P&L calculations, stop-loss checks, or trailing stop adjustments required.
+
+### Risk Flags
+
+- None — fully liquid, no exposure.
+
+### Recommended Actions
+
+1. **DAR** — Still watching for pullback entry. No new signal since pre-market scan. Price was 9.75% above 50MA at last check ($63.61 vs 50MA $57.96). Entry zone remains $57.96–$60.86. No action until price retraces.
+2. **SUI** — Secondary watchlist. No entry signal triggered. Hold observation posture.
+3. **SPY** — Regime still BULLISH ($679.46 vs 200MA $657.54). No regime change.
+
+### Next Check
+
+- End-of-day review: scan for DAR/SUI pullback signals, reassess SPY regime.
+
+---
 
 ---
 
