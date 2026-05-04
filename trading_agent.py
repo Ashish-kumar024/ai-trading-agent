@@ -13,7 +13,6 @@ Memory Architecture:
 
 import os
 import json
-import anthropic
 from datetime import datetime, timedelta
 from pathlib import Path
 
@@ -124,8 +123,30 @@ class MemoryManager:
         
         # Commit to git
         os.system(f'git add {path}')
-        os.system(f'git commit -m "Trade logged: {trade_data.get(\'symbol\', \'unknown\')}"')
+        symbol = trade_data.get('symbol', 'unknown')
+        os.system(f'git commit -m "Trade logged: {symbol}"')
     
+    def log_performance(self, record):
+        """Append daily performance record"""
+        path = self.memory_dir / "performance_log.json"
+        if path.exists():
+            logs = json.loads(path.read_text())
+        else:
+            logs = []
+        logs.append(record)
+        path.write_text(json.dumps(logs, indent=2))
+        os.system(f'git add {path}')
+        date_str = record["date"]
+        os.system(f'git commit -m "Performance logged: {date_str}"')
+
+    def save_eod_summary(self, summary):
+        """Save end-of-day summary markdown"""
+        path = self.memory_dir / "eod_summary.md"
+        path.write_text(summary)
+        os.system(f'git add {path}')
+        date_str = datetime.now().strftime('%Y-%m-%d')
+        os.system(f'git commit -m "EOD summary: {date_str}"')
+
     def load_market_context(self):
         """Load current market regime assessment"""
         path = self.memory_dir / "market_context.md"
@@ -197,6 +218,7 @@ class TradingAI:
     """Claude-powered trading analysis"""
     
     def __init__(self, api_key=None):
+        import anthropic
         self.client = anthropic.Anthropic(api_key=api_key or os.environ.get("ANTHROPIC_API_KEY"))
         self.model = "claude-sonnet-4-20250514"
     
@@ -620,43 +642,141 @@ def midday_check_routine():
 def market_close_routine():
     """
     3:00 PM - End of day logging and summary
-    
+
     Tasks:
-    1. Update all position prices
+    1. Update all position prices from Alpaca
     2. Calculate daily P&L
-    3. Log all trades
-    4. Send summary notification
+    3. Log performance
+    4. Generate end-of-day summary
     """
-    print("🌆 MARKET CLOSE ROUTINE STARTING")
+    print("MARKET CLOSE ROUTINE STARTING")
     print("=" * 60)
-    
+
     memory = MemoryManager()
     portfolio = memory.load_portfolio()
-    
-    print(f"\n📊 End of Day Summary:")
-    print(f"Date: {datetime.now().strftime('%Y-%m-%d')}")
-    print(f"Total Value: ${portfolio['total_value']:,.2f}")
-    print(f"Cash: ${portfolio['cash']:,.2f}")
-    
+    today = datetime.now().strftime('%Y-%m-%d')
     positions = portfolio.get('positions', [])
-    print(f"Active Positions: {len(positions)}")
-    
-    if positions:
-        total_pnl = 0
+    alpaca_available = False
+
+    # Step 1: Update position prices from Alpaca
+    print("\nStep 1: Updating position prices from Alpaca...")
+    try:
+        from alpaca_client import AlpacaClient
+        alpaca = AlpacaClient(paper=True)
+        account = alpaca.get_account()
+        alpaca_positions = alpaca.get_positions()
+        alpaca_map = {p['symbol']: p for p in alpaca_positions}
+
         for pos in positions:
-            pnl = pos.get('pnl', 0)
-            total_pnl += pnl
-            print(f"  {pos['symbol']}: {pnl:+.2f}%")
-        
-        print(f"\nTotal Unrealized P&L: {total_pnl:+.2f}%")
-    
-    # In full implementation:
-    # - Fetch final prices from Alpaca
-    # - Calculate exact P&L
-    # - Send notification via Slack/Email
-    
+            symbol = pos['symbol']
+            if symbol in alpaca_map:
+                ap = alpaca_map[symbol]
+                pos['current_price'] = float(ap['current_price'])
+                pos['pnl_dollars'] = float(ap['unrealized_pl'])
+                pos['pnl'] = float(ap['unrealized_plpc']) * 100
+                print(f"  {symbol}: ${pos['current_price']:.2f} ({pos['pnl']:+.2f}%)")
+            else:
+                entry = pos.get('entry_price', 0)
+                current = pos.get('current_price', entry)
+                pos['pnl_dollars'] = (current - entry) * pos.get('shares', 0)
+                pos['pnl'] = ((current - entry) / entry * 100) if entry else 0
+                print(f"  {symbol}: not in Alpaca, using stored price ${current:.2f}")
+
+        portfolio['cash'] = float(account['cash'])
+        portfolio['total_value'] = float(account['portfolio_value'])
+        alpaca_available = True
+        print(f"  Account value: ${portfolio['total_value']:,.2f}  Cash: ${portfolio['cash']:,.2f}")
+
+    except ValueError as e:
+        print(f"  Alpaca keys not configured ({e}) — using stored data.")
+    except Exception as e:
+        print(f"  Alpaca unavailable ({e}) — using stored data.")
+
+    # Recompute position P&L from stored prices when Alpaca is unavailable
+    if not alpaca_available:
+        for pos in positions:
+            entry = pos.get('entry_price', 0)
+            current = pos.get('current_price', entry)
+            pos.setdefault('pnl_dollars', (current - entry) * pos.get('shares', 0))
+            pos.setdefault('pnl', ((current - entry) / entry * 100) if entry else 0)
+
+    # Step 2: Calculate daily P&L
+    print("\nStep 2: Calculating daily P&L...")
+    inception_value = portfolio.get('inception_value', 100000.0)
+    total_value = portfolio['total_value']
+    total_pnl_dollars = total_value - inception_value
+    total_pnl_pct = (total_pnl_dollars / inception_value) * 100
+    unrealized_pnl = sum(pos.get('pnl_dollars', 0) for pos in positions)
+
+    print(f"  Inception value:  ${inception_value:,.2f}")
+    print(f"  Current value:    ${total_value:,.2f}")
+    print(f"  Total P&L:        ${total_pnl_dollars:+,.2f} ({total_pnl_pct:+.2f}%)")
+    print(f"  Unrealized P&L:   ${unrealized_pnl:+,.2f}")
+
+    # Step 3: Log performance
+    print("\nStep 3: Logging performance...")
+    perf_record = {
+        "date": today,
+        "timestamp": datetime.now().isoformat(),
+        "total_value": round(total_value, 2),
+        "cash": round(portfolio['cash'], 2),
+        "positions_count": len(positions),
+        "total_pnl_dollars": round(total_pnl_dollars, 2),
+        "total_pnl_pct": round(total_pnl_pct, 4),
+        "unrealized_pnl_dollars": round(unrealized_pnl, 2),
+        "alpaca_data": alpaca_available,
+    }
+    memory.log_performance(perf_record)
+    memory.save_portfolio(portfolio)
+    print("  Performance record and portfolio saved.")
+
+    # Step 4: Generate end-of-day summary
+    print("\nStep 4: Generating end-of-day summary...")
+    lines = [
+        f"# End-of-Day Summary — {today}",
+        f"",
+        f"**Generated**: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}",
+        f"**Data Source**: {'Alpaca Live' if alpaca_available else 'Stored Portfolio'}",
+        f"",
+        f"## Portfolio Overview",
+        f"| Metric | Value |",
+        f"|--------|-------|",
+        f"| Total Value | ${total_value:,.2f} |",
+        f"| Cash | ${portfolio['cash']:,.2f} |",
+        f"| Active Positions | {len(positions)} |",
+        f"| Total P&L (inception) | ${total_pnl_dollars:+,.2f} ({total_pnl_pct:+.2f}%) |",
+        f"| Unrealized P&L | ${unrealized_pnl:+,.2f} |",
+        f"",
+    ]
+
+    if positions:
+        lines += [
+            "## Positions",
+            "| Symbol | Entry | Current | P&L $ | P&L % |",
+            "|--------|-------|---------|-------|-------|",
+        ]
+        for pos in positions:
+            entry = pos.get('entry_price', 0)
+            current = pos.get('current_price', entry)
+            pnl_d = pos.get('pnl_dollars', 0)
+            pnl_p = pos.get('pnl', 0)
+            lines.append(f"| {pos['symbol']} | ${entry:.2f} | ${current:.2f} | ${pnl_d:+,.2f} | {pnl_p:+.2f}% |")
+        lines.append("")
+    else:
+        lines += ["## Positions", "", "_No active positions._", ""]
+
+    lines += [
+        "## Notes",
+        f"- Routine completed at {datetime.now().strftime('%H:%M:%S')}",
+        "- Next action: Pre-market routine at 6:00 AM",
+    ]
+
+    summary = "\n".join(lines)
+    memory.save_eod_summary(summary)
+
+    print("\n" + summary)
     print("\n" + "=" * 60)
-    print("✅ MARKET CLOSE ROUTINE COMPLETE")
+    print("MARKET CLOSE ROUTINE COMPLETE")
 
 
 def weekly_review_routine():
