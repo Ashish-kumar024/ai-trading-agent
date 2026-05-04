@@ -1,12 +1,12 @@
 # Market Context
 
-## Last Updated: 2026-05-04 (Midday Check)
+## Last Updated: 2026-05-04 (Midday Check #2 — ~12:00)
 
 ---
 
 ## Midday Risk Management Check — 2026-05-04
 
-**Run Time:** Midday (automated)
+**Run Time:** Midday (automated — second pass)
 **Checked By:** AI Trading Agent
 
 ### Portfolio Health Summary
@@ -26,17 +26,25 @@
 
 ### Risk Flags
 
-- None — fully liquid, no exposure.
+- None — fully liquid, no market exposure.
+
+### Watchlist Price Update (Midday)
+
+| Symbol | Last Price | 50MA | % vs 50MA | Entry Zone | Status |
+|--------|-----------|------|-----------|------------|--------|
+| DAR | $63.78 | $57.96 | +10.0% above | $57.96–$60.86 | ⏳ Awaiting pullback |
+| SUI | ~$130.05 | — | — | Pullback to 50MA | ⏳ Monitoring |
+| SPY | $720.19 | — | +9.5% vs 200MA | — | ✅ BULLISH regime |
 
 ### Recommended Actions
 
-1. **DAR** — Still watching for pullback entry. No new signal since pre-market scan. Price was 9.75% above 50MA at last check ($63.61 vs 50MA $57.96). Entry zone remains $57.96–$60.86. No action until price retraces.
-2. **SUI** — Secondary watchlist. No entry signal triggered. Hold observation posture.
-3. **SPY** — Regime still BULLISH ($679.46 vs 200MA $657.54). No regime change.
+1. **DAR** — Price holding near $63.78, approximately +10% above 50MA ($57.96). Entry zone ($57.96–$60.86) remains untriggered. No action. Continue monitoring for pullback.
+2. **SUI** — No updated intraday price available; last known ~$130.05 (mid-April). Continue watching for 2–3% pullback toward 50MA. No entry signal.
+3. **SPY** — Regime confirmed BULLISH. SPY at $720.19 vs 200MA ~$657.54 (+9.5%). Market note: mild intraday weakness attributed to Iran geopolitical uncertainty; no regime threat at current levels.
 
 ### Next Check
 
-- End-of-day review: scan for DAR/SUI pullback signals, reassess SPY regime.
+- End-of-day review: confirm DAR/SUI closing prices, reassess SPY regime vs 200MA, update watchlist notes.
 
 ---
 
@@ -46,12 +54,12 @@
 
 | Metric | Value |
 |--------|-------|
-| SPY Price | $679.46 |
-| SPY 200-Day MA | $657.54 |
-| Spread | +$21.92 (+3.3%) |
+| SPY Price | $720.19 (midday, 2026-05-04) |
+| SPY 200-Day MA | ~$657.54 (last confirmed) |
+| Spread | +$62.65 (+9.5%) |
 | Regime | **BULLISH** |
 
-SPY is trading well above its 200-day moving average with all moving averages (MA5–MA200) showing Buy signals. Macro backdrop supports risk-on positioning.
+SPY has risen from $679.46 (morning open scan) to $720.19 at midday — a significant move. All trend signals remain bullish. Intraday dip attributed to Iran uncertainty is minor and does not threaten the macro regime. 200MA support at ~$657.54 is well below current price.
 
 ---
 
