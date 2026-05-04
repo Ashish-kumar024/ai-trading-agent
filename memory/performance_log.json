@@ -1,0 +1,13 @@
+[
+  {
+    "date": "2026-05-04",
+    "timestamp": "2026-05-04T05:34:23.927047",
+    "total_value": 100000.0,
+    "cash": 100000.0,
+    "positions_count": 0,
+    "total_pnl_dollars": 0.0,
+    "total_pnl_pct": 0.0,
+    "unrealized_pnl_dollars": 0,
+    "alpaca_data": true
+  }
+]
