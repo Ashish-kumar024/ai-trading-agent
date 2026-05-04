@@ -775,6 +775,16 @@ def market_close_routine():
     memory.save_eod_summary(summary)
 
     print("\n" + summary)
+
+    # Auto-commit everything produced by this run
+    timestamp = datetime.now().strftime('%Y-%m-%d %H:%M')
+    os.system('git add -A')
+    result = os.system(f'git commit -m "Market close routine: {timestamp}"')
+    if result == 0:
+        print("\nAuto-committed all changes to git.")
+    else:
+        print("\nNothing new to commit (all changes already committed).")
+
     print("\n" + "=" * 60)
     print("MARKET CLOSE ROUTINE COMPLETE")
 
