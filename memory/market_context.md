@@ -1,5 +1,84 @@
 # Market Context
 
+## Last Updated: 2026-05-05 (EOD Close — ~16:00 ET)
+
+---
+
+## EOD Market Close — 2026-05-05
+
+**Run Time:** End of Day
+**Checked By:** AI Trading Agent
+
+---
+
+### Portfolio Health — EOD
+
+| Metric | Value |
+|--------|-------|
+| Cash | $100,000.00 |
+| Open Positions | **0** |
+| Total Value | $100,000.00 |
+| Daily P&L | $0.00 (0.00%) |
+| Stop-Loss Flags | None |
+
+> **No active positions — portfolio 100% cash. No trade executions today.**
+
+---
+
+### Market Regime — EOD
+
+| Index | Move | Notes |
+|-------|------|-------|
+| S&P 500 (SPY est.) | +0.55–0.77% | Regime BULLISH — above 200MA by ~10% |
+| Nasdaq | +0.70–1.00% | Tech leading; AI/chip momentum |
+| Russell 2000 | Mixed (-0.60% to +1.39%) | Small-cap lagging — divergence noted |
+| Oil (WTI) | $104.10 (-2.22%) | Easing — Iran diplomatic signals |
+| Oil (Brent) | $112.90 (-1.38%) | Still elevated above $110 |
+| Fed Funds Rate | 3.5%–3.75% | Third consecutive hold |
+| PCE (Inflation) | 3.5% YoY | Running hot; stable |
+| GDPNow Q2 | +3.5% | Economy resilient |
+
+**Regime: BULLISH** — SPY holding well above 200MA (~$657.54). No regime threat. All conditions favor selective long entries when price criteria are met.
+
+---
+
+### Watchlist — EOD Prices
+
+| Symbol | Est. EOD Price | 50MA | % vs 50MA | Entry Zone | Status |
+|--------|---------------|------|-----------|------------|--------|
+| DAR | ~$64–$66 | $57.96 | +10–14% above | $57.96–$60.86 | ⏳ EXTENDED — no entry |
+| SUI | ~$130.00 | N/A | N/A | 50MA pullback | ⏳ MONITORING |
+| PINS | ~+15% from $27–29 area | N/A | Gapped | Pullback to 50MA in 2–4 wks | 📋 WATCHLIST ADDED |
+| MU | ~$589 (52-wk high) | ~$422 | ~+40% | 50MA region | 📋 FUTURE WATCHLIST |
+
+**DAR:** Investor Day May 11 is the focal event. Stock likely bid pre-event. Post-event selloff could bring price toward $60.86 entry trigger. Monitor closely May 11–13.
+
+---
+
+### Key Events EOD
+
+| Event | Impact |
+|-------|--------|
+| PINS Q1 2026 blowout — Rev +18%, MAUs 631M, EPS +23% beat, $2B buyback | +15% today — watchlist candidate for pullback entry |
+| SHOP -7% — Rev beat, guidance disappointed | Classic beat-and-lower; sector caution |
+| PLTR 85% rev growth, EPS beat; stock sliding on valuation | Post-earnings weakness worth monitoring |
+| MU +5% — HBM chips sold out through 2026 | Strong AI thesis; too extended to buy |
+| TSN +2–3% Q2 earnings beat | Food sector resilient |
+| GME proposes $55.5B eBay acquisition | Special situation — no action |
+| Iran tensions: UAE intercepts, U.S. "still hopes for deal" | Oil easing; macro risk decreasing slightly |
+
+---
+
+### Next Session Priorities (May 6, Pre-Market)
+
+1. **DAR price confirmation** — confirm EOD print. Sub-$63 = developing pullback. Sub-$61 = near entry.
+2. **Oil check** — WTI direction determines DAR biofuel tailwind/headwind.
+3. **PINS settlement** — where does it open? Track toward 50MA for potential future entry.
+4. **MU watchlist decision** — full fundamental review to formalize candidacy.
+5. **May 11 DAR Investor Day prep** — finalize entry order parameters for post-event scenario.
+
+---
+
 ## Last Updated: 2026-05-05 (Midday Check — ~12:00)
 
 ---
