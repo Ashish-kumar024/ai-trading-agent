@@ -1,0 +1,17 @@
+{
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "Write",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "jq -r '.tool_input.file_path' | grep -q 'memory/market_context.md' && cd /home/user/ai-trading-agent && git add memory/ && git commit -m \"Auto-commit: pre-market analysis $(date +%Y-%m-%d)\" 2>/dev/null || true",
+            "timeout": 30,
+            "statusMessage": "Committing market context to git..."
+          }
+        ]
+      }
+    ]
+  }
+}
