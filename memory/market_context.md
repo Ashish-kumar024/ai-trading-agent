@@ -1,5 +1,156 @@
 # Market Context
 
+## Last Updated: 2026-05-05 (Midday Check — ~12:00)
+
+---
+
+## Midday Update — 2026-05-05 ~12:00
+
+**Run Time:** Midday
+**Checked By:** AI Trading Agent
+
+---
+
+### Part 1: Risk Management
+
+| Metric | Value |
+|--------|-------|
+| Cash | $100,000.00 |
+| Open Positions | **0** |
+| Total Value | $100,000.00 |
+| Stop-Loss Flags | None |
+| P&L | $0.00 |
+
+> **No active positions — no stop-loss monitoring, trailing stops, or P&L calculations required.**
+
+---
+
+### Part 2: Opportunity Scan (0 positions < 7 limit → FULL SCAN)
+
+#### Market Regime
+
+| Index | Move | Notes |
+|-------|------|-------|
+| S&P 500 | +0.55% | Edging higher |
+| Dow Jones | +0.55% | Steady |
+| Nasdaq | +0.70% | Tech leading |
+| Russell 2000 | -0.60% | Small-cap lagging |
+| Oil (WTI) | $104.10 (-2.22%) | Elevated but easing on Iran |
+| Oil (Brent) | $112.90 (-1.38%) | Still above $110 |
+
+**Macro backdrop:** Iran conflict continues; UAE intercepted missiles. Oil prices remain elevated but fading as tensions de-escalate slightly. Broader market shrugging off geopolitical risk — regime remains **BULLISH**.
+
+---
+
+#### Watchlist Status Update
+
+| Symbol | Prior Price | Est. Today | 50MA | Entry Zone | Status |
+|--------|-------------|------------|------|------------|--------|
+| DAR | $63.77 (May 1) | ~$66.29 est. | $57.96 | $57.96–$60.86 | ⏳ EXTENDED — +14% above 50MA |
+| SUI | $127.84 | ~$130.00 | N/A | Pullback to 50MA | ⏳ EXTENDED — moving away from 50MA |
+
+**DAR Notes:**
+- Price estimated ~$66.29 today (morning scan). Still well outside entry zone ($57.96–$60.86).
+- Notable: April 30 intraday dip to $58.00 briefly touched entry zone but price snapped back to $63.61 by close. No clean setup emerged.
+- **Key catalyst: DAR Investor Day on May 11.** Pre-event buying likely keeping stock elevated. Post-event pullback may be the entry opportunity.
+- **Oil tailwind:** WTI at $104.10 improves renewable diesel (RD) crack spreads → DAR's Diamond Green Diesel JV economics strengthening. Fundamental thesis reinforced.
+- **No entry until price retests $57.96–$60.86.**
+
+**SUI Notes:**
+- Now ~$130.00 vs prior check $127.84 (+$1.64, +1.28%). Moving *away* from 50MA, not toward it.
+- Analyst consensus: Buy, avg target $141.07 (+8.5% from current). Institutional accumulation visible.
+- **No entry signal — continue monitoring.**
+
+---
+
+#### Breaking News Scan (Last 6 Hours)
+
+| Event | Ticker | Impact |
+|-------|--------|--------|
+| Pinterest Q1 2026 blowout — Revenue +18%, MAUs 631M record, adj EPS $0.27 vs $0.22 est, $2B buyback | PINS | +15-17% today |
+| Shopify Q1 2026 — Rev $3.17B beat, EPS $0.45 vs $0.24, but guidance disappoints | SHOP | -7% |
+| Tyson Foods Q2 2026 — EPS $0.87 vs $0.76 (+14.5% beat), chicken/prepared foods strong | TSN | +2-3% |
+| Palantir Q1 2026 — 85% revenue growth, fastest since 2020 debut | PLTR | Strong |
+| Pfizer Q1 2026 — Earnings and revenue beat, 2026 guidance reaffirmed | PFE | +2.2% |
+| GameStop proposes $55.5B acquisition of eBay at $125/share (50% cash, 50% GME stock) | EBAY | +15%+ |
+| Apple in talks to add Intel as chip manufacturer (TSMC diversification) | AAPL/INTC | Modest move |
+| Micron hits new 52-week high ~$589 on AI/HBM demand (sold out through 2026) | MU | +5% |
+| Iran tensions continue — UAE intercepts missiles | Macro | Oil elevated |
+
+---
+
+#### New Opportunity Scoring
+
+**1. Pinterest (PINS) — ADD TO WATCHLIST**
+
+| Metric | Value |
+|--------|-------|
+| Q1 Revenue | $1.01B (+18% YoY, beat by 4.4%) |
+| Adj EBITDA | $207M (20% margin, +40bps YoY) |
+| MAUs | 631M (+11% YoY) — record high |
+| Adj EPS | $0.27 vs $0.22 est. (+23% beat) |
+| Q2 Guidance | $1.13B–$1.15B (+14–16%) |
+| Share Buyback | ~$2B YTD (109M shares @ ~$18 avg) |
+| Today's Move | +15–17% post-earnings |
+
+- **Assessment:** Strong fundamental quality — real revenue, improving margins, record users, massive buyback program. AI-powered advertising platform with accelerating international growth (+59% rest-of-world). Stock jumped too far today to enter. **Add to watchlist. Wait for pullback to 50MA after earnings gap settles (typically 2-4 weeks).**
+- **Score:** Technical 4/5 (momentum, post-earnings), Fundamental 4/5, News 5/5 → **Overall: 4.3/5 — HIGH INTEREST**
+
+**2. Tyson Foods (TSN) — MONITOR**
+
+| Metric | Value |
+|--------|-------|
+| Q2 EPS | $0.87 vs $0.76 (+14.5% beat) |
+| Revenue | $13.65B |
+| Chicken Segment | Strong (guidance $1.9B–$2.05B op. income) |
+| Beef Segment | Still in loss (known headwind) |
+| Stock Price | ~$65-68, near 52-week high $66.41 |
+
+- **Assessment:** Solid earnings quality driven by chicken and prepared foods. Beef drag is industry-wide. At 52-week highs, not in pullback zone. Would need confirmation of golden cross and pullback to 50MA. **Keep on radar — not a buy today.**
+- **Score:** Fundamental 3/5, Technical 2/5 (too extended), News 4/5 → **Overall: 3.0/5 — MONITOR**
+
+**3. Micron Technology (MU) — WATCH FOR FUTURE OPPORTUNITY**
+
+| Metric | Value |
+|--------|-------|
+| Recent Price | ~$560–$589 (52-week high range) |
+| 50-Day MA | ~$422 |
+| % Above 50MA | ~32–40% |
+| Catalyst | HBM chips sold out through 2026, AI data center demand |
+| Analyst View | Bullish price target hikes |
+
+- **Assessment:** Extraordinary AI tailwind — HBM (high-bandwidth memory) for AI accelerators is sold out through 2026. Fundamentally compelling. BUT trading ~32-40% above 50MA → completely outside our entry criteria. **Cannot enter now. Add to watchlist for any meaningful pullback toward the 50MA area.**
+- **Score:** Technical 1/5 (way extended), Fundamental 5/5, News 5/5 → **Overall: 3.7/5 — FUTURE WATCHLIST**
+
+**4. eBay (EBAY) — PASS**
+- M&A speculation (GameStop $55.5B bid). Special situation trade, not our golden cross/pullback strategy. At 52-week highs on M&A premium. Pass.
+
+---
+
+### Recommended Actions
+
+**EOD Today:**
+1. **DAR** — No action. Monitor close price. If below $63, pullback is developing. Watch for move toward $60.86 entry trigger.
+2. **SUI** — No action. Price rising away from 50MA. Patience.
+3. **PINS** — Note post-earnings settlement. Target pullback zone to 50MA in coming weeks (2–4 weeks typical).
+
+**Pre-Market Tomorrow (May 6):**
+1. Confirm DAR closing price. Any proximity to $63 or below is meaningful.
+2. Watch oil prices — WTI sustaining above $100 strengthens DAR biofuel thesis.
+3. Check if any Investor Day (May 11) preview upgrades for DAR emerge.
+4. PINS — track where it settles after today's gap.
+
+**May 11 (DAR Investor Day):**
+- HIGH PRIORITY EVENT. Post-event selloff is a common pattern ("sell the news").
+- If DAR sells off to $60.86 or below → potential entry trigger.
+- Prepare order parameters: 300 shares @ ~$60.00, stop $55.80 (-7%), target $67.20 (+12%).
+
+**Longer Term:**
+- PINS: Fundamental quality warrants deeper analysis if/when price pulls back 10–15% from today's level.
+- MU: Monitor for correction to the $450–$480 range (closer to 50MA).
+
+---
+
 ## Last Updated: 2026-05-05 (Market Open Execution Scan)
 
 ---
