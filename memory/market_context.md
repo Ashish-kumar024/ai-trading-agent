@@ -1,5 +1,58 @@
 # Market Context
 
+## Last Updated: 2026-05-05 (Market Open Execution Scan)
+
+---
+
+## Market Open Execution — 2026-05-05
+
+**Run Time:** Market Open
+**Checked By:** AI Trading Agent
+
+### Regime Check
+
+| Metric | Value | Status |
+|--------|-------|--------|
+| SPY Price | $720.19 (last confirmed midday 2026-05-04) | ✅ BULLISH |
+| SPY 200-Day MA | ~$657.54 | — |
+| SPY vs 200MA | +9.5% | ✅ Above threshold |
+
+Market regime: **BULLISH** — all conditions met for potential entries.
+
+### Top Opportunity: DAR (Darling Ingredients)
+
+| Metric | Value |
+|--------|-------|
+| Last Confirmed Price | $63.77 (May 1 close) |
+| Estimated Today | ~$66.29 (Fox Business: +$2.52) |
+| 50-Day MA | $57.96 |
+| % Above 50MA | ~10.0%–14.4% |
+| Entry Zone | $57.96–$60.86 (50MA to 50MA+5%) |
+| Entry Triggered? | ❌ NO — price too far above 50MA |
+
+**Decision: NO ENTRY**
+
+DAR is running higher, not pulling back. Fox Business data suggests the stock may be up ~$2.52 today, which would put price around $66.29 — roughly 14% above its 50-day MA. This is well outside the required 5% proximity window.
+
+**Notable catalyst:** DAR Investor Day scheduled for **May 11, 2026**. This may be drawing buyers and keeping the stock elevated in the near term. A pullback opportunity may emerge after the event.
+
+### Hypothetical Plan (if entry zone triggered)
+
+| Parameter | Value |
+|-----------|-------|
+| Portfolio Value | $100,000.00 |
+| Position Size (18%) | $18,000.00 |
+| Target Entry | ~$60.00 (mid entry zone) |
+| Shares | ~300 |
+| Stop Loss | $55.80 (-7%) |
+| Take Profit | $67.20 (+12%) |
+
+### Decision
+
+> **NO ENTRY TODAY.** DAR is 10–14% above its 50-day MA. Price must retrace to $57.96–$60.86 to trigger entry. All fundamental and regime conditions remain favorable — patience required.
+
+---
+
 ## Last Updated: 2026-05-04 (Midday Check #2 — ~12:00)
 
 ---

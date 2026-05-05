@@ -52,5 +52,43 @@
     },
     "entry_zone": "Price must retrace to $57.96–$60.86 (50MA to 50MA+5%) to trigger entry",
     "notes": "All regime conditions met. Fundamentals strong (golden cross, Q1 EPS beat +41%, EBITDA doubled YoY). Waiting on price pullback. Will monitor at end-of-day and pre-market tomorrow."
+  },
+  {
+    "date": "2026-05-05",
+    "action": "MARKET_OPEN_SCAN",
+    "routine": "market_open_execution",
+    "symbol": "DAR",
+    "decision": "NO_ENTRY",
+    "reason": "Price ~$63.77–$66.29 is 10–14% above 50-day MA ($57.96); entry threshold is ≤5% (price must reach ≤$60.86)",
+    "checks": {
+      "market_regime": "BULLISH",
+      "spy_price": 720.19,
+      "spy_200ma": 657.54,
+      "spy_above_200ma": true,
+      "top_opportunity": "DAR",
+      "conviction": "Watch for entry",
+      "current_price_confirmed": 63.77,
+      "current_price_note": "May 1 close; Fox Business indicates +$2.52 today (est. ~$66.29)",
+      "current_price_estimated": 66.29,
+      "ma_50": 57.96,
+      "pct_above_50ma_confirmed": 10.02,
+      "pct_above_50ma_estimated": 14.37,
+      "within_5pct_of_50ma": false,
+      "entry_zone_low": 57.96,
+      "entry_zone_high": 60.86
+    },
+    "hypothetical_plan": {
+      "portfolio_value": 100000.0,
+      "position_size_pct": 18.0,
+      "position_size_usd": 18000.0,
+      "entry_price_if_triggered": 60.0,
+      "shares_if_triggered": 300,
+      "stop_loss_if_triggered": 55.80,
+      "stop_loss_pct": -7.0,
+      "take_profit_if_triggered": 67.20,
+      "take_profit_pct": 12.0
+    },
+    "entry_zone": "$57.96–$60.86 (50MA to 50MA+5%)",
+    "notes": "DAR continuing to hold at elevated levels above 50MA. Q1 2026 earnings beat (+41% EPS) and Investor Day scheduled May 11 may be keeping the stock bid. Golden cross intact. Regime BULLISH (SPY $720.19 vs 200MA $657.54 = +9.5%). No entry until price pulls back to entry zone. Monitor for pullback, especially around or after May 11 Investor Day event. 52-week range: $29.15–$64.90."
   }
 ]
