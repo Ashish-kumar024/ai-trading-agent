@@ -1,5 +1,114 @@
 # Market Context
 
+## Last Updated: 2026-05-06 (EOD Close — ~16:00 ET)
+
+---
+
+## EOD Market Close — 2026-05-06
+
+**Run Time:** End of Day
+**Checked By:** AI Trading Agent
+
+---
+
+### Portfolio Health — EOD
+
+| Metric | Value |
+|--------|-------|
+| Cash | $100,000.00 |
+| Executed Positions | **0** |
+| Planned (Not Executed) | **1** — DAR (awaiting verification) |
+| Total Value | $100,000.00 |
+| Daily P&L | $0.00 (0.00%) |
+| Stop-Loss Flags | ⚠️ VERIFY DAR CLOSE vs 50MA ($57.96) pre-market May 7 |
+
+> **No positions executed. Portfolio 100% cash. DAR plan created at open ($58.98) remains CONDITIONAL pending EOD price confirmation.**
+
+---
+
+### Market Regime — EOD
+
+| Index | Level | Move | Notes |
+|-------|-------|------|-------|
+| S&P 500 | 7,338.89 | **+1.10%** | New all-time high ✅ |
+| Nasdaq | 25,670 | **+1.36%** | New all-time high ✅ |
+| Dow Jones | 49,854 | **+1.14%** | 20/30 components advancing |
+| SPY | ~$733.67 | **+1.37%** | BULLISH ✅ |
+| SPY 200MA | $657.54 | +11.7% spread | Firmly above — no regime threat |
+| WTI Oil | ~$92.50 | **-11.1%** | U.S.-Iran MOU nearing; "Project Freedom" paused |
+| Brent Oil | ~$101 | **-10.5% est.** | Falling in tandem with WTI |
+| XLE (Energy) | $59.45 | **~0.0%** | Held flat despite crude crash — surprising resilience |
+
+**Regime: BULLISH** — New ATHs on S&P 500 and Nasdaq confirm broad-based uptrend. Oil crash is a macro tailwind for consumers/discretionary but a headwind for DAR's biofuel economics.
+
+---
+
+### DAR Position Review — EOD Decision Gate
+
+| Parameter | Value |
+|-----------|-------|
+| Morning Plan Price | $58.98 (at 9:30am ET — entered entry zone) |
+| EOD Close | ⚠️ **UNCONFIRMED** — must verify pre-market May 7 |
+| 50-Day MA | $57.96 |
+| Entry Zone | $57.96–$60.86 |
+| Stop Loss | $54.85 (-7.0%) |
+| Take Profit | $66.06 (+12.0%) |
+| Oil Impact (DGD) | WTI -9% compresses crack spreads; RIN floor ~$1/gal provides support; feedstock costs also falling |
+| XLE Comparison | XLE flat on the day → energy stocks broadly resilient vs crude |
+
+**Decision Framework for Pre-Market May 7:**
+- DAR closed **above $57.96** → Entry thesis intact; place limit order ~$58.98 at open
+- DAR closed **below $57.96** → CANCEL PLAN; wait for oil stabilization and recovery above 50MA
+- Oil WTI **stabilizing above $90** → DAR thesis manageable; proceed if technical criteria met
+- Oil WTI **continuing below $85** → Stand aside; revisit post-May 11 Investor Day
+
+---
+
+### Key Market Events — May 6, 2026
+
+| Event | Ticker | Impact | Relevance |
+|-------|--------|--------|-----------|
+| U.S.-Iran MOU framework nearing; Project Freedom paused | Macro | Oil -9% to ~$92.50 | ⚠️ DAR headwind; market tailwind |
+| AMD Q1 2026: Rev $10.25B (+38%), Q2 guide $11.2B (+46%), EPS $1.37 beat | AMD | +17-20% | AI/agentic demand surge; future watchlist |
+| Nvidia-Corning $2.7B U.S. manufacturing deal | GLW/NVDA | GLW +10-17%, NVDA +4.78% | U.S. manufacturing theme |
+| Walt Disney three-pillar plan; Iran travel recovery angle | DIS | +6.24% | Monitor; not in strategy |
+| S&P 500 + Nasdaq new all-time highs | SPY | +1.10% | Regime: BULLISH ✅ confirmed |
+| Upstart (UPST) — blowout quarter (per Motley Fool live) | UPST | Strong move | Fintech AI; note for watchlist review |
+
+---
+
+### Watchlist Status — EOD
+
+| Symbol | Prior Price | EOD Status | 50MA | Entry Zone | Signal |
+|--------|-------------|------------|------|------------|--------|
+| DAR | $64.38 (May 5 close) | $58.98 open → EOD ❓ | $57.96 | $57.96–$60.86 | ⚠️ CONDITIONAL — verify close |
+| SUI | ~$129-130 | No change est. | N/A | 50MA pullback | ⏳ MONITORING — no signal |
+| PINS | ~$22-23 (settling) | Tracking lower | ~$18-19 est. | 50MA retest | 📋 WATCHLIST — 2-4 weeks |
+| AMD | $X (pre-earnings) | +17-20% today | ~$500-520 est. | 50MA retest | 📋 FUTURE — 4-8 weeks |
+| MU | ~$589-600+ | Likely higher (semis rally) | ~$422 | 50MA region | 📋 FUTURE — watch for correction |
+
+---
+
+### Pre-Market Priority List — May 7, 2026
+
+1. **DAR EOD close price** — above or below $57.96 (50MA)? This is the single most important data point.
+2. **WTI oil direction** — stabilizing above $90 or continuing lower? Key for DGD economics.
+3. **AMD** — confirm close price; note distance from 50MA for future tracking.
+4. **PINS** — where did it settle after earnings gap? Continue monitoring for 50MA approach.
+
+---
+
+### Upcoming Catalysts
+
+| Date | Event | Action |
+|------|-------|--------|
+| May 7, 2026 | DAR EOD price verification + WTI direction | **Primary execution decision gate** |
+| May 11, 2026 | DAR Investor Day | High-priority — post-event pattern may be entry |
+| 2–4 weeks | PINS 50MA retest (est. ~$18-19) | Watch for entry trigger |
+| 4–8 weeks | AMD 50MA retest (est. ~$500-520) | Future entry tracking |
+
+---
+
 ## Last Updated: 2026-05-06 (Midday Check — ~12:00 ET)
 
 ---

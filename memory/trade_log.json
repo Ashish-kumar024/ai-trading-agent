@@ -93,6 +93,66 @@
   },
   {
     "date": "2026-05-06",
+    "action": "EOD_SCAN",
+    "routine": "market_close",
+    "symbol": "DAR",
+    "decision": "PLAN_UNDER_REVIEW",
+    "reason": "DAR entered entry zone at $58.98 at open (gapped ~8.5% from $64.38 May-5 close on overnight oil crash). Oil WTI -9%+ to <$93 during session — headwind for biofuel economics. However XLE (energy ETF) held flat at $59.45; market hit new ATH (+1.10% S&P). DAR close price UNCONFIRMED — must verify vs. 50MA ($57.96) pre-market tomorrow before executing plan.",
+    "market_eod": {
+      "sp500": 7338.89,
+      "sp500_change_pct": 1.10,
+      "sp500_new_ath": true,
+      "nasdaq": 25670,
+      "nasdaq_change_pct": 1.36,
+      "nasdaq_new_ath": true,
+      "dow": 49854,
+      "dow_change_pct": 1.14,
+      "spy": 733.67,
+      "spy_prev_close": 723.77,
+      "spy_change_pct": 1.37,
+      "spy_200ma": 657.54,
+      "spy_above_200ma_pct": 11.7,
+      "wti_oil": 92.5,
+      "wti_prev_close": 104.10,
+      "wti_change_pct": -11.1,
+      "oil_driver": "U.S.-Iran MOU framework nearing; Trump pauses Project Freedom military operation",
+      "xle": 59.45,
+      "xle_change_pct": 0.0,
+      "xle_day_range": "58.89-59.76"
+    },
+    "portfolio_eod": {
+      "cash": 100000.0,
+      "executed_positions": 0,
+      "planned_positions": 1,
+      "total_value": 100000.0,
+      "daily_pnl_usd": 0.0,
+      "daily_pnl_pct": 0.0
+    },
+    "dar_status": {
+      "morning_plan_price": 58.98,
+      "status": "PLANNED — not executed",
+      "eod_price": "UNCONFIRMED",
+      "50ma": 57.96,
+      "stop_loss": 54.85,
+      "take_profit": 66.06,
+      "gate_criterion": "Must close above $57.96 (50MA) to keep plan valid; below = cancel",
+      "oil_impact": "WTI -9% compresses biofuel crack spreads (DGD JV headwind); RIN floor provides ~$1/gal support; feedstock costs also falling (partial offset)"
+    },
+    "watchlist_eod": {
+      "SUI": "~$129-130, no entry signal, monitoring",
+      "PINS": "Post-earnings settling ~$22-23; tracking toward 50MA (~$18-19 est.) in 2-4 weeks",
+      "AMD": "+17-20% on Q1 earnings blowout — future watchlist; 50MA retest needed in 4-8 weeks",
+      "MU": "~$589-600 (likely higher on semis rally); still ~40% above 50MA; future watchlist"
+    },
+    "action_items_tomorrow": [
+      "CRITICAL: Confirm DAR EOD close vs 50MA $57.96 — above=setup intact, below=cancel plan",
+      "Check WTI pre-market direction — stabilizing vs. continuing lower",
+      "Begin tracking AMD 50MA level for future entry timeline",
+      "May 11 DAR Investor Day prep — post-event selloff entry parameters ready"
+    ]
+  },
+  {
+    "date": "2026-05-06",
     "action": "PLAN",
     "symbol": "DAR",
     "entry_price": 58.98,

@@ -1,5 +1,62 @@
 # Trading Lessons
 
+## EOD Summary - 2026-05-06
+
+**Portfolio Value:** $100,000.00
+**Daily P&L:** $0.00 (0.00%) — no positions executed
+**Active Positions:** 0 executed | 1 PLANNED (DAR — awaiting verification before execution)
+
+EOD: No executed positions. Cash: $100,000.
+
+Position Details:
+- **DAR (PLANNED — Not Executed):**
+  - Entry planned at $58.98, 305 shares (~$17,989, 18% of portfolio)
+  - Stop: $54.85 | Target: $66.06 | R/R: 1.71
+  - Status: CONDITIONAL — plan under review due to oil crash; EOD price unconfirmed
+
+Market Context:
+- Regime: **BULLISH** — S&P 500 +1.10% to 7,338.89 (new ATH); Nasdaq +1.36% to 25,670 (new ATH); Dow +1.14%
+- SPY: ~$733.67 (+1.37%) vs 200MA $657.54 → +11.7% spread — strongly bullish
+- Oil: WTI **-9%+ to ~$92.50** (from $104.10) — U.S.-Iran MOU framework nearing; Trump pauses "Project Freedom"
+- Energy (XLE): **flat at $59.45** (range $58.89–$59.76) — held remarkably well vs crude crash
+- Broader market: 20/30 Dow stocks advancing; Industrials +2.7%, IT +2.2%, Materials +2.1%
+- Fed: Rate 3.5%–3.75% unchanged; PCE 3.5% YoY; GDPNow Q2 +3.5%
+
+Watchlist Status EOD:
+- **DAR:** ⚠️ CRITICAL GATE: Morning plan at $58.98 created on oil-driven gap-down (from $64.38 May 5 close).
+  EOD close price UNCONFIRMED. Pre-market tomorrow is the execution decision gate:
+  - **Above $57.96 (50MA):** Setup intact — evaluate executing 305-share limit order near $58.98
+  - **Below $57.96 (50MA):** CANCEL PLAN — oil breakdown invalidates technical setup
+  - Oil thesis note: WTI -9% compresses DGD crack spreads (bearish), but RIN floor (~$1/gal) provides support and feedstock costs (UCO, yellow grease) also fall. Net: manageable headwind, not thesis-breaking at $93+.
+  - Investor Day May 11 remains key catalyst — post-event reaction is primary entry thesis.
+- **SUI:** ~$129-130; no pullback toward 50MA; monitoring, no action.
+- **PINS:** Post-earnings settling ~$22-23 (gapped +15% on May 5). Tracking toward 50MA (~$18-19 est.) in 2-4 weeks.
+- **AMD:** Blowout Q1 (Rev +38%, Q2 guide +46%) → +17-20% today. Way too extended. Added to future watchlist — 50MA retest in 4-8 weeks.
+- **MU:** ~$589-600+; ~40% above 50MA. Future watchlist; no near-term entry.
+
+Notable Market Events (May 6):
+- **Iran deal progress:** White House "close to MOU"; Trump pauses "Project Freedom" Strait of Hormuz escort
+- **Oil crash:** WTI -9%+ to below $93 — largest single-day drop of the year; Brent ~$100-102
+- **AMD +17-20%:** Q1 EPS $1.37 (beat), Rev $10.25B (+38%), Q2 guide $11.2B (+46%) — agentic AI demand surge
+- **Nvidia-Corning:** $2.7B U.S. manufacturing deal → GLW +10-17%, NVDA +4.78%
+- **DIS +6.24%:** Iran travel/parks recovery angle; CEO three-pillar plan unveiled
+- **S&P 500 + Nasdaq both hit new all-time highs** — breadth broad; 2 of 11 sectors negative
+
+Action Items for Tomorrow (May 7):
+- **CRITICAL — DAR:** Confirm EOD close price vs 50MA $57.96
+  - Check pre-market: any DAR-specific news? Oil price direction (WTI stabilizing vs. continuing lower)?
+  - If holding above 50MA + oil stable → execute limit order near $58-59
+  - If below 50MA → cancel, wait for clear recovery or post-Investor-Day pullback
+- **AMD:** Note 50MA level (~$500-520 est.) for future entry tracking
+- **PINS:** Track settling price; 50MA entry zone still 2-4 weeks out
+- **May 11 (DAR Investor Day — HIGH PRIORITY):** Entry plan ready:
+  300 shares @ ~$60.00, stop $55.80 (-7%), target $67.20 (+12%), $18,000 position (18%)
+
+Key Lesson Today:
+- Oil macro events can rapidly pull a stock into entry zone AND undermine the thesis simultaneously — always confirm the why behind the move before executing. The pullback that creates the entry opportunity may itself be the signal to stand aside.
+
+---
+
 ## EOD Summary - 2026-05-05
 
 **Portfolio Value:** $100,000.00
