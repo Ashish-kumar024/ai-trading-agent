@@ -90,5 +90,39 @@
     },
     "entry_zone": "$57.96–$60.86 (50MA to 50MA+5%)",
     "notes": "DAR continuing to hold at elevated levels above 50MA. Q1 2026 earnings beat (+41% EPS) and Investor Day scheduled May 11 may be keeping the stock bid. Golden cross intact. Regime BULLISH (SPY $720.19 vs 200MA $657.54 = +9.5%). No entry until price pulls back to entry zone. Monitor for pullback, especially around or after May 11 Investor Day event. 52-week range: $29.15–$64.90."
+  },
+  {
+    "date": "2026-05-06",
+    "action": "PLAN",
+    "symbol": "DAR",
+    "entry_price": 58.98,
+    "shares": 305,
+    "stop_loss": 54.85,
+    "take_profit": 66.06,
+    "position_value": 17988.90,
+    "risk_per_share": 4.13,
+    "reward_per_share": 7.08,
+    "risk_reward_ratio": 1.71,
+    "total_risk_usd": 1259.65,
+    "total_risk_pct_portfolio": 1.26,
+    "market_regime": "BULLISH",
+    "spy_price": 724.60,
+    "spy_200ma": 679.91,
+    "spy_above_200ma": true,
+    "ma_50_dar": 57.96,
+    "pct_above_50ma": 1.76,
+    "within_5pct_of_50ma": true,
+    "entry_zone_low": 57.96,
+    "entry_zone_high": 60.86,
+    "checks_passed": {
+      "market_regime_bullish": true,
+      "spy_above_200ma": true,
+      "price_within_5pct_of_50ma": true,
+      "position_size_within_18pct": true,
+      "open_positions_under_7": true,
+      "stop_loss_set": true
+    },
+    "reasoning": "DAR pulled back ~10% from recent highs ($64.83 on May 5) into the 50MA entry zone ($57.96–$60.86). Price at $58.98 is only 1.76% above 50-day MA — well within the 5% proximity threshold. Regime is firmly BULLISH: SPY $724.60 vs 200MA $679.91 (+6.6%). All entry criteria met. Q1 2026 EPS $0.83 (beat +41%), EBITDA doubled YoY, golden cross confirmed, Diamond Green Diesel JV ramp ongoing. Oil (WTI ~$104) supports biofuel crack spreads. Investor Day May 11 is a near-term catalyst — potential for post-event volatility but fundamental thesis intact. 52-wk range $29.19–$66.00; price near high end but in technical entry zone. TD Cowen target $76, Jefferies target $75.",
+    "execution_notes": "Limit order recommended near $58.98. If price gaps up at open, wait for intraday pullback to confirm entry in zone. Cancel if price closes below $57.96 (50MA) without recovery — indicates potential breakdown. Catalyst watch: May 11 DAR Investor Day."
   }
 ]

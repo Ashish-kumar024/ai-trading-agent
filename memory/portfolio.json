@@ -1,8 +1,21 @@
 {
-  "cash": 100000.0,
+  "cash": 82011.10,
   "portfolio_value": 100000.0,
   "total_value": 100000.0,
-  "positions": [],
-  "updated_at": "2026-05-05T21:00:00Z",
+  "positions": [
+    {
+      "symbol": "DAR",
+      "status": "PLANNED",
+      "shares": 305,
+      "entry_price": 58.98,
+      "position_value": 17988.90,
+      "pct_of_portfolio": 18.0,
+      "stop_loss": 54.85,
+      "take_profit": 66.06,
+      "planned_date": "2026-05-06",
+      "notes": "Entry triggered: price $58.98 is 1.76% above 50MA ($57.96). Awaiting manual execution. Investor Day May 11 catalyst."
+    }
+  ],
+  "updated_at": "2026-05-06T09:30:00Z",
   "inception_date": "2026-05-04T00:00:00Z"
 }
