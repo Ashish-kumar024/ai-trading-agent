@@ -1,5 +1,189 @@
 # Market Context
 
+## Last Updated: 2026-05-06 (Midday Check — ~12:00 ET)
+
+---
+
+## Midday Update — 2026-05-06 ~12:00 ET
+
+**Run Time:** Midday
+**Checked By:** AI Trading Agent
+
+---
+
+### PART 1: Risk Management
+
+#### Portfolio Health
+
+| Metric | Value |
+|--------|-------|
+| Cash | $82,011.10 (reserved for DAR) |
+| Open Positions | **1 PLANNED** (DAR — awaiting execution) |
+| Total Value | $100,000.00 |
+| Daily P&L | $0.00 (position not yet executed) |
+| Stop-Loss Flags | ⚠️ MONITOR — oil drop creates execution risk |
+
+---
+
+#### DAR Position Review (PLANNED — Not Yet Executed)
+
+| Parameter | Value |
+|-----------|-------|
+| Symbol | DAR (Darling Ingredients) |
+| Status | PLANNED — awaiting manual execution |
+| Entry Price | $58.98 (triggered at 9:30am ET) |
+| Shares | 305 |
+| Position Value | $17,988.90 (18% of portfolio) |
+| Stop Loss | $54.85 (-7.0%) |
+| Take Profit | $66.06 (+12.0%) |
+| 50-Day MA | $57.96 |
+| % Above 50MA | +1.76% (within 5% entry zone ✅) |
+| R/R Ratio | 1.71 (risk $4.13/share, reward $7.08/share) |
+
+**Key Development Since Morning Plan:**
+
+WTI crude oil has dropped **~9%** today to approximately **$93–100/barrel** (from $104.10 yesterday), driven by U.S.-Iran deal progress. This is a direct headwind to DAR's biofuel economics via the Diamond Green Diesel (DGD) JV:
+
+| Oil Drop Impact | Assessment |
+|----------------|------------|
+| DGD renewable diesel crack spreads | ⬇️ Compress when oil falls |
+| Feedstock costs (used cooking oil, yellow grease) | ⬇️ Also fall — partial offset |
+| RFS RIN credits (government mandated) | ➡️ Stable — policy provides ~$1/gallon floor |
+| Net impact | Modest headwind; not thesis-breaking |
+
+**⚠️ EXECUTION CAUTION:** Do NOT execute DAR blindly at market. The oil-driven pullback that brought DAR into entry zone ($58.98) could continue if Iran deal finalizes. A further drop below the 50MA ($57.96) would invalidate the setup.
+
+**Decision criteria:**
+- DAR above $57.96 (50MA) + oil stabilizing → PROCEED with entry
+- DAR closes below $57.96 (50MA) → CANCEL PLAN, setup broken
+- Monitor intraday — if oil finds a floor (~$93), DAR likely holds entry zone
+
+---
+
+### PART 2: Opportunity Scan (1 Position < 7 Limit → FULL SCAN)
+
+---
+
+#### Market Regime — Midday May 6, 2026
+
+| Index | Level | Move | Notes |
+|-------|-------|------|-------|
+| S&P 500 | 7,338.89 | **+1.10%** | New all-time high ✅ |
+| Nasdaq | 25,670 | **+1.36%** | New all-time high ✅ |
+| Dow Jones | 49,854 | **+1.14%** | 20/30 components advancing |
+| SPY | ~$731–734 est. | +1.0%+ | BULLISH ✅ |
+| WTI Oil | ~$93–102/bbl | **-9% to -2%** | Iran deal hopes; significant range |
+| Regime | **BULLISH** | — | New ATHs confirm uptrend intact |
+
+> Market making new all-time highs across S&P 500 and Nasdaq. Rally driven by two catalysts: (1) Iran deal nearing → oil falling → consumer/discretionary relief; (2) AMD blowout earnings → AI/semiconductor sector ripping. Both are constructive for risk-on positioning.
+
+---
+
+#### Watchlist Status Update
+
+| Symbol | Prior Price | Est. Today | 50MA | Entry Zone | Status |
+|--------|-------------|------------|------|------------|--------|
+| DAR | $64.83 (May 5) | $58.98 (morning plan) | $57.96 | $57.96–$60.86 | ⚠️ IN ZONE — oil headwind |
+| SUI | ~$129.52 | ~$129–130 | N/A | 50MA pullback | ⏳ EXTENDED — monitoring |
+| PINS | ~$23 (May 5 close) | $22.28 | ~$18–19 est. | Pullback to 50MA | 📋 SETTLING — not in zone |
+| MU | ~$589 | ~$589–600 est. | ~$422 | 50MA region | 📋 FUTURE WATCHLIST — very extended |
+
+**DAR:** DAR pulled back ~9% from $64.83 (May 5) to $58.98 today on oil selling. This put it inside our entry zone for the first time. However, the same oil drop that created the entry opportunity also creates ongoing execution risk. Monitor $57.96 (50MA) as the line in the sand.
+
+**SUI:** Price holding $129–130, near unchanged. No meaningful pullback toward 50MA. No entry signal.
+
+**PINS:** Post-earnings settling. After surging +11–15% on May 5 earnings beat (Q1 EPS $0.27 vs $0.22, revenue +18%), PINS is now at $22.28 — six sell-side firms raised price targets. Settling price suggests early buying but not yet a pullback setup. We need it to retrace toward the 50MA (~$18–19 range, estimated) over the coming 2–4 weeks. Not actionable today.
+
+**MU:** No updated intraday price but likely still ~$589 area (possibly higher given semiconductor strength today). Still ~40% above 50MA. Future watchlist only.
+
+---
+
+#### Breaking News — Last 6 Hours
+
+| Event | Ticker | Impact | Relevance |
+|-------|--------|--------|-----------|
+| U.S.-Iran nearing deal; White House "close to MOU" | Macro | Oil -9% to ~$93 | ⚠️ DAR headwind; market tailwind |
+| AMD Q1 2026: Rev $10.25B (+38% YoY), Q2 guide $11.2B (+46%) | AMD | +17–20% | AI/agentic demand surge confirmed |
+| Nvidia-Corning: $2.7B investment, 3 U.S. manufacturing plants | GLW/NVDA | GLW +10–17%, NVDA +4.78% | U.S. manufacturing theme; AI infrastructure |
+| Walt Disney — broader market rally | DIS | +6.24% | Iran travel/parks tailwind? Monitor |
+| Kyndryl (IBM spinoff) — major job cuts + weak FY2027 guidance | KD | -12% | IT services weakness; no relevance |
+| Entravision (EVC) Q1: Rev $196M vs $121M est; AI ad-tech +204% | EVC | +74% | Speculative microcap; not our strategy |
+| S&P 500 hits new all-time high at 7,338.89 | SPY | — | Regime: BULLISH ✅ |
+
+---
+
+#### AMD Deep Dive (New Potential Watchlist Candidate)
+
+**Q1 2026 Results:**
+
+| Metric | Value |
+|--------|-------|
+| Revenue | $10.25B (+38% YoY, beat $9.89B est.) |
+| EPS | $1.37 adj. (beat $1.29 est.) |
+| Q2 2026 Guidance | ~$11.2B ± $300M (+46% YoY, beat $10.52B est.) |
+| Data Center AI Driver | Agentic AI → surging CPU/accelerator demand |
+| CEO Comment | "Strong and increasing confidence" to reach tens of billions in DC AI revenue |
+
+**Technical:**
+- AMD surging 17–20% today on earnings — completely extended
+- Cannot enter today under any criteria
+- Stock likely hitting 52-week high area
+- **Add to future watchlist — wait for 50MA retest in 4–8 weeks**
+
+**Score:** Technical 1/5 (extended), Fundamental 5/5, News 5/5 → **Overall: 3.7/5 — FUTURE WATCHLIST**
+
+---
+
+#### New Intraday Opportunities
+
+| Symbol | Move | Reason | Action |
+|--------|------|--------|--------|
+| AMD | +17–20% | Q1 earnings blowout, agentic AI | Future watchlist — too extended |
+| GLW | +10–17% | Nvidia $2.7B U.S. manufacturing deal | Monitor — too extended today |
+| DIS | +6.24% | Iran deal / market rally | Watch — needs fundamental review |
+| EVC | +74% | AI ad-tech earnings beat | PASS — microcap speculative |
+| EZGO | +64% | Unknown speculative | PASS |
+
+> No new opportunities meet entry criteria today. All significant movers are extended on catalysts. A rising tide is lifting all boats — not a day for chasing.
+
+---
+
+### Recommended Actions
+
+#### Immediate (Today)
+
+1. **DAR — CONDITIONAL EXECUTION**
+   - Do NOT execute at market blindly
+   - If DAR is holding **above $57.96 (50MA)** at current intraday check → entry valid; proceed with 305 shares limit order near $58.98
+   - If DAR has slipped **below $57.96** → CANCEL PLAN; setup invalidated by oil breakdown
+   - Set hard stop at $54.85 immediately upon execution
+
+2. **Oil Watch** — WTI trajectory is key for DAR
+   - Oil stabilizing at $93–100 → acceptable; DGD still profitable with RIN floor
+   - Oil continues falling toward $85 → re-evaluate DAR thesis; consider smaller position or stand aside
+
+3. **SUI** — No action. Continue monitoring.
+
+4. **PINS** — Track settling price. Target 50MA zone (~$18–19 est.) for entry in 2–4 weeks.
+
+#### Pre-Market Tomorrow (May 7)
+
+1. Confirm DAR close price vs 50MA ($57.96) — hold above = setup intact
+2. Check WTI oil final price — stabilization needed to validate DAR entry
+3. Review AMD — is the 17–20% move holding? Note 50MA for future entry tracking
+4. Check GLW (Corning) — Nvidia partnership is structural; file for future monitoring
+
+#### Upcoming Catalysts
+
+| Date | Event | Action |
+|------|-------|--------|
+| May 7, 2026 | WTI oil price direction | DAR execution decision gate |
+| May 11, 2026 | DAR Investor Day | High-priority catalyst — post-event pattern key |
+| 2–4 weeks | PINS 50MA retest (est.) | Entry trigger zone: ~$18–19 |
+| 4–8 weeks | AMD 50MA retest (est.) | Future entry trigger |
+
+---
+
 ## Last Updated: 2026-05-05 (EOD Close — ~16:00 ET)
 
 ---
