@@ -1,429 +1,300 @@
 # Market Context
 
-## Last Updated: 2026-05-05 (EOD Close — ~16:00 ET)
+## Last Updated: 2026-05-06 (Pre-Market — ~06:00 ET)
 
 ---
 
-## EOD Market Close — 2026-05-05
-
-**Run Time:** End of Day
-**Checked By:** AI Trading Agent
-
----
-
-### Portfolio Health — EOD
-
-| Metric | Value |
-|--------|-------|
-| Cash | $100,000.00 |
-| Open Positions | **0** |
-| Total Value | $100,000.00 |
-| Daily P&L | $0.00 (0.00%) |
-| Stop-Loss Flags | None |
-
-> **No active positions — portfolio 100% cash. No trade executions today.**
-
----
-
-### Market Regime — EOD
-
-| Index | Move | Notes |
-|-------|------|-------|
-| S&P 500 (SPY est.) | +0.55–0.77% | Regime BULLISH — above 200MA by ~10% |
-| Nasdaq | +0.70–1.00% | Tech leading; AI/chip momentum |
-| Russell 2000 | Mixed (-0.60% to +1.39%) | Small-cap lagging — divergence noted |
-| Oil (WTI) | $104.10 (-2.22%) | Easing — Iran diplomatic signals |
-| Oil (Brent) | $112.90 (-1.38%) | Still elevated above $110 |
-| Fed Funds Rate | 3.5%–3.75% | Third consecutive hold |
-| PCE (Inflation) | 3.5% YoY | Running hot; stable |
-| GDPNow Q2 | +3.5% | Economy resilient |
-
-**Regime: BULLISH** — SPY holding well above 200MA (~$657.54). No regime threat. All conditions favor selective long entries when price criteria are met.
-
----
-
-### Watchlist — EOD Prices
-
-| Symbol | Est. EOD Price | 50MA | % vs 50MA | Entry Zone | Status |
-|--------|---------------|------|-----------|------------|--------|
-| DAR | ~$64–$66 | $57.96 | +10–14% above | $57.96–$60.86 | ⏳ EXTENDED — no entry |
-| SUI | ~$130.00 | N/A | N/A | 50MA pullback | ⏳ MONITORING |
-| PINS | ~+15% from $27–29 area | N/A | Gapped | Pullback to 50MA in 2–4 wks | 📋 WATCHLIST ADDED |
-| MU | ~$589 (52-wk high) | ~$422 | ~+40% | 50MA region | 📋 FUTURE WATCHLIST |
-
-**DAR:** Investor Day May 11 is the focal event. Stock likely bid pre-event. Post-event selloff could bring price toward $60.86 entry trigger. Monitor closely May 11–13.
-
----
-
-### Key Events EOD
-
-| Event | Impact |
-|-------|--------|
-| PINS Q1 2026 blowout — Rev +18%, MAUs 631M, EPS +23% beat, $2B buyback | +15% today — watchlist candidate for pullback entry |
-| SHOP -7% — Rev beat, guidance disappointed | Classic beat-and-lower; sector caution |
-| PLTR 85% rev growth, EPS beat; stock sliding on valuation | Post-earnings weakness worth monitoring |
-| MU +5% — HBM chips sold out through 2026 | Strong AI thesis; too extended to buy |
-| TSN +2–3% Q2 earnings beat | Food sector resilient |
-| GME proposes $55.5B eBay acquisition | Special situation — no action |
-| Iran tensions: UAE intercepts, U.S. "still hopes for deal" | Oil easing; macro risk decreasing slightly |
-
----
-
-### Next Session Priorities (May 6, Pre-Market)
-
-1. **DAR price confirmation** — confirm EOD print. Sub-$63 = developing pullback. Sub-$61 = near entry.
-2. **Oil check** — WTI direction determines DAR biofuel tailwind/headwind.
-3. **PINS settlement** — where does it open? Track toward 50MA for potential future entry.
-4. **MU watchlist decision** — full fundamental review to formalize candidacy.
-5. **May 11 DAR Investor Day prep** — finalize entry order parameters for post-event scenario.
-
----
-
-## Last Updated: 2026-05-05 (Midday Check — ~12:00)
-
----
-
-## Midday Update — 2026-05-05 ~12:00
-
-**Run Time:** Midday
-**Checked By:** AI Trading Agent
-
----
-
-### Part 1: Risk Management
-
-| Metric | Value |
-|--------|-------|
-| Cash | $100,000.00 |
-| Open Positions | **0** |
-| Total Value | $100,000.00 |
-| Stop-Loss Flags | None |
-| P&L | $0.00 |
-
-> **No active positions — no stop-loss monitoring, trailing stops, or P&L calculations required.**
-
----
-
-### Part 2: Opportunity Scan (0 positions < 7 limit → FULL SCAN)
-
-#### Market Regime
-
-| Index | Move | Notes |
-|-------|------|-------|
-| S&P 500 | +0.55% | Edging higher |
-| Dow Jones | +0.55% | Steady |
-| Nasdaq | +0.70% | Tech leading |
-| Russell 2000 | -0.60% | Small-cap lagging |
-| Oil (WTI) | $104.10 (-2.22%) | Elevated but easing on Iran |
-| Oil (Brent) | $112.90 (-1.38%) | Still above $110 |
-
-**Macro backdrop:** Iran conflict continues; UAE intercepted missiles. Oil prices remain elevated but fading as tensions de-escalate slightly. Broader market shrugging off geopolitical risk — regime remains **BULLISH**.
-
----
-
-#### Watchlist Status Update
-
-| Symbol | Prior Price | Est. Today | 50MA | Entry Zone | Status |
-|--------|-------------|------------|------|------------|--------|
-| DAR | $63.77 (May 1) | ~$66.29 est. | $57.96 | $57.96–$60.86 | ⏳ EXTENDED — +14% above 50MA |
-| SUI | $127.84 | ~$130.00 | N/A | Pullback to 50MA | ⏳ EXTENDED — moving away from 50MA |
-
-**DAR Notes:**
-- Price estimated ~$66.29 today (morning scan). Still well outside entry zone ($57.96–$60.86).
-- Notable: April 30 intraday dip to $58.00 briefly touched entry zone but price snapped back to $63.61 by close. No clean setup emerged.
-- **Key catalyst: DAR Investor Day on May 11.** Pre-event buying likely keeping stock elevated. Post-event pullback may be the entry opportunity.
-- **Oil tailwind:** WTI at $104.10 improves renewable diesel (RD) crack spreads → DAR's Diamond Green Diesel JV economics strengthening. Fundamental thesis reinforced.
-- **No entry until price retests $57.96–$60.86.**
-
-**SUI Notes:**
-- Now ~$130.00 vs prior check $127.84 (+$1.64, +1.28%). Moving *away* from 50MA, not toward it.
-- Analyst consensus: Buy, avg target $141.07 (+8.5% from current). Institutional accumulation visible.
-- **No entry signal — continue monitoring.**
-
----
-
-#### Breaking News Scan (Last 6 Hours)
-
-| Event | Ticker | Impact |
-|-------|--------|--------|
-| Pinterest Q1 2026 blowout — Revenue +18%, MAUs 631M record, adj EPS $0.27 vs $0.22 est, $2B buyback | PINS | +15-17% today |
-| Shopify Q1 2026 — Rev $3.17B beat, EPS $0.45 vs $0.24, but guidance disappoints | SHOP | -7% |
-| Tyson Foods Q2 2026 — EPS $0.87 vs $0.76 (+14.5% beat), chicken/prepared foods strong | TSN | +2-3% |
-| Palantir Q1 2026 — 85% revenue growth, fastest since 2020 debut | PLTR | Strong |
-| Pfizer Q1 2026 — Earnings and revenue beat, 2026 guidance reaffirmed | PFE | +2.2% |
-| GameStop proposes $55.5B acquisition of eBay at $125/share (50% cash, 50% GME stock) | EBAY | +15%+ |
-| Apple in talks to add Intel as chip manufacturer (TSMC diversification) | AAPL/INTC | Modest move |
-| Micron hits new 52-week high ~$589 on AI/HBM demand (sold out through 2026) | MU | +5% |
-| Iran tensions continue — UAE intercepts missiles | Macro | Oil elevated |
-
----
-
-#### New Opportunity Scoring
-
-**1. Pinterest (PINS) — ADD TO WATCHLIST**
-
-| Metric | Value |
-|--------|-------|
-| Q1 Revenue | $1.01B (+18% YoY, beat by 4.4%) |
-| Adj EBITDA | $207M (20% margin, +40bps YoY) |
-| MAUs | 631M (+11% YoY) — record high |
-| Adj EPS | $0.27 vs $0.22 est. (+23% beat) |
-| Q2 Guidance | $1.13B–$1.15B (+14–16%) |
-| Share Buyback | ~$2B YTD (109M shares @ ~$18 avg) |
-| Today's Move | +15–17% post-earnings |
-
-- **Assessment:** Strong fundamental quality — real revenue, improving margins, record users, massive buyback program. AI-powered advertising platform with accelerating international growth (+59% rest-of-world). Stock jumped too far today to enter. **Add to watchlist. Wait for pullback to 50MA after earnings gap settles (typically 2-4 weeks).**
-- **Score:** Technical 4/5 (momentum, post-earnings), Fundamental 4/5, News 5/5 → **Overall: 4.3/5 — HIGH INTEREST**
-
-**2. Tyson Foods (TSN) — MONITOR**
-
-| Metric | Value |
-|--------|-------|
-| Q2 EPS | $0.87 vs $0.76 (+14.5% beat) |
-| Revenue | $13.65B |
-| Chicken Segment | Strong (guidance $1.9B–$2.05B op. income) |
-| Beef Segment | Still in loss (known headwind) |
-| Stock Price | ~$65-68, near 52-week high $66.41 |
-
-- **Assessment:** Solid earnings quality driven by chicken and prepared foods. Beef drag is industry-wide. At 52-week highs, not in pullback zone. Would need confirmation of golden cross and pullback to 50MA. **Keep on radar — not a buy today.**
-- **Score:** Fundamental 3/5, Technical 2/5 (too extended), News 4/5 → **Overall: 3.0/5 — MONITOR**
-
-**3. Micron Technology (MU) — WATCH FOR FUTURE OPPORTUNITY**
-
-| Metric | Value |
-|--------|-------|
-| Recent Price | ~$560–$589 (52-week high range) |
-| 50-Day MA | ~$422 |
-| % Above 50MA | ~32–40% |
-| Catalyst | HBM chips sold out through 2026, AI data center demand |
-| Analyst View | Bullish price target hikes |
-
-- **Assessment:** Extraordinary AI tailwind — HBM (high-bandwidth memory) for AI accelerators is sold out through 2026. Fundamentally compelling. BUT trading ~32-40% above 50MA → completely outside our entry criteria. **Cannot enter now. Add to watchlist for any meaningful pullback toward the 50MA area.**
-- **Score:** Technical 1/5 (way extended), Fundamental 5/5, News 5/5 → **Overall: 3.7/5 — FUTURE WATCHLIST**
-
-**4. eBay (EBAY) — PASS**
-- M&A speculation (GameStop $55.5B bid). Special situation trade, not our golden cross/pullback strategy. At 52-week highs on M&A premium. Pass.
-
----
-
-### Recommended Actions
-
-**EOD Today:**
-1. **DAR** — No action. Monitor close price. If below $63, pullback is developing. Watch for move toward $60.86 entry trigger.
-2. **SUI** — No action. Price rising away from 50MA. Patience.
-3. **PINS** — Note post-earnings settlement. Target pullback zone to 50MA in coming weeks (2–4 weeks typical).
-
-**Pre-Market Tomorrow (May 6):**
-1. Confirm DAR closing price. Any proximity to $63 or below is meaningful.
-2. Watch oil prices — WTI sustaining above $100 strengthens DAR biofuel thesis.
-3. Check if any Investor Day (May 11) preview upgrades for DAR emerge.
-4. PINS — track where it settles after today's gap.
-
-**May 11 (DAR Investor Day):**
-- HIGH PRIORITY EVENT. Post-event selloff is a common pattern ("sell the news").
-- If DAR sells off to $60.86 or below → potential entry trigger.
-- Prepare order parameters: 300 shares @ ~$60.00, stop $55.80 (-7%), target $67.20 (+12%).
-
-**Longer Term:**
-- PINS: Fundamental quality warrants deeper analysis if/when price pulls back 10–15% from today's level.
-- MU: Monitor for correction to the $450–$480 range (closer to 50MA).
-
----
-
-## Last Updated: 2026-05-05 (Market Open Execution Scan)
-
----
-
-## Market Open Execution — 2026-05-05
-
-**Run Time:** Market Open
-**Checked By:** AI Trading Agent
-
-### Regime Check
-
-| Metric | Value | Status |
-|--------|-------|--------|
-| SPY Price | $720.19 (last confirmed midday 2026-05-04) | ✅ BULLISH |
-| SPY 200-Day MA | ~$657.54 | — |
-| SPY vs 200MA | +9.5% | ✅ Above threshold |
-
-Market regime: **BULLISH** — all conditions met for potential entries.
-
-### Top Opportunity: DAR (Darling Ingredients)
-
-| Metric | Value |
-|--------|-------|
-| Last Confirmed Price | $63.77 (May 1 close) |
-| Estimated Today | ~$66.29 (Fox Business: +$2.52) |
-| 50-Day MA | $57.96 |
-| % Above 50MA | ~10.0%–14.4% |
-| Entry Zone | $57.96–$60.86 (50MA to 50MA+5%) |
-| Entry Triggered? | ❌ NO — price too far above 50MA |
-
-**Decision: NO ENTRY**
-
-DAR is running higher, not pulling back. Fox Business data suggests the stock may be up ~$2.52 today, which would put price around $66.29 — roughly 14% above its 50-day MA. This is well outside the required 5% proximity window.
-
-**Notable catalyst:** DAR Investor Day scheduled for **May 11, 2026**. This may be drawing buyers and keeping the stock elevated in the near term. A pullback opportunity may emerge after the event.
-
-### Hypothetical Plan (if entry zone triggered)
-
-| Parameter | Value |
-|-----------|-------|
-| Portfolio Value | $100,000.00 |
-| Position Size (18%) | $18,000.00 |
-| Target Entry | ~$60.00 (mid entry zone) |
-| Shares | ~300 |
-| Stop Loss | $55.80 (-7%) |
-| Take Profit | $67.20 (+12%) |
-
-### Decision
-
-> **NO ENTRY TODAY.** DAR is 10–14% above its 50-day MA. Price must retrace to $57.96–$60.86 to trigger entry. All fundamental and regime conditions remain favorable — patience required.
-
----
-
-## Last Updated: 2026-05-04 (Midday Check #2 — ~12:00)
-
----
-
-## Midday Risk Management Check — 2026-05-04
-
-**Run Time:** Midday (automated — second pass)
-**Checked By:** AI Trading Agent
-
-### Portfolio Health Summary
-
-| Metric | Value |
-|--------|-------|
-| Cash | $100,000.00 |
-| Open Positions | **0** |
-| Total Value | $100,000.00 |
-| At-Risk Positions | None |
-| Stop-Loss Flags | None |
-
-### Positions Checked
-
-> **No active positions to monitor.**
-> Portfolio is 100% cash. No P&L calculations, stop-loss checks, or trailing stop adjustments required.
-
-### Risk Flags
-
-- None — fully liquid, no market exposure.
-
-### Watchlist Price Update (Midday)
-
-| Symbol | Last Price | 50MA | % vs 50MA | Entry Zone | Status |
-|--------|-----------|------|-----------|------------|--------|
-| DAR | $63.78 | $57.96 | +10.0% above | $57.96–$60.86 | ⏳ Awaiting pullback |
-| SUI | ~$130.05 | — | — | Pullback to 50MA | ⏳ Monitoring |
-| SPY | $720.19 | — | +9.5% vs 200MA | — | ✅ BULLISH regime |
-
-### Recommended Actions
-
-1. **DAR** — Price holding near $63.78, approximately +10% above 50MA ($57.96). Entry zone ($57.96–$60.86) remains untriggered. No action. Continue monitoring for pullback.
-2. **SUI** — No updated intraday price available; last known ~$130.05 (mid-April). Continue watching for 2–3% pullback toward 50MA. No entry signal.
-3. **SPY** — Regime confirmed BULLISH. SPY at $720.19 vs 200MA ~$657.54 (+9.5%). Market note: mild intraday weakness attributed to Iran geopolitical uncertainty; no regime threat at current levels.
-
-### Next Check
-
-- End-of-day review: confirm DAR/SUI closing prices, reassess SPY regime vs 200MA, update watchlist notes.
-
----
+## Pre-Market Analysis — 2026-05-06
+
+**Run Time:** Pre-Market (Multi-Source Enhanced)
+**Analysis Type:** Phase 1-5 Intelligence Scan
+**Method:** Technical + Fundamental + News + Social + Insider/Institutional + Macro
 
 ---
 
 ## Market Regime
 
+### SPY Technical
+
+| Metric | Value | Signal |
+|--------|-------|--------|
+| SPY Est. Price | ~$730 | Estimate (S&P 500 ~7,257 May 5 close, futures up) |
+| 200MA | ~$666 | Source: TipRanks |
+| SPY vs 200MA | +$64 (+9.6%) | **BULLISH** |
+| VIX | 16.73 | **CALM** (below 20 threshold) |
+| VIX Change | -3.74% | Fear declining |
+| Market Breadth | Bullish | A/D line trending higher alongside index since late-March selloff low |
+
+**Regime: BULLISH** — SPY remains ~10% above 200MA. VIX at 16.73 signals low fear. Market breadth confirms broad participation. All regime conditions support long bias.
+
+---
+
+### Macro Context This Week
+
+| Event | Detail | Market Impact |
+|-------|--------|---------------|
+| **Iran Ceasefire Report** | US-Iran nearing agreement; WTI dropped ~9% to ~$93/bbl pre-market | **MAJOR POSITIVE** — risk-on tailwind |
+| FOMC (last) | April 29: Held rates at 3.50–3.75% | No change; 4 dissents (most since 1992) — mixed signals |
+| PCE Inflation | 3.5% YoY | Running elevated; Fed on hold |
+| GDP Now Q2 | +3.5% | Economy resilient |
+| CPI Next | ~May 13, 2026 | **KEY RISK** — elevated CPI could reverse oil/rate sentiment |
+| SpaceX IPO | Expected later 2026 at >$1T valuation | Market sentiment driver |
+
+> **Key Macro Read:** Iran ceasefire is this week's dominant event. Oil collapse from $104→$93 is deflationary and consumer-positive. Watch for confirmation of ceasefire terms. If deal falls apart, oil reverses and markets reprice risk sharply.
+
+---
+
+### Sector Leadership
+
+| Sector | Status | YTD | Notes |
+|--------|--------|-----|-------|
+| Materials (XLB) | **LEADING** | +22% | Gold, metals, mining breakout — dominant YTD leader |
+| Real Estate (XLRE) | **LEADING** | Strong | Momentum quadrant |
+| Consumer Discretionary (XLY) | **LEADING** | Strong | Ceasefire/oil drop tailwind |
+| Communication Services (XLC) | **LEADING** | Strong | |
+| Technology (XLK) | **MIXED** | Slumping 2026 | After 2025 AI boom; some individual AI names still strong |
+| Industrials (XLI) | **LAGGING** | Dropped rank 4→10 | Notable deterioration |
+| Healthcare (XLV) | **LAGGING** | ~+2% | Significant underperformance vs S&P |
+
+> **Sector Insight:** Materials rotation is the structural 2026 theme (+22% YTD). AI/chip names (Micron) are exceptions within tech. Construction/infrastructure (Comfort Systems) is outperforming despite Industrials broad weakness due to AI data center buildout as specific catalyst.
+
+---
+
+## Intelligence-Enhanced Candidates
+
+### Scoring Rubric Applied
+Raw point system (additive): Technical max 7 | Fundamentals max 7 | News max 3 | Social max 1 | Insider/Institutional max 4 | Macro/Timing max 2 → **Effective scale 0–20**
+
+---
+
+### Rank 1: MU (Micron Technology) — Score: 17/20 — ⚠️ STRONG BUY (EXTENDED — WAIT FOR PULLBACK)
+
+**Technical (5/7):**
+- Golden cross confirmed ✓ (50MA ~$406 >> 200MA ~$300)
+- Near 50MA pullback: ✗ — current price $675 = **66% above 50MA** (disqualifies immediate entry)
+- Volume: Exceptional — 12% single-day surge on record earnings + Fitch upgrade
+- Trend: 12 buy signals / 0 sell signals across MA timeframes
+
+**Fundamentals (7/7):**
+- Q2 FY2026 EPS: $12.20 (beat by **+41.86%** vs estimate $8.60) ✓
+- Q2 Revenue: $23.86B vs $8.05B same period last year = **+196% YoY** ✓
+- Q3 Guidance: Revenue $33.5B ±$750M; EPS $19.15 ±$0.40 (non-GAAP) — massive raise ✓
+- Gross margin guidance: ~81% — record-level
+- Driver: AI data center + HBM3E memory demand; supply-constrained market
+
+**News Sentiment (3/3): VERY POSITIVE (+3)**
+- Fitch upgraded Micron's credit rating → stock surged 11% to record high
+- Q2 results: "Record revenue, margins, and EPS in Q2 2026" per TradingView
+- New product: World's highest-capacity 245TB Micron 6600 ION SSD launched
+- Q3 guidance implies another record quarter
+- Key headline: "Micron Draws Four-Digit Price Targets As AI Mania Builds"
+- Sentiment score: **+9/10**
+
+**Social Sentiment (1/1): BULLISH MOMENTUM (+1)**
+- Trending as institutional story (not meme stock) ✓
+- Analyst and institutional focus — high-quality discussion
+- No meme/pump characteristics
+- Reddit/Twitter tone: Bullish based on fundamental catalysts
+
+**Insider/Institutional (1/4):**
+- CEO Sanjay Mehrotra: Sold 40,000 shares (filed SEC) ⚠️ — NEGATIVE signal
+- Exec Teyin Liu: Purchased 23.2K shares (Jan 2026) — positive but dated
+- Institutional: 80.84% institutional owned ✓
+- Recent: McDonald Partners new $293K position; Sei Investments added 21,619 shares
+- Unusual options: Large put activity at $600 strike May 15 (interpreted as bullish hedge)
+- Net insider signal: **Mixed-to-Negative** (CEO selling dominates)
+
+**Catalysts & Risks:**
+- Next earnings: **July 1, 2026** (Q3 FY2026) ✓ — 8+ weeks away, no near-term earnings risk
+- Upcoming: No major company events until July
+- Key risks:
+  1. CEO selling at these levels sends mixed conviction signal
+  2. Stock at 66% above 50MA — extremely extended; mean-reversion risk is high
+  3. Memory cycle risk if AI capex spending moderates
+
+**Entry Plan (WAIT FOR PULLBACK):**
+- ⛔ Current price $675 is NOT a valid entry (66% above 50MA)
+- Ideal entry zone: **$430–$460** (near 50MA support)
+- Stop loss: $400 (-7% below entry midpoint)
+- Take profit: $510 (+12% from $455 entry)
+- Position size at ideal entry: ~40 shares (~$18,200 = 18% portfolio)
+- **Action today: MONITOR — add to watchlist for pullback trigger alert**
+
+---
+
+### Rank 2: FIX (Comfort Systems USA) — Score: 15/20 — ⚠️ BUY (EXTENDED — ABOVE ANALYST TARGETS)
+
+**Technical (5/7):**
+- Golden cross confirmed ✓ (50MA ~$1,260 well above 200MA)
+- Near 50MA pullback: ✗ — current price ~$1,979–$2,003 = **57–60% above 50MA**
+- Volume: Strong — +8.2% post-earnings surge ✓
+- Trend: 7 buy signals, 5 sell signals on MA indicators; Barchart 100% Buy (Top 1%)
+- All-time high territory: New ATH at $2,003.65 intraday on May 5
+
+**Fundamentals (5/7):**
+- Q1 2026 EPS: $10.51 vs $4.75 Q1 2025 = **+121% YoY** ✓
+- Q1 Revenue: $2.87B vs $1.83B Q1 2025 = **+57% YoY** ✓
+- FY2026 revenue guidance: "Mid-to-high 20% range" same-store growth ✓
+- Backlog: **$12.46B record** — 1+ years of revenue visibility ✓
+- Guidance: Maintained (not formally raised vs. prior guidance) — partial credit
+- Dividend: Increased quarterly to $0.80/share (+$0.10) — management confidence signal ✓
+- Business model: AI data center HVAC/MEP infrastructure — supply-constrained, near-zero leverage
+
+**News Sentiment (3/3): VERY POSITIVE (+3)**
+- Q1 earnings beat was massive (EPS +121% YoY)
+- Dividend hike announced simultaneously
+- May 2026 investor presentation: $2.87B revenue, $524M adjusted EBITDA, $12.46B backlog
+- UBS raised target from $1,680 → $1,992
+- Stock up 42% in 2026 YTD
+- Sentiment score: **+8/10**
+
+**Social Sentiment (1/1): BULLISH (+1)**
+- +42% YTD generating positive momentum discussion
+- Not a meme stock — institutional/professional investor focus ✓
+- Quality: High (data center infrastructure narrative, backlog analysis)
+
+**Insider/Institutional (2/4):**
+- Insider: CFO sold ~9,000 shares (~$12.9M); Director Pablo Mercado sold 500 shares Apr 30 ⚠️ NEGATIVE
+- Institutional: 96.51% institutional owned ✓
+- Farmers & Merchants Investments: +29% position increase
+- JFS Wealth Advisors: +29.4% increase
+- Great Lakes Advisors: +3.0% increase
+- Unusual options (March 2026): Bullish deep-pocketed options activity flagged ✓
+
+**⚠️ CRITICAL FLAG: Stock Price vs. Analyst Targets**
 | Metric | Value |
 |--------|-------|
-| SPY Price | $720.19 (midday, 2026-05-04) |
-| SPY 200-Day MA | ~$657.54 (last confirmed) |
-| Spread | +$62.65 (+9.5%) |
-| Regime | **BULLISH** |
+| Current price | ~$1,979 |
+| Analyst avg target | $1,798 |
+| Analyst high target | $2,004 |
+| Stock vs avg target | **+10.1% ABOVE consensus** |
 
-SPY has risen from $679.46 (morning open scan) to $720.19 at midday — a significant move. All trend signals remain bullish. Intraday dip attributed to Iran uncertainty is minor and does not threaten the macro regime. 200MA support at ~$657.54 is well below current price.
+> The stock has outrun the average analyst target. Only UBS's recently raised $1,992 target is near current levels. At $1,979, there is limited analyst-implied upside.
 
----
+**Catalysts & Risks:**
+- Next earnings: Q2 2026 — approximately late July 2026 ✓ (no near-term earnings risk)
+- Upcoming: No major events flagged
+- Key risks:
+  1. Stock above analyst average targets — limited near-term analyst-supported upside
+  2. Insider selling (CFO, Directors) at current levels ⚠️
+  3. 57% above 50MA — extreme extension, pullback risk is elevated
+  4. Labor cost inflation risk (cited by bear case analyst)
 
-## Portfolio State
-
-- **Cash:** $100,000.00
-- **Open Positions:** None
-- **Total Value:** $100,000.00
-
-Fully liquid. Ready to deploy capital selectively.
-
----
-
-## Golden Cross Candidates (50MA > 200MA)
-
-Three stocks flagged with fresh golden cross signals and assessed for fundamental quality:
-
-### 1. Darling Ingredients (DAR) — PREFERRED
-**Sector:** Renewable Fuels / Waste-to-Energy  
-**Signal Strength:** High — golden cross with strong earnings momentum
-
-**Fundamentals:**
-- Q1 2026 EPS: $0.83 (beat $0.59 estimate by 41%)
-- Net income swung from -$26.2M (Q1 2025) to +$134.3M (Q1 2026)
-- Combined Adj. EBITDA: $406.8M vs $195.8M — more than doubled YoY
-- Revenue: $1.55B (slight miss vs $1.56B consensus — acceptable)
-- Net Debt: $4.01B at 3.17x leverage (elevated but manageable given EBITDA trajectory)
-- Analyst avg. price target: $65.63 (range $50–$78)
-
-**Thesis:** Dramatic earnings turnaround driven by Diamond Green Diesel (DGD) JV ramp to 320M gallon run rate. Biofuel policy tailwinds, improving margins, and a technical golden cross on strong volume. This is a real business with improving cash flows — not just a chart story. Leverage is the primary risk.
-
-**Risk:** High net debt; policy changes to biofuel subsidies/blending mandates.
+**Entry Plan (WAIT FOR PULLBACK):**
+- ⛔ Current price ~$1,979 is NOT a valid entry (57% above 50MA + above analyst consensus)
+- Ideal entry zone: **$1,340–$1,440** (near 50MA support)
+- Stop loss: $1,245 (-7% below entry midpoint)
+- Take profit: $1,610 (+12% from $1,390 midpoint)
+- Position size at ideal entry: ~13 shares (~$18,070 = 18% portfolio)
+- **Action today: MONITOR — add to watchlist for pullback to 50MA zone**
 
 ---
 
-### 2. Sun Communities (SUI) — SECONDARY
-**Sector:** REIT — Manufactured Housing / RV Parks  
-**Signal Strength:** Medium — golden cross in a defensive, income-generating asset
+### Rank 3: ONTO (Onto Innovation) — Score: 9/20 — WATCH
 
-**Fundamentals:**
-- Q1 2026 Core FFO: $1.40/share
-- FY2026 Core FFO guidance raised to $6.87–$6.97 (midpoint $6.97)
-- Same-property NOI growth: +6.3% YoY
-- Blended occupancy: 98.7% (near-full)
-- Net Debt/Recurring EBITDA: 3.7x (conservative for a REIT)
-- Dividend: $1.12/quarter → $4.48 annualized (~3.5% yield)
-- Barclays: Overweight, target raised to $148
+**Technical (5/7):**
+- Golden cross confirmed ✓ (50MA ~$230.54 above 200MA)
+- Near 50MA pullback: ✗ — current price ~$299–$304 = **30% above 50MA** (most favorable of 3 candidates)
+- Volume: Elevated on earnings day (May 5) ✓
+- 52-week range: $85.88–$316.00 — substantial recovery from lows
+- Post-earnings pullback: -3.04% vs prior week — mild weakness creating improving setup
 
-**Thesis:** Best-in-class manufactured housing REIT with nearly full occupancy, raised guidance, and a clean balance sheet. A golden cross here signals institutional accumulation in a defensive, inflation-protected asset. Dividend provides downside cushion.
+**Fundamentals (3/7):**
+- Q1 2026 EPS: $1.42 vs estimate $1.44 = **MISSED by $0.02** (2-cent miss) ⚠️
+- Q1 Revenue: $291.95M vs estimate $297.91M = **MISSED by $5.96M** ⚠️
+- Q2 2026 guidance: $320–$330M revenue (vs $291M Q1 = acceleration) ✓
+- FY2026 guidance: Revenue >$1.3B (>30% YoY growth implied) ✓
+- Advanced packaging growth: >50% in 2026 ✓
+- DragonFly G5 qualified at leading foundry customer — major milestone ✓
+- $710M Rigaku deal (27% stake): AI-enabled X-ray metrology — high-margin software revenue future catalyst
+- Gross margin: Expanding, targeting >30% operating margins by year-end ✓
 
-**Risk:** Rate sensitivity (REIT); limited upside vs pure growth plays.
+**News Sentiment (0/3): NEUTRAL (0)**
+- Q1 earnings miss (slight) is the dominant recent headline
+- TipRanks: "Onto Innovation Earnings Call Flags Strong Growth Path" — forward-looking positive
+- Investing.com: "AI packaging growth accelerates" — positive sector narrative
+- Vanguard trimmed position (May 3) — institutional exit signal ⚠️
+- Net sentiment: Neutral (miss offsets forward-looking positives)
+- Sentiment score: **+1/10**
+
+**Social Sentiment (0/1): NEUTRAL (0)**
+- Not trending on Reddit/WSB/Twitter
+- Institutional story — limited retail social signal
+- No meme characteristics ✓
+
+**Insider/Institutional (0/4):**
+- Insider: Insufficient data — no recent buys/sells confirmed
+- Institutional: Vanguard Group trimmed position (May 3) ⚠️ — negative signal
+- No unusual call activity found
+
+**Analyst Consensus:**
+- 7–8 analysts: **Strong Buy** consensus
+- Median target: $320.00 (7.2% upside from $299)
+- Mean target: $309.29–$334.29 range
+
+**Catalysts & Risks:**
+- Next earnings: ~August 2026 (Q2 2026) ✓ — no near-term earnings risk
+- DragonFly G5 ramp at leading foundry — potential positive surprise
+- Rigaku deal closing (2026): could add high-margin software revenue
+- Key risks:
+  1. Consecutive quarter misses would break the growth thesis
+  2. Still 30% above 50MA — not yet at ideal pullback entry
+  3. Vanguard trimming is a subtle institutional distribution signal
+  4. Limited analyst upside (median $320 = 7% upside at current $299)
+
+**Entry Plan (DEVELOPING SETUP — WATCH CLOSELY):**
+- ⚠️ Current price ~$299 is not ideal (30% above 50MA)
+- Ideal entry zone: **$240–$260** (near 50MA $230)
+- Alert trigger: A pullback to $260 should prompt re-evaluation
+- Stop loss: $221 (-7% below $237 midpoint)
+- Take profit: $266 (+12% from $237 midpoint)
+- Position size at ideal entry: ~76 shares (~$18,012 = 18% portfolio)
+- **Action today: WATCH — set alert at $265 for entry re-evaluation**
 
 ---
 
-### 3. Wave Life Sciences (WVE) — PASS
-**Sector:** Clinical-Stage Biotechnology  
-**Signal Strength:** Medium technically, but fundamentals disqualify
+## Daily Summary Scorecard
 
-**Fundamentals:**
-- Q1 2026 Revenue: $38.2M (up from $9.2M — primarily milestone/collaboration payments, not product sales)
-- Net loss: $26.1M in Q1; TTM loss ~$183.6M
-- Cash: $544.6M, runway to Q3 2028
-- Key catalysts: FDA Phase 2a INLIGHT trial acceptance (WVE-007, obesity); AATD data in May 2026
+| Rank | Symbol | Score | Signal | Technical Entry | Action |
+|------|--------|-------|--------|-----------------|--------|
+| 1 | MU | 17/20 | STRONG BUY | ⛔ 66% above 50MA | WATCH — wait for pullback to $430–460 |
+| 2 | FIX | 15/20 | BUY | ⛔ 57% above 50MA + above targets | WATCH — wait for pullback to $1,340–1,440 |
+| 3 | ONTO | 9/20 | WATCH | ⚠️ 30% above 50MA | WATCH — alert at $265 |
 
-**Why passing:** Revenue is not recurring — it's driven by partnership milestones. The company is pre-commercial with significant binary event risk around upcoming AATD data. A golden cross on a clinical-stage biotech is often a reaction to news, not sustainable momentum. Risk/reward doesn't meet quality threshold with a $100k portfolio.
+> **No immediate entries recommended today.** All high-conviction candidates are technically extended. The market regime is bullish (SPY +10% above 200MA, VIX 16.73), but individual stock setups require pullback to 50MA before entry. Capital preservation rule: wait for technical confirmation.
 
 ---
 
-## Watchlist Priority
+## Market Regime Decision
 
-| Rank | Ticker | Action | Rationale |
-|------|--------|--------|-----------|
-| 1 | DAR | **Watch for entry** | Earnings momentum + golden cross + biofuel tailwind |
-| 2 | SUI | **Watch for pullback** | Defensive quality, raised guidance, dividend |
-| 3 | WVE | Pass | Pre-commercial biotech; too binary |
+| Factor | Status | Notes |
+|--------|--------|-------|
+| SPY vs 200MA | BULLISH (+9.6%) | Long bias appropriate |
+| VIX | CALM (16.73) | No fear premium |
+| Market Breadth | BULLISH | A/D line confirming |
+| Iran Ceasefire | TAILWIND | Oil -9%, risk-on |
+| Fed Policy | ON HOLD | 3.50–3.75%, no cut signal |
+| Sector Rotation | ACTIVE | Materials leading; tech mixed |
+| Entry Conditions | ⛔ NO VALID SETUPS | All candidates extended |
+
+**Portfolio Action Today: HOLD CASH — No entries meet 50MA pullback criteria**
 
 ---
 
-## Notes for Next Session
+## Watchlist for Pullback Alerts
 
-- Confirm DAR entry if price holds above 50-day MA on intraday chart
-- For SUI, a 2–3% pullback toward the 50-day MA would improve R/R
-- Re-evaluate WVE only after AATD Phase 2 data release (May 2026)
-- Monitor SPY: if it closes below $657 (200MA), shift to defensive/cash posture
+| Symbol | Current | 50MA | Alert Price | Reason |
+|--------|---------|------|-------------|--------|
+| MU | $675 | $406 | $460 | Golden cross + exceptional fundamentals |
+| FIX | $1,979 | $1,260 | $1,440 | AI data center infrastructure story |
+| ONTO | $299 | $230 | $265 | Semiconductor equipment; Q2 acceleration expected |
+
+---
+
+## Previous Context Reference
+
+> EOD 2026-05-05: Portfolio 100% cash ($100,000). No open positions. Prior watchlist included DAR (~$64–66, extended above 50MA $57.96) and SUI ($130, monitoring). Both remain extended.
+
+---
+
+*Analysis sources: Bloomberg, CNBC TheStreet, Yahoo Finance, Investing.com, Micron IR, QuiverQuant, TipRanks, Benzinga, Schwab, WallStreetZen, TradingView, MarketBeat, GuruFocus, SimplyWallSt, StockTitan*
