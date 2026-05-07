@@ -1,21 +1,23 @@
 {
-  "cash": 82011.10,
+  "cash": 100000.0,
   "portfolio_value": 100000.0,
   "total_value": 100000.0,
-  "positions": [
+  "positions": [],
+  "cancelled_plans": [
     {
       "symbol": "DAR",
-      "status": "PLANNED",
-      "shares": 305,
-      "entry_price": 58.98,
-      "position_value": 17988.90,
-      "pct_of_portfolio": 18.0,
-      "stop_loss": 54.85,
-      "take_profit": 66.06,
+      "status": "CANCELLED",
+      "planned_entry_price": 58.98,
+      "planned_shares": 305,
+      "planned_position_value": 17988.90,
+      "planned_stop_loss": 54.85,
+      "planned_take_profit": 66.06,
       "planned_date": "2026-05-06",
-      "notes": "Entry triggered: price $58.98 is 1.76% above 50MA ($57.96). Awaiting manual execution. Investor Day May 11 catalyst."
+      "cancelled_date": "2026-05-07",
+      "cancel_reason": "Entry window closed. Price rebounded from $58.98 gap-down to $61.09–$62.76 (+5.5% range) — now 7.5% above 50MA ($57.96), outside entry zone ($57.96–$60.86). Oil WTI continuing lower to $90.22 (was $92.50 yesterday). Next opportunity: Investor Day May 11 post-event pullback.",
+      "next_entry_trigger": "Pullback to $57.96–$60.86 entry zone, ideally on Investor Day (May 11) post-event reaction"
     }
   ],
-  "updated_at": "2026-05-06T09:30:00Z",
+  "updated_at": "2026-05-07T16:00:00Z",
   "inception_date": "2026-05-04T00:00:00Z"
 }

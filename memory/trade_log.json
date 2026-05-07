@@ -184,5 +184,67 @@
     },
     "reasoning": "DAR pulled back ~10% from recent highs ($64.83 on May 5) into the 50MA entry zone ($57.96–$60.86). Price at $58.98 is only 1.76% above 50-day MA — well within the 5% proximity threshold. Regime is firmly BULLISH: SPY $724.60 vs 200MA $679.91 (+6.6%). All entry criteria met. Q1 2026 EPS $0.83 (beat +41%), EBITDA doubled YoY, golden cross confirmed, Diamond Green Diesel JV ramp ongoing. Oil (WTI ~$104) supports biofuel crack spreads. Investor Day May 11 is a near-term catalyst — potential for post-event volatility but fundamental thesis intact. 52-wk range $29.19–$66.00; price near high end but in technical entry zone. TD Cowen target $76, Jefferies target $75.",
     "execution_notes": "Limit order recommended near $58.98. If price gaps up at open, wait for intraday pullback to confirm entry in zone. Cancel if price closes below $57.96 (50MA) without recovery — indicates potential breakdown. Catalyst watch: May 11 DAR Investor Day."
+  },
+  {
+    "date": "2026-05-07",
+    "action": "EOD_SCAN",
+    "routine": "market_close",
+    "symbol": "DAR",
+    "decision": "PLAN_CANCELLED",
+    "reason": "DAR rebounded to $61.09–$62.76 today — now 7.5% above 50MA ($57.96), fully above entry zone ($57.96–$60.86). Entry window at $58.98 from May 6 plan closed without execution. Oil WTI continued declining to $90.22 (-2.5% from yesterday's $92.50). DAR showing resilience vs oil weakness — held $61+ floor. Investor Day May 11 is next major catalyst.",
+    "market_eod": {
+      "sp500": 7350.63,
+      "sp500_change_pct": 0.16,
+      "nasdaq": 25696,
+      "nasdaq_change_pct": 0.10,
+      "dow": 49978,
+      "dow_change_pct": 0.25,
+      "spy": 734.88,
+      "spy_prev_close": 733.67,
+      "spy_change_pct": 0.16,
+      "spy_52wk_high": 736.13,
+      "spy_200ma": 657.54,
+      "spy_above_200ma_pct": 11.8,
+      "wti_oil": 90.22,
+      "wti_prev_close": 92.50,
+      "wti_change_pct": -2.5,
+      "gold": 4743.0,
+      "bitcoin": 81165.0
+    },
+    "portfolio_eod": {
+      "cash": 100000.0,
+      "executed_positions": 0,
+      "planned_positions": 0,
+      "total_value": 100000.0,
+      "daily_pnl_usd": 0.0,
+      "daily_pnl_pct": 0.0
+    },
+    "dar_status": {
+      "planned_entry_price": 58.98,
+      "status": "CANCELLED — price rebounded above entry zone before execution",
+      "today_range": "61.09-62.76",
+      "today_close_est": 62.31,
+      "50ma": 57.96,
+      "pct_above_50ma": 7.51,
+      "entry_zone_low": 57.96,
+      "entry_zone_high": 60.86,
+      "inside_entry_zone": false,
+      "oil_today": 90.22,
+      "oil_trend": "Continuing lower; WTI -$14 in 2 days from $104 high — bearish near-term for biofuel crack spreads"
+    },
+    "watchlist_eod": {
+      "DAR": "Plan cancelled. $62.31 est. close — 7.5% above 50MA, outside entry zone. Next entry trigger: May 11 Investor Day post-event selloff to $57.96–$60.86.",
+      "SUI": "Monitoring, no entry signal",
+      "PINS": "Post-earnings settling; 50MA entry zone ~1.5–2 weeks out",
+      "AMD": "Future watchlist; 50MA retest in 3–7 weeks",
+      "MU": "Future watchlist; no near-term entry"
+    },
+    "action_items_tomorrow": [
+      "CRITICAL — DAR Investor Day Monday May 11: Finalize entry parameters for post-event reaction",
+      "Entry plan ready: 305 shares in $57.96–$60.86 zone, stop $54.85 (-7%), target $66.06 (+12%), $18,000 (18%)",
+      "Pre-Investor Day: review Q1 earnings call analyst questions (DGD margin trajectory, oil sensitivity)",
+      "Oil: WTI $88 = key support for biofuel thesis; monitor over weekend",
+      "Friday EOD (May 8): Run weekly review — first full trading week of inception"
+    ]
   }
 ]

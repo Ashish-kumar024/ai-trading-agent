@@ -1,5 +1,56 @@
 # Trading Lessons
 
+## EOD Summary - 2026-05-07
+
+**Portfolio Value:** $100,000.00
+**Daily P&L:** $0.00 (0.00%) — no positions executed
+**Active Positions:** 0 executed | 0 planned (DAR plan cancelled)
+
+EOD: No executed positions. Cash: $100,000. DAR entry window closed — plan cancelled.
+
+Position Details:
+- **DAR (PLAN CANCELLED):**
+  - Planned entry at $58.98 (305 shares, ~$17,989, 18% of portfolio) — never executed
+  - Today's range: $61.09–$62.76, close ~$62.31
+  - Now 7.5% above 50MA ($57.96) — back above entry zone ($57.96–$60.86)
+  - Entry window from May 6 oil-crash gap-down closed in one session without execution
+  - Next trigger: Investor Day May 11 post-event pullback to entry zone
+
+Market Context:
+- Regime: **BULLISH** — SPY +0.16% to ~$734.88; 200MA $657.54 → +11.8% spread; 52-wk high $736.13 in reach
+- S&P 500: ~7,350 (+0.16%); Nasdaq +0.10%; Dow +0.25%
+- Oil: WTI **-2.5% to $90.22** — continuing lower from yesterday's $92.50 crash; WTI down ~$14 in 2 days from $104 high
+- Gold: +$60 to $4,743 (macro uncertainty bid)
+- Bitcoin: ~$81,165
+
+Watchlist Status EOD:
+- **DAR:** Plan cancelled. $62.31 est. — resilient vs. oil drop (held $61+ floor as WTI sank to $90). Fundamental thesis intact but oil at $90 compresses DGD crack spreads near-term. RIN floor (~$1/gal) provides support. **Monday May 11 Investor Day is next decision gate:**
+  - **Post-event selloff to $57.96–$60.86 → Activate plan (305 shares, stop $54.85, target $66.06)**
+  - **Price remains elevated above $61 → Stay in cash, wait for next structural pullback**
+- **PINS:** Post-earnings settling; 50MA entry zone ~1.5–2 weeks out
+- **AMD:** Future watchlist — 50MA retest in 3–7 weeks
+- **MU:** Future watchlist — no near-term entry
+
+Notable Market Events (May 7):
+- **DAR Q1 earnings call analysis** published (StockStory): Analyst questions focused on DGD margin trajectory, oil sensitivity, and Investor Day expectations
+- **Oil continues lower:** WTI $90.22 — U.S.-Iran MOU framework nearing completion; Strait of Hormuz de-escalation driving supply relief pricing
+- **SPY near 52-week high:** $734.88 close vs. $736.13 52-wk high — market consolidating near ATH after Monday's big ramp
+- **Gold +$60 to $4,743** — safe haven bid persisting amid geopolitical backdrop
+
+Action Items for Tomorrow (May 8 — Friday):
+- **DAR Investor Day Monday May 11 — HIGH PRIORITY PREP:**
+  - Review Q1 earnings call analyst questions re: DGD oil sensitivity and management tone
+  - Pre-set entry plan: 305 shares in $57.96–$60.86 zone, stop $54.85, target $66.06
+  - Prepare pre-market alert for May 11 open
+- **Friday EOD (May 8):** Run first weekly review (Week of May 4–8, inception week)
+- **AMD:** Identify current 50MA level for tracking timeline
+- **Oil weekend watch:** WTI $88 = biofuel thesis support floor; below $85 = re-evaluate DAR thesis entirely
+
+Key Lesson Today:
+- **Fleeting entries require faster decisions.** The May 6 oil-crash gap-down created a 1-day window at $58.98 in the exact entry zone. Deferring execution for "EOD confirmation" meant missing the entry entirely — price recovered $3+ by May 7 open. Protocol refinement needed: when price gaps INTO entry zone on macro-driven move (not technical breakdown), execute intraday with a smaller starter position rather than waiting for EOD close confirmation.
+
+---
+
 ## EOD Summary - 2026-05-06
 
 **Portfolio Value:** $100,000.00
