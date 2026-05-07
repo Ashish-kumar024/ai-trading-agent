@@ -1,5 +1,250 @@
 # Market Context
 
+## Last Updated: 2026-05-07 (Pre-Market Intelligence Analysis — ~07:00 ET)
+
+---
+
+## Pre-Market Enhanced Intelligence Analysis — 2026-05-07
+
+**Run Time:** Pre-Market (~07:00 ET)
+**Analysis Type:** Multi-Source Intelligence (Technical + Fundamental + News + Social + Insider)
+**Portfolio Status:** $100,000 cash — fully available
+
+---
+
+### Market Regime — May 7, 2026
+
+| Index/Indicator | Level | Signal | Notes |
+|-----------------|-------|--------|-------|
+| S&P 500 (prev close) | 7,365.12 | **BULLISH** ✅ | Record ATH; +1.46% May 6 |
+| Nasdaq (prev close) | 25,838.94 | **BULLISH** ✅ | Record ATH; +2.02% May 6 |
+| SPY | ~$736 | **BULLISH** ✅ | +10.2% above 200MA |
+| SPY 200MA | ~$668 | Strong uptrend | No regime threat |
+| VIX | 16.73 | **CALM** ✅ | Below 20; fear gauge muted |
+| WTI Oil (Jun) | $100.73 (-1.51%) | Falling | Iran peace framework reducing war risk premium |
+| Market Breadth (A/D) | Rising since March | **BULLISH** ✅ | A/D line trending up alongside index |
+| Herd Index (QHI) | 80.3 | **Extreme Greed** ⚠️ | Elevated; watch for sentiment reversal |
+
+**Regime: BULLISH** — ATHs confirmed on all major indexes. VIX calm. Iran-U.S. peace framework negotiations are the dominant macro driver, fueling risk-on rotation out of energy and into industrials, tech, and discretionary.
+
+---
+
+### Macro Context — Week of May 7, 2026
+
+| Event | Date | Impact |
+|-------|------|--------|
+| Iran-U.S. Peace Framework | Active negotiations | Oil falling ↓ — risk-on rally ↑ |
+| CPI (April 2026) | **May 12** ⚠️ | Major volatility risk — ONE WEEK OUT |
+| Fed Meeting | None this week | No immediate rate risk |
+| Strait of Hormuz | Tentative MOU | Removes energy supply shock premium |
+
+> **Critical Warning:** CPI release on May 12 creates volatility risk. Avoid entering positions that need >1 week to work given potential macro shock next Tuesday.
+
+---
+
+### Sector Rotation — May 7, 2026
+
+| Sector | Status | Momentum |
+|--------|--------|----------|
+| Industrials (XLI) | **LEADER** ✅ | +2.7% May 6; +12.8% YTD |
+| Technology (XLK) | **LEADER** ✅ | +2.2% May 6; AI/semiconductor surge |
+| Materials (XLB) | Leading | +2.1% May 6 |
+| Consumer Discretionary | Improving | Oil drop tailwind → spending power |
+| Healthcare (XLV) | **Improving** 📈 | Moving from lagging to improving quadrant |
+| Energy (XLE) | **LAGGING** ❌ | -4.2% May 6; Iran deal headwind |
+| Utilities (XLU) | Lagging | -1.2% May 6 |
+
+**Flow of Momentum:** Industrials → Technology → Materials → Consumer Discretionary. Energy rotation OUT.
+
+---
+
+### Stock Discovery — Candidates Screened (May 7, 2026)
+
+**Qualified for Intelligence Phase:**
+
+| Symbol | Reason Selected | Eliminated Reason |
+|--------|----------------|-------------------|
+| DASH | +33% rev growth, EPS beat, Q2 guidance beat | — Proceeding ✅ |
+| RDDT | +69% rev growth, 74% EPS beat, 7 consec. 60%+ quarters | — Proceeding ✅ |
+| DAR | Prior candidate; above 50MA; Jefferies upgrade | Oil headwind; weak fundamentals data |
+| AMD | +38% rev, +57% data center, EPS beat | **Eliminated:** RSI 80.6 overbought; 22% above 50MA |
+| GLW | Nvidia $2.7B deal partnership | **Eliminated:** P/E 78x trailing; +85% YTD; overvalued |
+| SMCI | EPS beat $0.84 vs $0.64 | **Eliminated:** Revenue MISS ($10.24B vs $12.33B est.); Hold consensus |
+
+---
+
+## Intelligence-Enhanced Candidates
+
+---
+
+### Rank 1: DASH — Score: 17/20 — STRONG BUY
+
+**Technical (4/7):**
+- Golden cross status: Recovering from $143 March low → 50MA ~$175-180, 200MA ~$200. Near crossover but not confirmed yet: +1
+- Near 50MA pullback: Post-earnings gap to ~$197; 50MA ~$175-180 (was at 50MA pre-earnings): +1
+- Volume confirmation: +12% surge on earnings day with heavy volume: +2
+- **Technical Score: 4/7 → weighted 3.4/6**
+
+**Fundamentals (7/7):**
+- Q1 2026 Revenue: $4.04B (+33% YoY) — beats >20% threshold: +3
+- EPS: $0.42 beat (adj. EBITDA +28% YoY to $754M): +2
+- Q2 Guidance: GOV $32.4-33.4B vs $32.43B consensus — raised: +2
+- Q1 GOV: $31.6B (+37% YoY) — key operating metric beat
+- MAU: Record monthly active users; record membership signups
+- **Fundamentals Score: 7/7 → weighted 5/5**
+
+**News Sentiment (Very Positive — +3):**
+- DoorDash stock surged 10-12% after-hours and pre-market
+- CEO Tony Xu: building agentic AI shopping tools for ordering
+- Revenue miss on top line offset by GOV beat and profit strength
+- Strong Q2 guidance drove institutional re-rating
+- Key headlines: "Record MAU", "GOV +37%", "Agentic AI is the way forward"
+- **News Score: +3 → weighted 4/4**
+
+**Social Sentiment (Bullish — +1):**
+- Stocktwits: Shifted to **"extremely bullish"** from "bullish"
+- WallStreetBets: No meme stock characteristics; fundamental discussion
+- Quality: High — driven by earnings analysis, not hype
+- Red flags: None ✅
+- **Social Score: +1 → weighted 2/2**
+
+**Insider/Institutional (3/4):**
+- Director Alfred Lin: $100M+ in purchases over 6 months (**major insider conviction**): +2
+- Wellington Management: +4,690,744 shares (Q4 2025): +1
+- T. Rowe Price: +3,447,754 shares (Q4 2025): included above
+- CEO Tony Xu: Net seller (plan-based, normal for high-comp executives)
+- Unusual options: Not flagged: +0
+- **Insider Score: 3/4 → weighted 1.5/2**
+
+**Catalysts & Risks:**
+- Next earnings: ~August 2026 (>12 weeks) ✅ No near-term earnings volatility
+- Positive catalysts: Agentic AI integration, DashPass membership growth, international expansion
+- Key risks: (1) Oil recovery could reduce consumer spending tailwind; (2) CPI May 12 macro risk; (3) Revenue line misses despite GOV strength; (4) Consumer spending slowdown if Iran deal falls through
+
+**Macro/Timing (2/2):**
+- Sector: Consumer Discretionary benefits from oil price decline (more spending power): +1
+- No earnings within 2 weeks: Next Q2 ~August: +1
+- **Macro Score: 2/2 → weighted 1/1**
+
+**COMPOSITE SCORE: 3.4 + 5 + 4 + 2 + 1.5 + 1 = 17/20 → STRONG BUY**
+
+**Entry Plan:**
+- Current est. price: ~$195-200 (post-earnings gap)
+- Ideal entry: $185-195 (allow minor pullback; 50MA support at ~$175)
+- Aggressive entry: $193-200 at open if holding above $190
+- Stop loss: $183 (-7% from $197)
+- Take profit: $221 (+12% from $197)
+- Position size: ~91 shares (~$18,000 = 18% of portfolio)
+- ⚠️ **CPI May 12 risk**: Consider half-size entry ($9,000) to hedge macro event
+
+---
+
+### Rank 2: RDDT — Score: 12/20 — BUY
+
+**Technical (2/7):**
+- Golden cross: 50MA ~$141, 200MA ~$188 → **Death cross** (bearish); stock recovering: +0
+- Near 50MA pullback: Price $166.56 is 18% above 50MA ($141) — not a pullback entry: +0
+- Volume confirmation: +13% surge on April 30 earnings with high volume: +2
+- **Technical Score: 2/7 → weighted 1.7/6**
+- ⚠️ Technical weakness is primary drag on score
+
+**Fundamentals (7/7):**
+- Q1 2026 Revenue: $663M (+69% YoY) — massive beat vs $611M estimate: +3
+- EPS: $1.01 vs $0.58 expected (**74% EPS beat**): +2
+- Q2 2026 Guidance: $715-725M revenue (+44% YoY midpoint) — raised: +2
+- Ad revenue: $625M (+74% YoY); 7th consecutive 60%+ revenue growth quarter
+- DAU: 126.8M (+17% YoY); ARPU $5.23 (beat $4.81 est.)
+- EBITDA margin: 40% — exceptional for growth stage
+- **Fundamentals Score: 7/7 → weighted 5/5**
+
+**News Sentiment (Very Positive — +3):**
+- Q1 beat on every key metric; stock surged 13% post-earnings (April 30)
+- Evercore ISI: Target $300 (May 1); Goldman Sachs: Target raised to $200; Truist: $265; Raymond James: $180
+- Analyst consensus: **BUY** (17 Buy, 11 Hold, 1 Sell); median target $215-247
+- Key headlines: "7 consecutive 60%+ revenue quarters", "ARPU beat", "EBITDA margin 40%"
+- **News Score: +3 → weighted 4/4**
+
+**Social Sentiment (Neutral — 0):**
+- WSB (WallStreetBets): Ironically skeptical — "long-time users frustrated over corporatization"
+- Some bullish discussion on reddit's own growth story
+- No meme stock characteristics; no pump-and-dump signals ✅
+- Quality: Medium
+- **Social Score: 0 → weighted 0/2**
+
+**Insider/Institutional (1.5/4):**
+- Director Sarah Farrell: $1.4M purchase at $132 (2nd major purchase after $7.5M prior month): +1
+- Institutional ownership: 42% (above industry average of 24%): partial +0.5
+- CEO Steve Huffman: 111 sales = $41.6M (6 months) — heavy executive selling ⚠️
+- CFO/COO Jennifer Wong: 84 sales = $61.7M — heavy selling ⚠️
+- Unusual call activity: None flagged: +0
+- **Insider Score: 1.5/4 → weighted 0.75/2**
+- ⚠️ Executive selling is a yellow flag; mitigated by strong director buying
+
+**Catalysts & Risks:**
+- Next earnings: **July 30, 2026** ✅ (>11 weeks — no near-term volatility)
+- Positive catalysts: AI data licensing deals, international ad expansion, platform monetization improvements
+- Key risks: (1) Death cross technical pattern — stock below 200MA creates overhead resistance; (2) Executive insider selling at scale; (3) Platform "corporatization" reducing organic engagement; (4) CPI May 12 macro risk; (5) Regulatory risk (content moderation)
+
+**Macro/Timing (1/2):**
+- Sector: Internet/ad tech — mixed signals (tech in "lagging" RRG quadrant, but ad revenue is a separate driver): +0
+- No earnings within 2 weeks: July 30: +1
+- **Macro Score: 1/2 → weighted 0.5/1**
+
+**COMPOSITE SCORE: 1.7 + 5 + 4 + 0 + 0.75 + 0.5 = 12/20 → BUY**
+
+**Entry Plan:**
+- Current est. price: $166.56 (May 7 pre-market)
+- Ideal entry: $155-167 (current zone or pullback toward 50MA convergence at $141-155)
+- Aggressive entry: $163-167 at market if maintaining above $160
+- Stop loss: $155 (-7% from $166.56)
+- Take profit: $187 (+12% from $166.56)
+- Position size: **54 shares (~$9,000 = 9% of portfolio)** — HALF SIZE due to technical weakness
+- ⚠️ **Upgrade to full 18% position only if 50MA crosses above 200MA (death cross cleared)**
+- ⚠️ **CPI May 12 risk**: High-beta tech stock; be prepared for volatility
+
+---
+
+### Carry-Over Watch: DAR (Darling Ingredients) — WATCH ⏳
+
+| Parameter | Value |
+|-----------|-------|
+| May 5 Close | $64.38 |
+| May 6 Open | $58.98 (oil-driven gap down) |
+| 50MA | $57.96 |
+| Analyst Target | $75 (Jefferies, raised May 4) |
+| Oil WTI | $100.73 (-1.51%) |
+| May 11 Investor Day | Key catalyst — watch for pattern |
+| Entry Decision | Verify May 6 close vs 50MA ($57.96): if above → entry zone active |
+| Status | **WATCH — awaiting May 6 EOD confirmation + Iran oil trajectory** |
+
+> DAR did NOT qualify for intelligence scoring (insufficient fundamental data for current scoring cycle). Oil headwinds from Iran peace deal create uncertainty. Revisit post-May 11 Investor Day.
+
+---
+
+### Eliminated Candidates Summary
+
+| Symbol | Score Est. | Reason Eliminated |
+|--------|-----------|-------------------|
+| AMD | ~8/20 | RSI 80.6 (overbought); 22% above 50MA; wait for 4-8 week retest to ~$340 |
+| GLW | ~6/20 | P/E 78x trailing, 51x forward; +85% YTD; valuation risk too high |
+| SMCI | ~6/20 | Revenue MISS ($10.24B vs $12.33B est.); Hold consensus ($34-36 target); accounting history |
+
+---
+
+### Decision Matrix — May 7, 2026
+
+| Action | Priority | Condition |
+|--------|----------|-----------|
+| **Enter DASH** | 🟢 PRIMARY | Price $190-200 at/near open; stop $183 |
+| **Enter RDDT (half size)** | 🟡 SECONDARY | Price $160-167; stop $155 |
+| **Watch DAR** | 🟠 MONITOR | Verify May 6 EOD; wait for May 11 Investor Day |
+| **Do NOT chase AMD** | ❌ | Wait 4-8 weeks for 50MA retest (~$340) |
+| **Avoid GLW, SMCI** | ❌ | Pass — scoring criteria not met |
+
+> **Portfolio Risk Note:** DASH (18%) + RDDT (9%) = 27% invested. $73,000 cash reserve maintained. CPI (May 12) creates macro risk — consider entering DASH full size only if pre-market strength confirms and scale to RDDT if DASH fills first.
+
+---
+
 ## Last Updated: 2026-05-06 (EOD Close — ~16:00 ET)
 
 ---
