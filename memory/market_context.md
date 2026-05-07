@@ -1,5 +1,216 @@
 # Market Context
 
+## Last Updated: 2026-05-07 (Midday Check — ~12:00 ET)
+
+---
+
+## Midday Update — 2026-05-07 ~12:00 ET
+
+**Run Time:** Midday
+**Checked By:** AI Trading Agent
+
+---
+
+### PART 1: Risk Management
+
+#### Portfolio Health
+
+| Metric | Value |
+|--------|-------|
+| Cash | $100,000.00 (fully liquid — no executed positions) |
+| Open Positions | **0 executed** (DAR: PLANNED — not executed) |
+| Total Value | $100,000.00 |
+| Daily P&L | $0.00 |
+| Stop-Loss Flags | ⚠️ OIL AT $89–93 (borderline $90 trip wire) — DAR execution gated |
+
+> **Portfolio 100% cash. DAR plan remains CONDITIONAL — no execution without oil/price confirmation.**
+
+---
+
+#### DAR Position Review (PLANNED — Not Yet Executed)
+
+| Parameter | Value |
+|-----------|-------|
+| Symbol | DAR (Darling Ingredients) |
+| Status | PLANNED — awaiting execution confirmation |
+| Original Plan Entry | $58.98 (triggered May 6 at open) |
+| Current Intraday Price | ~$60.85–$61.32 |
+| Day Range | $60.73–$64.53 |
+| Entry Zone | $57.96–$60.86 (50MA to 50MA+5%) |
+| 50-Day MA | $57.96 |
+| % Above 50MA | ~5.0–5.8% (just at/above entry zone top) |
+| Stop Loss | $54.85 (-7.0% from $58.98 plan entry) |
+| Take Profit | $66.06 (+12.0%) |
+| Analyst Targets | TD Cowen $76 ↑ / Jefferies $75 ↑ (both raised May 4–5) |
+
+**Oil Situation (Critical Variable):**
+
+| WTI Level | Source | Assessment |
+|-----------|--------|------------|
+| $89.83/bbl | Intraday low reading | ⛔ BELOW $90 trip wire |
+| $91–93/bbl | Multiple sources midday | ⚠️ BORDERLINE |
+| Day range | $91.98–$96.47 | Bounded above $90 for most of session |
+
+**Morning alert established: "If oil breaks $90 → CANCEL PLAN."** Oil has briefly tested sub-$90 based on at least one intraday reading, but the broader range holds $91–93. Iran is expected to formally respond to the U.S. 14-point peace proposal today — this is the dominant near-term catalyst.
+
+**DAR Price Behavior Today (Constructive):**
+- DAR opened near the 50MA and has since recovered to $60.85–$61.32, right at the top of the entry zone
+- Day low of $60.73 briefly touched inside the entry zone — buyers stepped in
+- The recovery from near-50MA levels to the entry zone top suggests underlying demand at $60–61
+
+**Risk/Decision Matrix:**
+
+| Scenario | Condition | Action |
+|----------|-----------|--------|
+| ✅ EXECUTE | Oil holds $90+, DAR above $57.96 into close | Limit order ~$58.98–$60.86, 305 shares |
+| ⚠️ REDUCE + EXECUTE | Oil $88–90 range, DAR stable $59–61 | Reduce to 150 shares (~10% portfolio) |
+| ⛔ CANCEL | Oil closes below $88 OR DAR closes below $57.96 | Cancel plan; wait for oil stabilization |
+| 📅 HOLD TO CATALYST | Iran response ambiguous; oil range-bound $90–93 | Hold — May 11 Investor Day in 4 days provides pre-event support |
+
+**Recommendation: DO NOT EXECUTE TODAY.** Oil at $89–93 is too uncertain. Iran delivering its formal response today means oil direction will clarify by EOD. Wait for a clean close above $90 in WTI AND DAR above $57.96 before entering. May 11 Investor Day provides a structural demand floor for the stock over the next 4 days.
+
+---
+
+### PART 2: Opportunity Scan (0 executed < 7 limit → FULL SCAN)
+
+---
+
+#### Market Regime — Midday May 7, 2026
+
+| Index | Level | Move | Notes |
+|-------|-------|------|-------|
+| S&P 500 | ~7,353 est. | **+0.2%** | Hit new ATH intraday; cooling in afternoon |
+| Nasdaq | — | **+0.6%** | Tech strength cooling per TheStreet |
+| Dow Jones | — | **-0.55%** | Slight pullback |
+| Russell 2000 | — | **-1.24%** | Small-cap reversed from +1.47% open |
+| WTI Oil | ~$89–93/bbl | **-3%** | Iran 14-point response due today |
+| Brent | ~$97/bbl | **-3%** | Falling in tandem |
+| Regime | **BULLISH** | — | New ATHs intact; consolidation healthy |
+
+> Market made a new all-time high intraday and is now consolidating. Nasdaq cooling from morning highs is normal after the AMD +18.6% / DDOG +30% / FTNT +22% earnings surge cluster. Russell 2000 reversal (-1.24% from +1.47%) is a modest concern for breadth but not a regime signal. Iran deal response is the afternoon wildcard.
+
+---
+
+#### Watchlist Status Update
+
+| Symbol | Last Known | Today Est. | 50MA | Entry Zone | Status |
+|--------|-----------|------------|------|------------|--------|
+| DAR | $58.98 (May 6 plan) | $60.85–$61.32 | $57.96 | $57.96–$60.86 | ⚠️ AT ZONE TOP — oil borderline |
+| SUI | ~$129–130 | ~$129–130 | N/A | 50MA pullback | ⏳ MONITORING — no signal |
+| PINS | $22.28 (May 6) | ~$22 est. | ~$18–19 | 50MA retest | 📋 WATCHLIST ⚠️ LAWSUIT RISK |
+| AMD | $421.39 (May 6 close) | ~$409 (−2.85%) | ~$350–370 | 50MA retest | 📋 FUTURE — 4–8 weeks |
+| MU | ~$589 | ~$589 | ~$422 | 50MA region | 📋 FUTURE — too extended |
+| DDOG | Pre-earnings | **+30% today** | TBD | Post-extension retest | 📋 FUTURE — ADD (4–6 weeks) |
+| FTNT | Pre-earnings | **+22% today** | TBD | Post-extension retest | 📋 WATCH — ADD (4–6 weeks) |
+
+**DAR:** Recovered from near-50MA lows to $60.85–$61.32 — buyers defending the entry zone. Constructive intraday behavior. Oil remains the gate. Do not execute until EOD confirms oil holds $90+.
+
+**SUI:** No updated price; unchanged from prior sessions. Still extended. Russell 2000 reversal (-1.24%) could add modest REIT headwinds. No action.
+
+**PINS:** Securities fraud class action lawsuit (class period Feb 7 2025 – Feb 12 2026; lead plaintiff deadline May 29) continues to weigh on the post-earnings recovery. Stock settling ~$22. 50MA target (~$18–19) remains the entry zone but lawsuit overhang is elevated risk. If entering, reduce size by ~30%.
+
+**AMD:** Healthy consolidation after blowout +18.6% move. Down ~2.85% to ~$409. Normal digestion. 50MA approximately $350–370 (estimated). Still ~10–20% extended. Future watchlist confirmed.
+
+**DDOG:** +30% on Q1 2026 earnings (Revenue $1.006B +32% YoY, EPS $0.60 vs $0.42 est. +43% beat; FY26 guide $4.30–4.34B vs $4.09B est.). AI observability/cloud monitoring secular theme. **FORMALLY ADD TO FUTURE WATCHLIST.** Entry target: 50MA retest in 4–6 weeks (need current 50MA price TBD).
+
+**FTNT:** +22% on raised full-year billings guidance. Enterprise cybersecurity demand accelerating. **ADD TO FUTURE WATCH LIST (lower priority).** Entry: 50MA retest in 4–6 weeks.
+
+---
+
+#### Breaking News — Midday May 7, 2026
+
+| Event | Ticker | Impact | Relevance |
+|-------|--------|--------|-----------|
+| Iran formally delivering response to U.S. 14-point peace proposal | Macro | WTI -3% to $89–93 | 🔴 **KEY VARIABLE** — if deal, oil to $85; DAR thesis at risk |
+| Datadog Q1 2026: Rev $1.006B (+32%), EPS $0.60 (+43% beat), FY26 guide raised | DDOG | **+30%** | Future watchlist — AI observability |
+| Fortinet: Raised full-year billings guidance | FTNT | **+22%** | Future watchlist — cybersecurity |
+| Agilon Health Q1 2026: EPS $1.80 vs $1.31 est. (+37% beat), Rev $1.42B beat, FY guidance raised $5.68–5.81B | AGL | **+99% (≈+56.9% from open)** | Healthcare managed care — too extended |
+| McDonald's Q1 2026 earnings beat | MCD | **+3.3%** | Consumer resilient; not in strategy |
+| ARM Holdings: Earnings beat but supply capacity guidance miss ($1B unmet demand) | ARM | **-7.3%** | AI chip supply bottleneck signal |
+| Jobless claims (wk May 2): 200,000 vs 206,000 est. | Macro | Beat — labor healthy | ✅ Constructive; no recession signal |
+| Alphabet Q1 2026 (reported Apr 29): Net income +81%, Rev $110B, Google Cloud +63% | GOOGL | +10% day after report | AI cloud demand — carry-forward note |
+| Amazon Q1 2026 (reported Apr 29): EPS $2.78, Rev $181.5B (+17%), AWS $37.58B beat | AMZN | +<1% day after | AWS AI demand confirmed; not actionable today |
+| S&P 500 hits new intraday ATH | SPY | +0.2% | Regime: BULLISH ✅ |
+
+**Dominant Macro Theme:** Iran responding to peace proposal today. If resolution: WTI tests $85 (consensus) → energy/biofuel headwinds amplify → DAR thesis under strain. If rejected or delayed: oil stabilizes $90+ → DAR entry window re-opens.
+
+---
+
+#### Intraday Opportunity Assessment
+
+| Symbol | Move | Catalyst | Scores (Tech/Fund/News) | Action |
+|--------|------|----------|-------------------------|--------|
+| DDOG | +30% | Q1 beat, AI observability | 1/5 / 5/5 / 5/5 = **3.7/5** | FUTURE WATCHLIST — 4–6 wks |
+| FTNT | +22% | Billing guidance raise | 1/5 / 4/5 / 4/5 = **3.0/5** | FUTURE WATCH — 4–6 wks |
+| AGL | +99% | Q1 EPS $1.80 vs $1.31, guidance raise | 1/5 / 4/5 / 5/5 = **3.3/5** | FUTURE WATCH — investigate |
+| AMD | -2.85% | Normal digestion after +18.6% | 1/5 / 5/5 / 5/5 = **3.7/5** | FUTURE WATCHLIST — confirmed |
+| ARM | -7.3% | Supply capacity miss | 0/5 / 3/5 / 2/5 = **1.7/5** | PASS — AI supply constraint signal |
+| MCD | +3.3% | Q1 earnings beat | 2/5 / 3/5 / 3/5 = **2.7/5** | PASS — not in strategy |
+
+> **No new positions meet entry criteria today.** All significant movers are extended on earnings catalysts. ARM's decline (-7.3% on supply capacity miss) is an interesting negative data point — it signals AI chip demand is outpacing supply, which is ultimately bullish for AMD/DDOG/semiconductor infrastructure. Not actionable for us.
+
+---
+
+### Recommended Actions
+
+#### Today (May 7 — Afternoon/EOD):
+
+1. **DAR — HOLD PLAN, DO NOT EXECUTE YET**
+   - Check EOD: Does WTI oil close above $90? If yes → entry remains valid for May 8 open
+   - Check EOD: Does DAR close above $57.96 (50MA)? Must confirm.
+   - If both criteria met → place limit order $58.98–$60.86 for May 8 open
+   - If oil closes below $88 → CANCEL PLAN entirely; wait for oil stabilization + DAR 50MA re-confirmation
+   - Iran response outcome is the afternoon trigger — monitor closely
+
+2. **SUI** — No action. Continue monitoring.
+
+3. **PINS** — No action. Flag: lead plaintiff deadline May 29; this may increase lawsuit headline risk in coming weeks.
+
+4. **DDOG** — Formally add to future watchlist. Bookmark current 50MA for tracking in ~4–6 weeks.
+
+5. **FTNT** — Add to future watch list (lower priority than DDOG).
+
+#### Pre-Market May 8, 2026:
+
+1. **Iran deal status** — Was a peace framework signed? This is the single most important variable for DAR and oil-linked names.
+2. **WTI EOD close** — Above $90 = DAR entry remains open. Below $88 = plan cancelled.
+3. **DAR EOD close** — Must be above $57.96. Confirm entry zone status.
+4. **DDOG 50MA level** — Get current 50MA price to define future entry zone.
+5. **FTNT 50MA level** — Same as above.
+
+#### May 11, 2026 (DAR Investor Day):
+- HIGH PRIORITY. 4 days away. Pre-event buying may provide support above $57.96.
+- If DAR sells off post-event → classic "sell the news" → potential cleaner entry at $58–60 with oil clarity.
+- This is the ideal scenario for execution.
+
+#### Upcoming Catalysts
+
+| Date | Event | Action |
+|------|-------|--------|
+| May 7, 2026 (today) | Iran 14-point response | Oil direction pivot — watch closely |
+| May 7–8, 2026 | DAR EOD close vs 50MA ($57.96) | Go/no-go for execution |
+| May 11, 2026 | DAR Investor Day | Post-event pattern = potential entry |
+| May 29, 2026 | PINS securities lawsuit lead plaintiff deadline | Elevated headline risk for PINS |
+| 4–6 weeks | DDOG 50MA retest | Future entry zone to be defined |
+| 4–6 weeks | FTNT 50MA retest | Future entry zone to be defined |
+| 4–8 weeks | AMD 50MA retest (est. $350–370) | Future entry zone |
+| 2–4 weeks | PINS 50MA retest (est. $18–19) | Entry — size down 30% for lawsuit risk |
+
+---
+
+### Key Risk Flags — Midday May 7
+
+| Flag | Detail | Severity |
+|------|--------|----------|
+| WTI oil $89–93 (borderline $90 threshold) | Iran response due today; deal = WTI $85 | 🔴 HIGH — DAR gating variable |
+| Iran delivering formal response to 14-point proposal | Peace deal could finalize; oil crash continues | 🔴 HIGH |
+| PINS securities fraud lawsuit | May 29 lead plaintiff deadline approaching | 🟡 MEDIUM |
+| Russell 2000 reversal (-1.24% vs +1.47% open) | Breadth narrowing; small-cap losing leadership | 🟡 MEDIUM |
+| ARM supply capacity miss (-7.3%) | AI chip supply bottleneck — indirect AI sector signal | 🟢 LOW |
+| Nasdaq cooling from ATH highs | Normal consolidation after AMD/DDOG/FTNT surge cluster | 🟢 LOW |
+
+---
+
 ## Last Updated: 2026-05-06 (EOD Close — ~16:00 ET)
 
 ---
