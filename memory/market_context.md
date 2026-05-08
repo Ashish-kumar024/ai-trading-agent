@@ -1,5 +1,223 @@
 # Market Context
 
+## Last Updated: 2026-05-08 (Midday Check — ~12:00 ET)
+
+---
+
+## Midday Update — 2026-05-08 ~12:00 ET
+
+**Run Time:** Midday
+**Checked By:** AI Trading Agent
+
+---
+
+### PART 1: Risk Management
+
+#### Portfolio Health
+
+| Metric | Value |
+|--------|-------|
+| Cash | $100,000.00 (fully liquid — no executed positions) |
+| Open Positions | **0** |
+| Total Value | $100,000.00 |
+| Daily P&L | $0.00 |
+| Stop-Loss Flags | None |
+
+> **Portfolio 100% cash. No stop-loss checks, take-profit checks, or P&L calculations required.**
+
+---
+
+### PART 2: Opportunity Scan (0 positions < 7 limit → FULL SCAN)
+
+---
+
+#### Market Regime — Midday May 8, 2026
+
+| Index | Level | Move | Notes |
+|-------|-------|------|-------|
+| S&P 500 | ~7,368 est. | **+0.41%** | Continuing from yesterday's ATH |
+| Nasdaq | — | **+0.66%** | Tech modestly higher |
+| Dow Jones | — | **+0.37%** | Steady gains |
+| Russell 2000 | — | **-1.63%** | Small caps lagging AGAIN (2nd consecutive day) |
+| WTI Oil | ~$95.93/bbl | **+1%** | 🔴 MAJOR REVERSAL — Iran-U.S. military exchange |
+| Regime | **BULLISH** | — | ATH trend intact; Iran escalation is key wild card |
+
+**Oil Context:** WTI was $89–91 yesterday on Iran peace deal hopes. Today it has REVERSED to $95.93 (+~$5–6) after U.S. and Iran exchanged direct military fire in the Strait of Hormuz. U.S. struck two Iranian tankers; Iran fired missiles at UAE and attacked U.S. destroyers. Trump says ceasefire "still intact" and described U.S. strikes as a "love tap." Situation is fragile.
+
+**Macro Data:** April jobs report blew out expectations — 115,000 jobs added vs 65,000 consensus. Unemployment held at 4.3%. Labor market very strong; no recession signal.
+
+---
+
+#### Watchlist Status — Midday May 8
+
+| Symbol | Morning Price | Midday Est. | 50MA | Entry Zone | Status |
+|--------|--------------|-------------|------|------------|--------|
+| DAR | $64.74 (open) | ~$65–67 est. | $57.96 est. | $57.96–$60.86 | ❌ EXTENDED — oil spike adds upward pressure |
+| SUI | ~$130 | ~$129–131 | N/A | 50MA pullback | ⏳ MONITORING — no signal |
+| PINS | ~$23 | ~$23 | ~$18–19 | 50MA retest | 📋 WATCHLIST ⚠️ LAWSUIT RISK |
+| AMD | ~$411 | ~$418 est. | ~$350–370 | 50MA retest | 📋 FUTURE — consolidating post-earnings |
+| DDOG | Post +30% | Consolidating | TBD | 50MA retest | 📋 FUTURE — 4–6 weeks |
+| FTNT | Post +22% | Consolidating | TBD | 50MA retest | 📋 FUTURE — 4–6 weeks |
+
+**DAR (PRIMARY WATCH):** Plan was formally CANCELLED on May 7 (price rebounded from entry zone). Today's oil spike to $95.93 is *structurally bullish* for DAR's DGD biofuel thesis — higher WTI = wider crack spreads = better DGD margins. But it also pushes the stock further from the entry zone. DAR Investor Day **Monday May 11** is 3 days away — pre-event buying + oil strength likely keeping the stock elevated at $65–67. Focus shifts entirely to **post-Investor Day "sell the news" pullback (May 11–13)**. Target: any drop back toward $60.86 on the day of or day after the event.
+
+**SUI:** No new data. Still extended above 50MA. Russell 2000 again weak (-1.63%) — REIT sector faces moderate headwinds. No action.
+
+**PINS:** Holding ~$23. Still well above 50MA target zone (~$18–19). Securities fraud class action lead plaintiff deadline May 29 approaching — could see increased headline risk in coming weeks. No action.
+
+---
+
+#### Breaking News — Last 6 Hours (May 8, 2026)
+
+| Event | Ticker | Impact | Relevance |
+|-------|--------|--------|-----------|
+| Iran fires missiles at UAE; U.S. strikes Iranian tankers (Strait of Hormuz) | Macro | WTI **+1% to $95.93** | 🔴 **MAJOR** — oil reversal; DAR thesis STRENGTHENED |
+| April jobs report: 115,000 vs 65,000 expected; unemployment 4.3% | Macro | Bullish | ✅ Labor healthy; no recession signal; Fed not cutting soon |
+| Akamai Technologies Q1 2026: Rev $1.074B (+6%), Cloud +40%, $1.8B AI deal | AKAM | **+28.5%** | AI infrastructure — future watchlist candidate |
+| Fluence Energy Q2 2026: Revenue miss (port delays), record $5.6B backlog, 2 hyperscaler deals | FLNC | **+37.1%** (6-day run) | AI data center energy storage — future watchlist candidate |
+| Micron (MU) hits new all-time high $683.09; +25% this week | MU | ATH | Future watchlist — still extremely extended |
+| Rackspace Technology (RXT) AMD MOU for enterprise AI cloud | RXT | **+12.5%** | AMD AI cloud expansion — minor signal |
+| Innodata (INOD) Q1 EPS beat 83%, raised 2026 outlook | INOD | **+73.4%** | Small/mid-cap AI data services — speculative; PASS |
+| Trade Desk (TTD) weak revenue guidance | TTD | **-13%** | Ad-tech weakness; PINS/ad-tech sector signal (negative) |
+| Trump insists Iran ceasefire still intact despite exchange of fire | Macro | Oil volatile | Oil at $95.93 — direction unclear short-term |
+
+**Key Oil Inflection:** The Iran peace deal trajectory has REVERSED. Yesterday we were watching for a formal Iranian response to the 14-point U.S. proposal. Today, both sides are exchanging direct military strikes. This pushes oil back toward $95–100+ range unless a de-escalation framework emerges. WTI had fallen from $104 (May 5) → $89 (May 7) on peace hopes; today's bounce to $95.93 is a partial reversal.
+
+**TTD -13% context:** Trade Desk weak revenue guidance is a cautionary signal for digital advertising broadly. This is mildly negative for PINS (which depends on ad revenue). No immediate action, but worth noting — if ad market softens, PINS 50MA thesis becomes less urgent.
+
+---
+
+#### Intraday Opportunity Assessment
+
+| Symbol | Move | Catalyst | Tech/Fund/News | Action |
+|--------|------|----------|----------------|--------|
+| AKAM | +28.5% | $1.8B 7-yr AI deal, Cloud +40%, guidance raise | 1/5 / 4/5 / 5/5 = **3.3/5** | FUTURE WATCHLIST — 4–6 wks post-extension |
+| FLNC | +37.1% (6-day streak) | Record $5.6B backlog, 2 hyperscaler MSAs | 1/5 / 3/5 / 4/5 = **2.7/5** | FUTURE WATCH — investigate profitability |
+| MU | ATH $683 (+25% wk) | AI/HBM demand, new SSD product launch | 1/5 / 5/5 / 5/5 = **3.7/5** | FUTURE WATCHLIST — confirmed; 40%+ extended |
+| INOD | +73.4% | EPS beat 83%, raised outlook | 0/5 / 3/5 / 4/5 = **2.3/5** | PASS — small/mid-cap, speculative |
+| RXT | +12.5% | AMD enterprise AI cloud MOU | 1/5 / 2/5 / 3/5 = **2.0/5** | PASS — too small, MOU ≠ revenue |
+| TTD | -13% | Weak revenue guidance | 0/5 / 2/5 / 1/5 = **1.0/5** | PASS — downtrend, guidance miss |
+
+**No new immediate entries available.** All significant movers are extended on catalyst moves. The two most interesting discoveries today are **AKAM** (AI infrastructure CDN with real $1.8B contract) and **FLNC** (energy storage for AI data centers with hyperscaler supply agreements) — both are future watchlist candidates requiring 50MA retracement before entry.
+
+---
+
+#### AKAM — New Future Watchlist Candidate
+
+| Metric | Value |
+|--------|-------|
+| Q1 Revenue | $1.074B (+6% YoY) |
+| Cloud Infrastructure | $95M (+40% YoY) |
+| Security Revenue | $590M (+11% YoY) |
+| Largest Deal | $1.8B, 7-year AI CIS contract (frontier model company) |
+| FY2026 Guide | Revenue $4.50B midpoint; EPS $6.78 midpoint (raised) |
+| Cloud FY Outlook | At least +50% YoY in constant currency (raised) |
+| Today's Move | +28.5% (too extended to enter) |
+
+**Assessment:** Real business with accelerating AI infrastructure demand. The $1.8B 7-year deal with an AI frontier model company is the largest in AKAM's history — signals deep structural AI workload demand. Security growing 11% is recurring revenue. Not a speculative name. **Add to FUTURE WATCHLIST.** Wait for 50MA retest in 4–6 weeks.
+
+Score: Technical 1/5, Fundamental 4/5, News 5/5 → **3.3/5 — FUTURE WATCHLIST**
+
+---
+
+#### FLNC — Watch for Future Entry
+
+| Metric | Value |
+|--------|-------|
+| Q2 Revenue | $464.9M (missed $635.5M est. — port delays only) |
+| Revenue Miss Reason | ~$80M shifted to Q3 due to port disruptions; all received in April |
+| Net Loss Per Share | -$0.16 (narrower than -$0.18 est.) |
+| Backlog | Record $5.6B (+significant YoY) |
+| YTD Order Intake | ~$2.0B (doubled YoY) |
+| Pipeline | 41.3 GW (+16%), 147.0 GWh (+20%) |
+| Hyperscaler Deals | 2 master supply agreements signed; first order converting Q3 |
+| FY2026 Guidance | $3.2–3.6B revenue (reaffirmed); $180M ARR target |
+| Price Target | Roth Capital doubled to $26 (Buy upgrade) |
+
+**Assessment:** Strong AI tailwind story — energy storage for AI data center power management is a real secular need. Hyperscaler partnerships validate commercial momentum. The revenue miss was explained by temporary port disruptions (all shipments already received in April). HOWEVER: Company is still unprofitable. Need deeper fundamental review. **Add to FUTURE WATCHLIST — lower priority. Investigate profitability path before adding seriously.**
+
+Score: Technical 1/5, Fundamental 3/5, News 4/5 → **2.7/5 — WATCH**
+
+---
+
+### Recommended Actions
+
+#### Today (May 8, Afternoon/EOD):
+
+1. **DAR — NO ACTION. MONITOR FOR INVESTOR DAY SETUP.**
+   - Plan cancelled (May 7). Entry zone $57.96–$60.86. Stock is ~$65–67 with oil at $95.93.
+   - Oil spike to $95.93 is STRUCTURALLY BULLISH for DAR (wider DGD crack spreads).
+   - But pre-Investor Day buying + oil strength = stock moving AWAY from entry zone.
+   - Strategy: Be positioned to act FAST if DAR sells off post-Investor Day (May 11).
+   - Target setup: Any pullback to $60.86 or below on May 11–13 = entry trigger.
+   - Watch Level: $62 = approaching zone. $60.86 = entry zone top. $57.96 = 50MA.
+
+2. **Oil Watch:**
+   - WTI at $95.93 — big reversal. If Iran situation escalates further, WTI could retest $100–104.
+   - If de-escalation happens, WTI could fall back to $89–92.
+   - Oil direction will determine whether DAR Investor Day attracts buyers or sellers.
+   - High WTI + positive Investor Day = stock goes higher (no entry).
+   - Low WTI + any investor day weakness = potential entry window.
+
+3. **PINS — NO ACTION.** TTD weakness (-13% on ad guidance) is a mild sector concern. Lawsuit deadline May 29 approaching.
+
+4. **AKAM — ADD TO FUTURE WATCHLIST.** Note current price (~extended post-earnings). Wait for 50MA retest in 4–6 weeks.
+
+5. **FLNC — WATCH.** Research profitability timeline before adding formally.
+
+#### Pre-Market May 11, 2026 (DAR Investor Day — HIGH PRIORITY):
+
+1. **DAR Investor Day begins.** This is the most important near-term catalyst.
+   - Check pre-market: Is DAR gapping up (further from zone) or down (toward zone)?
+   - Prepare limit orders: Entry at $58.98–$60.86; Stop $54.85; Target $66.06.
+   - If pre-market shows DAR dropping → be ready to execute at open.
+   - Typical "sell the news" pattern: 1–3 days after the event.
+
+2. **WTI oil direction** — Iran situation over the weekend will determine Monday oil open.
+
+3. **Iran ceasefire status** — Weekend developments critical. Military exchange on Friday may escalate or cool.
+
+4. **AKAM 50MA level** — Confirm current 50MA price for future tracking.
+
+#### Upcoming Catalysts
+
+| Date | Event | Action |
+|------|-------|--------|
+| May 8 (today) | WTI direction / Iran military exchange follow-through | Monitor oil closely — DAR thesis driver |
+| May 11, 2026 | **DAR Investor Day** — HIGH PRIORITY | Watch for post-event pullback to $57.96–$60.86 |
+| May 11–13, 2026 | DAR post-Investor Day trading | Ideal entry window if "sell the news" pattern |
+| May 29, 2026 | PINS lawsuit lead plaintiff deadline | Elevated headline risk — sizing consideration |
+| 4–6 weeks | AKAM 50MA retest | Future entry — new candidate added today |
+| 4–6 weeks | DDOG 50MA retest | Future entry zone TBD |
+| 4–6 weeks | FTNT 50MA retest | Future entry zone TBD |
+| 4–8 weeks | AMD 50MA retest (~$350–370) | Future entry tracking |
+| 2–4 weeks | PINS 50MA retest (~$18–19) | Entry if zone reached — size down 30% for lawsuit |
+
+---
+
+### Key Risk Flags — Midday May 8
+
+| Flag | Detail | Severity |
+|------|--------|----------|
+| Iran-U.S. military exchange (Strait of Hormuz) | Ceasefire technically intact per Trump; fragile situation | 🔴 HIGH — oil direction uncertain |
+| WTI oil volatile ($89→95.93 in one day) | Peace deal in doubt; military strikes underway | 🔴 HIGH — DAR position size implications |
+| Russell 2000 weak (-1.63%) — 2nd consecutive day | Breadth narrowing; small caps losing leadership | 🟡 MEDIUM |
+| TTD -13% (ad guidance) | Ad market softness signal — PINS risk | 🟡 MEDIUM |
+| PINS lawsuit (May 29 deadline) | Class action approaching key date | 🟡 MEDIUM |
+| MU at all-time highs ($683) | AI/semi sentiment extreme; correction risk | 🟢 LOW |
+| April jobs beat (115K vs 65K) | Strong labor = Fed not cutting = rate pressure on REITs (SUI) | 🟢 LOW |
+
+---
+
+### New Additions to Watchlist
+
+| Symbol | Reason | Entry Strategy | Timeline |
+|--------|--------|----------------|----------|
+| AKAM | $1.8B AI CDN deal, Cloud +40%, secular infrastructure play | Wait for 50MA retest after +28.5% extension | 4–6 weeks |
+| FLNC | AI data center energy storage, hyperscaler MSAs, record backlog | Research profitability; wait for 50MA retest | 4–8 weeks (pending profitability review) |
+
+---
+
 ## Last Updated: 2026-05-08 (Market Open Execution — ~9:30 ET)
 
 ---
