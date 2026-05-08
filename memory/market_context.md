@@ -1,5 +1,68 @@
 # Market Context
 
+## Last Updated: 2026-05-08 (Market Open Execution — ~9:30 ET)
+
+---
+
+## Market Open Execution — 2026-05-08
+
+**Run Time:** Market Open
+**Checked By:** AI Trading Agent
+
+---
+
+### Regime Check
+
+| Metric | Value | Status |
+|--------|-------|--------|
+| SPY Open | $735.10 | ✅ BULLISH |
+| SPY Intraday | $735.54 | ✅ BULLISH |
+| SPY 200-Day MA | ~$657.54 | — |
+| SPY vs 200MA | +11.9% | ✅ Firmly above threshold |
+
+Market regime: **BULLISH** — SPY well above 200MA. All conditions met for potential entries.
+
+---
+
+### DAR Entry Check (Top Opportunity)
+
+| Metric | Value | Status |
+|--------|-------|--------|
+| DAR Intraday Price | $64.74 (~2PM ET) | — |
+| DAR Prev Close (May 7) | $63.11 | — |
+| 50-Day MA (confirmed) | $57.96 | — |
+| 50-Day MA (est. May 8) | ~$58.50 | — |
+| Entry Zone | $57.96–$60.86 | — |
+| % Above 50MA | ~11.7% | ❌ OUTSIDE 5% threshold |
+| Entry Triggered? | **NO** | ❌ Price too far above 50MA |
+
+**Decision: NO ENTRY**
+
+DAR has bounced from $63.11 (May 7 close) to $64.74 today — moving **away** from the entry zone. With Investor Day on Monday May 11, pre-event buying is keeping the stock elevated. Entry zone is $57.96–$60.86; current price is ~$4 above the top of that zone.
+
+---
+
+### Watchlist Status — May 8 Open
+
+| Symbol | Est. Price | 50MA | Entry Zone | Status |
+|--------|------------|------|------------|--------|
+| DAR | $64.74 | $57.96 est. | $57.96–$60.86 | ❌ 11.7% above — NO ENTRY |
+| SUI | ~$130 | N/A | 50MA pullback | ⏳ MONITORING |
+| PINS | ~$22 | ~$18–19 | 50MA retest | ⏳ WATCHLIST — 1–3 weeks |
+| AMD | ~$410–420 est. | ~$350–370 | 50MA retest | 📋 FUTURE — 3–6 weeks |
+| DDOG | Extended | TBD | 50MA retest | 📋 FUTURE — 4–6 weeks |
+| FTNT | Extended | TBD | 50MA retest | 📋 FUTURE — 4–6 weeks |
+
+---
+
+### Next Entry Triggers
+
+1. **DAR (PRIMARY)** — Post-Investor Day (May 11) pullback to $57.96–$60.86. "Sell the news" pattern is common after investor days. Watch Monday–Wednesday May 11–13.
+2. **PINS (SECONDARY)** — 50MA retest (~$18–19 est.) in 1–3 weeks. Note: securities fraud lawsuit lead plaintiff deadline May 29 adds risk; size down ~30% if entering.
+3. **AMD / DDOG / FTNT** — Future watchlist; 50MA retests 3–6 weeks out.
+
+---
+
 ## Last Updated: 2026-05-07 (Midday Check — ~12:00 ET)
 
 ---

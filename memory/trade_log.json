@@ -246,5 +246,47 @@
       "Oil: WTI $88 = key support for biofuel thesis; monitor over weekend",
       "Friday EOD (May 8): Run weekly review — first full trading week of inception"
     ]
+  },
+  {
+    "date": "2026-05-08",
+    "action": "MARKET_OPEN_SCAN",
+    "routine": "market_open_execution",
+    "symbol": "DAR",
+    "decision": "NO_ENTRY",
+    "reason": "DAR at $64.74 is ~11.7% above 50-day MA ($57.96) — well outside the 5% proximity threshold. Entry zone is $57.96–$60.86. Price has bounced from $63.11 (May 7 close) to $64.74 today, moving AWAY from entry zone. Pre-Investor Day (May 11) buying likely keeping the stock bid.",
+    "checks": {
+      "market_regime": "BULLISH",
+      "spy_price": 735.54,
+      "spy_open": 735.10,
+      "spy_200ma": 657.54,
+      "spy_above_200ma_pct": 11.9,
+      "spy_above_200ma": true,
+      "top_opportunity": "DAR",
+      "conviction": "Watch for entry",
+      "current_price": 64.74,
+      "prev_close": 63.11,
+      "ma_50_confirmed": 57.96,
+      "ma_50_estimated": 58.50,
+      "pct_above_50ma_confirmed": 11.7,
+      "pct_above_50ma_estimated": 10.7,
+      "within_5pct_of_50ma": false,
+      "entry_zone_low": 57.96,
+      "entry_zone_high": 60.86
+    },
+    "watchlist_status": {
+      "DAR": "NO_ENTRY — $64.74 is ~11.7% above 50MA ($57.96). Rebounding ahead of Investor Day May 11. Need pullback to $57.96–$60.86 entry zone.",
+      "SUI": "NO_ENTRY — Extended above 50MA, monitoring for pullback.",
+      "PINS": "NO_ENTRY — ~$22, needs 50MA retest (~$18–19 est.) in 1–3 weeks.",
+      "AMD": "FUTURE_WATCHLIST — 50MA retest in 3–6 weeks.",
+      "DDOG": "FUTURE_WATCHLIST — 50MA retest in 4–6 weeks post-earnings surge (+30%).",
+      "FTNT": "FUTURE_WATCHLIST — 50MA retest in 4–6 weeks post-earnings surge (+22%)."
+    },
+    "next_entry_triggers": [
+      "DAR: Pullback to $57.96–$60.86 (50MA ±5%) — most likely window is post-Investor Day May 11 if 'sell the news' pattern emerges",
+      "PINS: Pullback to ~$18–19 (50MA) — 1–3 week horizon",
+      "AMD: Pullback to ~$350–370 (50MA est.) — 3–6 week horizon",
+      "DDOG: Pullback to 50MA (TBD) — 4–6 week horizon"
+    ],
+    "notes": "All regime conditions met (SPY $735.54 vs 200MA $657.54, +11.9%). No watchlist names are in the entry zone. DAR approaching Investor Day May 11 — pre-event bid is expected. Post-event pullback remains the primary entry opportunity. Monitor DAR reaction to Investor Day for setup. Oil (WTI $90.22 May 7 close) continues sliding; if it breaks $88 decisively, DAR thesis weakens and size reduction may be warranted on any entry."
   }
 ]
