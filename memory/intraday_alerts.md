@@ -1,3 +1,215 @@
+# Intraday Alert — 2026-05-08 (~11:00 AM ET)
+
+**Run Window:** Market Open → Midday (8:30 AM – 12:00 PM)
+**Portfolio:** $100,000 cash | 0 open positions | Regime: BULLISH (new intraday ATH)
+**Date:** May 8, 2026
+
+---
+
+## Watchlist Status Update
+
+### From Pre-Market Analysis:
+
+- **DAR (Darling Ingredients)**
+  - Entry Zone: $57.96–$60.86 (50MA to 50MA+5%)
+  - May 7 close: **$62.31** (range $61.09–$62.76)
+  - May 8 open (from market_context.md): ~$64.74 (pre-market reference)
+  - Current estimated range: $62–65 (no confirmed real-time May 8 intraday tick)
+  - 50MA: $57.96
+  - % Above Entry Zone Top: ~+2–6%
+  - Status: **STILL EXTENDED — WAIT** ⏳
+  - 🔔 **KEY OIL REVERSAL:** WTI back up to **$95–97/bbl (+1.85%)** today — reversing yesterday's $89–93 concern
+    - Iran attacked UAE AGAIN today + US struck 2 Iranian tankers
+    - Trump says ceasefire "still intact" ("just a love tap")
+    - The gating variable (oil below $90) has REVERSED — DAR fundamental thesis INTACT
+  - Investor Day: **Monday May 11 — 3 days away.** Pre-event buying likely keeping price elevated.
+  - Action: **WAIT — do not chase. Post-Investor Day "sell the news" pullback to $57.96–$60.86 remains the primary entry thesis. Oil back above $90 clears the fundamental gate.**
+
+- **SUI (Sun Communities)**
+  - Last confirmed: ~$127–130 (unchanged from prior sessions)
+  - Status: **MONITORING** — no entry signal, still extended from 50MA
+  - Russell 2000 / REIT sector: mixed; no notable REIT catalyst today
+  - Action: **WAIT** — continue monitoring
+
+- **PINS (Pinterest)**
+  - Post-earnings settle: ~$23 (up from $22 pre-market, still elevated after May 5 +15% surge)
+  - Entry Zone: ~$18–19 (50MA)
+  - Status: **WATCHLIST — TOO EXTENDED** 📋
+  - 🚩 **NEW FLAG (May 8):** Motley Fool article today: "Pinterest's Earnings Surge: A Short-Lived Spike or a Start of a Recovery?" — raises durability questions on post-earnings move
+  - 🚩 **MARGIN CONCERN:** SimplyWallSt note: "Pinterest Q1 2026 Net Margin Collapse Tests Bullish Earnings Growth Narrative" — margins contracting despite revenue growth
+  - Securities fraud lawsuit lead plaintiff deadline May 29 still approaching — elevated headline risk
+  - Action: **MONITOR** — wait for pullback toward $18–19. Margin and lawsuit narrative could accelerate the pullback. Size down 30% if/when entering.
+
+- **AMD (Advanced Micro Devices)**
+  - Current: ~$413–416 (range $408–416 today)
+  - 50MA: ~$350–370 (estimated)
+  - Still ~12–18% extended from 50MA post-earnings
+  - Status: **FUTURE WATCHLIST** — 3–6 weeks ⏳
+  - Rackspace (RXT) MOU today with AMD for enterprise AI cloud — confirms AMD's enterprise AI traction
+  - Action: Track 50MA approach; no entry yet
+
+- **DDOG (Datadog)**
+  - Appearing on S&P 500 top movers winners list today — continuing the +31% May 7 earnings move
+  - Status: **FUTURE WATCHLIST** — 4–6 weeks ⏳
+  - Action: Need 50MA price level; track consolidation
+
+- **FTNT (Fortinet)**
+  - Also on S&P 500 winners list today — continuing the +20% May 7 earnings move
+  - Status: **FUTURE WATCHLIST** — 4–6 weeks ⏳
+  - Action: Need 50MA price level; track consolidation
+
+---
+
+## Breaking Events (Last 3 Hours)
+
+### Market-Wide:
+
+- **🟢 APRIL JOBS REPORT (BIGGEST EVENT TODAY):** +115,000 nonfarm payrolls vs 55,000 consensus estimate — nearly double expectations
+  - Unemployment: 4.3% (held steady as expected)
+  - Wages: +0.2% MoM vs +0.3% expected — tame inflation signal
+  - **Assessment: Goldilocks scenario** — strong jobs + cooling wages = economy healthy + Fed stays on hold. Markets rallying. S&P 500 and Nasdaq hit new intraday all-time highs.
+
+- **🟡 IRAN SITUATION (OIL REVERSAL):**
+  - Iran fired missiles at UAE AGAIN today
+  - US struck 2 Iranian tankers trying to evade naval blockade
+  - Trump insists ceasefire "still in effect" — calling strikes "just a love tap"
+  - WTI crude: **$95–97/bbl (+1.85%)** — reversal from yesterday's $89–93 range
+  - Brent crude: **Above $101/bbl**
+  - Iran still "contemplating US offer to end conflict" — situation fluid
+  - **DAR implication: OIL BACK ABOVE $90 — the gating variable that nearly cancelled the DAR plan has reversed. Fundamental thesis intact.**
+
+- **Indices (Intraday):**
+  - S&P 500: +0.41% (new intraday ATH)
+  - Nasdaq: +0.66% (new intraday ATH)
+  - Dow: +0.37%
+  - SPY: ~$734–735
+  - Regime: **BULLISH** ✅ — new highs confirmed
+
+- **NVDA Milestone:** Nvidia market cap hits **$5.17 trillion** — up 80% over past year. AI infrastructure demand remains insatiable.
+
+### Stock-Specific:
+
+- **AKAM (Akamai Technologies): +28.5%** — Q1 revenue $1.074B (+6% YoY); Cloud Infrastructure +40%; Security +11%; raised full-year outlook. Mixed quarter with strong cloud/security growth.
+- **INOD (Innodata): +86.8% to $85.30** — Q1 revenue $90.1M (+54% YoY), EBITDA $25M (28% margin), net income $14.9M. Raised FY2026 guidance to 40%+ revenue growth. AI data annotation/training company.
+- **FLNC (Fluence Energy): +37–40% to $24.63** — strong Q1, record backlogs, new hyperscaler energy storage agreements. Susquehanna raised target to $25.
+- **RXT (Rackspace): +12.5%** — MOU with AMD to develop enterprise AI cloud for regulated industries.
+- **Tesla: $100M contract** for 370 Semi trucks to California buyer — commercial EV momentum.
+- **DDOG / FTNT:** Continuing to build on May 7 earnings gaps (S&P 500 top movers list).
+
+### No Fed Events Today:
+- Fed funds rate unchanged at 3.5%–3.75% (last held April 29). Next FOMC not until June.
+- Today's tame wage data (+0.2% MoM) is consistent with Fed staying on hold. No rate hike risk.
+
+---
+
+## Unusual Activity
+
+### Top Movers:
+
+- **INOD (Innodata): +86.8%**
+  - Fundamental catalyst? ✅ Q1 rev +54%, EBITDA margin 28%, guidance raised
+  - Market cap >$1B? ⚠️ Marginal — approximately $1.5–2.0B post-surge (was likely sub-$1B pre-move)
+  - Price >$10? ✅ $85.30
+  - Concern: Volatile speculative-level move (+86.8%) suggests thin float. AI data annotation is a competitive space.
+  - Action: **PASS** — too speculative for our strategy; below threshold for market cap confidence
+
+- **AKAM (Akamai Technologies): +28.5%**
+  - Fundamental catalyst? ✅ Cloud +40%, Security +11%, guidance raise
+  - Market cap >$1B? ✅ Large-cap (~$15–20B+ range)
+  - Price >$10? ✅
+  - Assessment: Akamai is pivoting from CDN to cloud/security — the Cloud +40% and Security +11% metrics show it's working. Raised guidance is credible.
+  - Action: **INVESTIGATE FOR FUTURE WATCHLIST** — too extended today after +28.5%. Worth researching 50MA setup once consolidation begins (4–6 weeks)
+
+- **FLNC (Fluence Energy): +37–40% to $24.63**
+  - Fundamental catalyst? ✅ Record backlogs, hyperscaler agreements, strong Q1
+  - Market cap >$1B? ✅ Estimated $2–4B
+  - Price >$10? ✅
+  - Assessment: Energy storage for AI hyperscalers is a real secular theme. Fluence is an Arclight Capital / Siemens portfolio company with institutional backing.
+  - Action: **INVESTIGATE FOR FUTURE WATCHLIST** — too extended today. Hyperscaler energy storage = legitimate secular growth theme tied to AI infrastructure buildout
+
+- **RXT (Rackspace): +12.5%**
+  - Market cap: ⚠️ Rackspace has been distressed — market cap likely sub-$1B
+  - Action: **PASS** — does not meet market cap criteria; speculative
+
+### Sector Rotation:
+- **Leaders:** Energy (oil reversal on Iran), Technology (AI names continuing), Consumer Staples
+- **Laggards:** Health Care, Utilities, Consumer Discretionary
+- **Key rotation note:** Energy went from laggard (May 5–7 on Iran peace hopes) back to leader (May 8 on fresh Iran hostilities). This whipsaw is a risk for directional sector bets.
+- **AI infrastructure theme remains dominant:** NVDA $5.17T, AMD enterprise cloud, DDOG/FTNT post-earnings extension, hyperscaler energy storage (FLNC) — all confirming the multi-year AI capex cycle.
+
+---
+
+## Position Monitoring
+
+**No active positions.** Portfolio 100% cash. No stop-loss checks or P&L required.
+
+---
+
+## Recommended Actions
+
+### Immediate (Today):
+
+1. **DAR — OIL GATE CLEARED; MAINTAIN WAIT FOR INVESTOR DAY SETUP**
+   - Oil back at $95–97 means the fundamental thesis gate is re-opened
+   - DAR still trading $62–65, above the entry zone ($57.96–$60.86)
+   - Investor Day is **Monday May 11** — 3 days away. Pre-event buying is the likely explanation for price staying elevated.
+   - **Do NOT chase.** The post-Investor Day "sell the news" pattern remains the primary entry opportunity.
+   - If price pulls back to $60.86 or below before May 11 → consider entry (300 shares, ~$60 avg, stop $55.80, target $67.20)
+   - Ideal scenario: DAR presents at Investor Day → stock fades → drops to $58–61 zone → clean entry with oil above $90
+
+2. **PINS — MONITOR MARGIN NARRATIVE**
+   - Today's Motley Fool and SimplyWallSt articles question the sustainability of PINS' earnings bounce
+   - Net margin contraction could become a narrative driver accelerating the pullback to 50MA
+   - This is actually constructive for our thesis — a faster pullback to $18–19 is possible if bearish sentiment builds
+   - Continue monitoring; May 29 lawsuit deadline is an approaching catalyst for volatility
+
+3. **SUI — NO ACTION.** Continue passive monitoring.
+
+4. **AMD — NO ACTION.** $415 is still extended from 50MA. Future watchlist confirmed.
+
+### New Watchlist Additions to Investigate:
+
+- **AKAM (Akamai Technologies)** — Cloud + security pivot with raising guidance. Large-cap. Investigate for future watchlist entry when 50MA data available post-consolidation.
+- **FLNC (Fluence Energy)** — Hyperscaler energy storage with record backlogs. AI infrastructure adjacency. Investigate 50MA level and balance sheet for future watchlist.
+
+### For Midday Review (12:00 PM):
+
+- Iran situation: Any ceasefire resolution or further escalation?
+- Oil direction: Does WTI hold $95+ or pull back?
+- DAR intraday price: Is any pre-Investor Day pullback beginning?
+- PINS: Does the margin collapse narrative gain traction today?
+- AKAM/FLNC: How do they close — do the moves hold?
+
+---
+
+## Key Risk Flags
+
+| Flag | Detail | Severity |
+|------|--------|----------|
+| Iran whipsaw (oil) | Fresh hostilities reverse oil back to $95–97; situation highly fluid | 🟡 MEDIUM |
+| DAR Investor Day May 11 | Pre-event buying keeping stock above entry zone | 🟡 MEDIUM |
+| PINS net margin collapse | Q1 margins contracting despite revenue growth — narrative risk | 🟡 MEDIUM |
+| PINS lawsuit deadline May 29 | Securities fraud lead plaintiff deadline approaching | 🟡 MEDIUM |
+| Goldilocks jobs report | +115K jobs / tame wages — this is a POSITIVE signal, not a risk | 🟢 (Positive) |
+| NVDA $5.17T milestone | AI infrastructure demand insatiable — regime confirmation | 🟢 (Positive) |
+
+---
+
+## Scores — New Investigation Candidates
+
+| Symbol | Technical | Fundamental | News | Overall | Action |
+|--------|-----------|-------------|------|---------|--------|
+| AKAM | 1/5 (extended +28.5%) | 4/5 | 4/5 | 3.0/5 | INVESTIGATE — future watchlist |
+| FLNC | 1/5 (extended +38%) | 4/5 | 4/5 | 3.0/5 | INVESTIGATE — future watchlist |
+| INOD | 1/5 (speculative +86.8%) | 3/5 | 3/5 | 2.3/5 | PASS — too speculative |
+| RXT | 1/5 | 2/5 | 3/5 | 2.0/5 | PASS — sub-$1B market cap |
+
+---
+
+*Next scheduled check: Midday Risk Management (~12:00 PM ET)*
+
+---
+
 # Intraday Alert — 2026-05-07 (~10:30 AM ET)
 
 **Run Window:** Market Open → Midday (8:30 AM – 12:00 PM)
