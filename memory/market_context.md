@@ -1,6 +1,6 @@
 # Market Context
 
-## Last Updated: 2026-05-07 (Midday Check — ~12:00 ET)
+## Last Updated: 2026-05-08 (Pre-Market Enhanced Intelligence Analysis)
 
 ---
 
@@ -931,3 +931,207 @@ Three stocks flagged with fresh golden cross signals and assessed for fundamenta
 - For SUI, a 2–3% pullback toward the 50-day MA would improve R/R
 - Re-evaluate WVE only after AATD Phase 2 data release (May 2026)
 - Monitor SPY: if it closes below $657 (200MA), shift to defensive/cash posture
+
+---
+
+# Market Context — 2026-05-08 (Pre-Market Enhanced Intelligence Analysis)
+
+## Market Regime
+
+| Indicator | Value | Signal |
+|-----------|-------|--------|
+| SPY vs 200MA | >$668–680 MA (bullish regime) | **BULLISH** |
+| VIX | 17.32 | **CALM** (<20 threshold) |
+| Market Breadth | A/D line trending higher with S&P 500 | **BROAD BULL** |
+| SPY Trend | Above 200MA — confirmed uptrend | **BUY BIAS** |
+
+**Sector Leaders:** Materials (+22% YTD), AI/Semiconductors (momentum), REITs (improving)  
+**Sector Laggards:** Healthcare, Financials (mixed), Traditional Energy
+
+### Macro Events This Week (High Impact)
+| Date | Event | Market Risk |
+|------|--------|-------------|
+| May 8 (Today) | April NFP Report (~60K est. vs 178K prior) | HIGH — weak jobs may signal slowdown |
+| May 12 | CPI for April | HIGH — inflation read under hawkish Fed transition |
+| May 13 | PPI for April | MEDIUM |
+| May 15 | Fed Chair transition (Powell → Warsh) | HIGH — Warsh hawkish, rate hike risk |
+| Ongoing | Iran/US Strait of Hormuz clash | MEDIUM — oil volatility, risk-off pressure |
+| Ongoing | Trump EU tariff threat (15% → higher) | MEDIUM — trade war escalation risk |
+
+> **Analyst note:** Weak NFP (~60K) could be dovish for rates but bearish for growth expectations. Hawkish Warsh Fed transition (May 15) is a headwind. Best entries ideally completed before May 12 CPI.
+
+---
+
+## Intelligence-Enhanced Candidates
+
+### Screened Universe (Quality Filter Applied)
+- Market cap > $1B ✓
+- Price > $10 ✓
+- Average volume > 1M shares ✓
+- No earnings within 2 weeks ✓
+- Positive fundamentals AND technicals required ✓
+
+### Eliminated Candidates
+| Symbol | Reason |
+|--------|--------|
+| NVDA | Earnings May 20, 2026 — within 2 weeks (DISQUALIFIED) |
+| LLY | Death cross: 50MA ($932) < 200MA ($983) — fails technical filter |
+| FCX | Revenue growth only +9.2% YoY — fails >20% fundamental threshold (WATCH only, 8/20) |
+
+---
+
+### Rank 1: AVGO (Broadcom) — Score: 16/20 — STRONG BUY
+
+**Technical (4.3/6):**
+- Golden cross confirmed: 50MA ~$337 > 200MA ~$332 ✓
+- Price: ~$420, well above both MAs (momentum entry, not pullback)
+- Volume: +3.7–4.1% pop on May 5 with above-average volume ✓
+- Note: Price ~26% above 50MA — extended; wait for pullback to $340–360 for ideal entry
+
+**Fundamentals (5/5):**
+- Q1 FY2026 Revenue: $19.31B (+29% YoY); AI semiconductor revenue +106% to $8.4B ✓
+- EPS: $2.05 vs $1.88 est. (+9.04% beat) ✓
+- Q2 Guidance raised: $22.0B (+47% YoY vs. consensus $20.5B) ✓
+- AI revenue backlog: $73B; CEO target >$100B AI sales by 2027
+- Analyst consensus: 47 Buy, 2 Hold, 0 Sell; avg target $488
+
+**News Sentiment (2.7/4 — Positive):**
+- POSITIVE: Google long-term TPU/networking deal through 2031 (WSB post: 280 upvotes)
+- POSITIVE: Anthropic AI deal announced; Jensen Investment Management added 267,208 shares
+- POSITIVE: Broadcom "AI Engine Could Power The Next Decade" — Seeking Alpha
+- CAUTION: OpenAI financing snag in custom chip deal (near-term uncertainty)
+- CAUTION: P/E at 81x — above industry average; valuation risk if sentiment cools
+- **Overall: Positive (+2)**
+
+**Social Sentiment (2/2 — Bullish):**
+- Reddit mentions: Increasing — specifically cited as "unstoppable growth stock"
+- WSB: Quality fundamental discussion, not pump/hype
+- Twitter sentiment: Broadly bullish on AI infrastructure story
+- Quality: HIGH — institutional narrative, not meme characteristics
+- Red Flags: None
+
+**Insider/Institutional (0.5/2):**
+- Insider trades: No recent buying (only awards/tax payments April 20–21)
+- Institutional: Jensen Investment Management added 267,208 shares (accumulation signal) ✓
+- Options: OI Put/Call ratio 1.03 (balanced, no unusual call spike)
+
+**Catalysts & Risks:**
+- Next earnings: June 3, 2026 (safe — >3.5 weeks)
+- Upcoming: Q2 AI revenue expected to reach $10.7B (+140% YoY)
+- Key risks: (1) OpenAI chip deal uncertainty, (2) Customer concentration (Google dominant), (3) Valuation at 81x P/E, (4) Fed hawkish pivot (Warsh) pressuring high-multiple stocks
+
+**Entry Plan:**
+- Ideal pullback entry: $340–$360 (near 50MA, -14–19% from current)
+- Momentum entry (current): $415–$425
+- Stop loss: $390 (-7% from $420)
+- Take profit: $470 (+12% from $420); analyst consensus $488 (+16%)
+- Position size: ~43 shares (~$18,060 at $420, ~18% portfolio)
+
+---
+
+### Rank 2: TSM (Taiwan Semiconductor) — Score: 15/20 — STRONG BUY
+
+**Technical (4.3/6):**
+- Golden cross confirmed: 50MA ~$360 > 200MA ~$320 ✓
+- Price: ~$419 (May 7–8), RSI 71.3 (overbought — caution on momentum entry)
+- Volume: Surged +6% on AMD's blowout Q1 earnings sector catalyst ✓
+- MACD: Bullish (above signal line) ✓
+- Note: Price ~16% above 50MA; RSI elevated; pullback to $370–390 improves R/R
+
+**Fundamentals (5/5):**
+- Q1 2026 Revenue: $35.9B (+40.6% YoY) — beat estimates ✓
+- Q1 Net income: +58.3% YoY; EPS $3.49 vs ~$3.30 est. ✓
+- Full-year guidance raised to >30% revenue growth YoY ✓
+- Q2 guidance: $39.0–40.2B (+10% QoQ)
+- 2nm capacity CAGR: 70% from 2026–2028 (5 fabs entering production)
+- CapEx: $52–56B, tilted to high end (bullish signal)
+
+**News Sentiment (2.7/4 — Positive):**
+- POSITIVE: CEO C.C. Wei: AI demand "extremely robust" — no slowdown seen
+- POSITIVE: Barclays raised PT to $470 (Overweight); Needham to $480; DA Davidson Buy $450
+- POSITIVE: TSMC positioned as critical AI infrastructure chokepoint
+- POSITIVE: "Prediction: TSMC Stock Will Jump 3x by 2030" — Motley Fool
+- CAUTION: Taiwan-China geopolitical risk elevated (US-Iran tensions amplify risk-off globally)
+- CAUTION: RSI 71.3 — technically overbought; pullback likely before next leg
+- **Overall: Positive (+2)**
+
+**Social Sentiment (2/2 — Bullish):**
+- Reddit sentiment score: 82 (Very Bullish) post-earnings
+- WSB: Ranked 3rd on "Best WSB Stocks According to Hedge Funds" list
+- Viral post: "TSMC Quarterly Revenue US $36B (up 41% YoY)" — widespread positive reaction
+- Quality: HIGH — hedge fund & institutional discussion, not retail hype
+- Red Flags: None (meme characteristics absent)
+
+**Insider/Institutional (0.5/2):**
+- Insider ownership: ~1.1–3.5% (no specific recent buying reported)
+- Institutional ownership: 16.5% of ADR float
+- Kornitzer Capital Management recently added TSM shares ✓
+- Options: OI Put/Call ratio 1.48 (slightly bearish positioning — hedging risk)
+
+**Catalysts & Risks:**
+- Next earnings: July 16, 2026 (very safe — >10 weeks)
+- Upcoming: 2nm volume production ramp across 5 fabs (major structural tailwind)
+- Key risks: (1) Taiwan-China geopolitical escalation (existential risk to ADR holders), (2) RSI overbought → potential -10–15% pullback, (3) US chip export restrictions could expand, (4) Global macro slowdown reducing AI CapEx
+
+**Entry Plan:**
+- Ideal pullback entry: $370–$390 (toward 50MA zone, -7–12% from current)
+- Momentum entry (current): $415–$425
+- Stop loss: $390 (-7% from $420)
+- Take profit: $470 (+12% from $420); Needham target $480 (+14%)
+- Position size: ~43 shares (~$18,060 at $420, ~18% portfolio)
+
+---
+
+### Rank 3 (Watch Only): FCX (Freeport-McMoRan) — Score: 8/20 — WATCH
+
+**Why Watch, Not Buy:**
+- Revenue growth only +9.2% YoY ($6.23B vs $5.73B) — fails >20% fundamental threshold
+- EPS beat: $0.57 vs $0.46 (+23.9%) — strong beat, but revenue growth insufficient
+- Materials sector leading (+22% YTD, XLB) — correct sector momentum ✓
+- Copper demand tailwind (AI data centers, renewables) — strong thesis
+- Stock under $61 despite Q1 beat — market skeptical of near-term upside
+- Next earnings: July 22, 2026 (safe)
+- **Upgrade to BUY if Q2 revenue growth accelerates to >20%**
+
+---
+
+## Composite Scoring Summary
+
+| Rank | Symbol | Technical | Fundamentals | News | Social | Insider/Inst | Macro | **TOTAL** | Decision |
+|------|--------|-----------|--------------|------|--------|--------------|-------|-----------|----------|
+| 1 | AVGO | 4.3/6 | 5.0/5 | 2.7/4 | 2.0/2 | 0.5/2 | 0.5/1 | **16/20** | **STRONG BUY** |
+| 2 | TSM | 4.3/6 | 5.0/5 | 2.7/4 | 2.0/2 | 0.5/2 | 0.5/1 | **15/20** | **STRONG BUY** |
+| 3 | FCX | 3.4/6 | 1.4/5 | 0.7/4 | 0.0/2 | 0.0/2 | 1.0/1 | **8/20** | **WATCH** |
+| — | NVDA | — | — | — | — | — | — | DISQUALIFIED | Earnings May 20 |
+| — | LLY | — | — | — | — | — | — | DISQUALIFIED | Death cross |
+
+---
+
+## Critical Rules Compliance Check
+
+| Rule | AVGO | TSM |
+|------|------|-----|
+| Score ≥ 12 | ✓ (16) | ✓ (15) |
+| No meme stock flags | ✓ | ✓ |
+| No earnings within 2 weeks | ✓ (Jun 3) | ✓ (Jul 16) |
+| Positive fundamentals | ✓ (+29% rev, +106% AI) | ✓ (+40.6% rev) |
+| Positive technicals | ✓ (golden cross) | ✓ (golden cross) |
+| News/social as tie-breaker only | Applied | Applied |
+
+---
+
+## Portfolio Action Plan (May 8, 2026)
+
+**Preferred sequencing:**
+1. **Wait for NFP data (8:30 AM ET today)** — if weak (~60K), market may dip → better entry
+2. **Target AVGO first** at $415–425; scale into TSM if AVGO fills
+3. **Do NOT enter both simultaneously** — use NFP reaction to gauge risk appetite
+4. If SPY sells off >1.5% on NFP data → wait for CPI (May 12) before entering
+
+**Maximum deployment:** $36K (~36% of portfolio) across 2 positions of ~18% each
+
+**Hard stops:**
+- SPY closes below 200MA → liquidate both, move to cash
+- VIX spikes above 25 → reduce position size 50%
+- Position loss hits -7% → stop out, no averaging down
+
