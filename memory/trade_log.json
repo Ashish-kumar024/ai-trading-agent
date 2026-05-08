@@ -249,6 +249,77 @@
   },
   {
     "date": "2026-05-08",
+    "action": "EOD_SCAN",
+    "routine": "market_close_weekly_review",
+    "symbol": "DAR",
+    "decision": "NO_ENTRY",
+    "reason": "DAR ~$65 est. close — approximately 12% above 50MA ($57.96), well outside entry zone ($57.96–$60.86). Pre-Investor Day (May 11) bid intact. No entry signal. Strong April jobs report drove market higher; SPY hit new 52-week high $737.75 intraday.",
+    "market_eod": {
+      "sp500_est": 7368.0,
+      "sp500_change_pct_est": 0.42,
+      "sp500_may1_confirmed_close": 7230.12,
+      "sp500_may7_confirmed_close": 7337.11,
+      "sp500_weekly_return_est_pct": 1.90,
+      "spy_est_close": 737.26,
+      "spy_prev_close_confirmed": 731.58,
+      "spy_52wk_high_intraday": 737.75,
+      "spy_200ma": 657.54,
+      "spy_above_200ma_pct": 12.1,
+      "catalyst_today": "Strong April jobs report (beat consensus); Iran MOU progress continues",
+      "wti_oil": 90.0,
+      "wti_trend": "Stabilizing near $90 after last week's crash from $104"
+    },
+    "portfolio_eod": {
+      "cash": 100000.0,
+      "executed_positions": 0,
+      "planned_positions": 0,
+      "total_value": 100000.0,
+      "daily_pnl_usd": 0.0,
+      "daily_pnl_pct": 0.0,
+      "weekly_pnl_usd": 0.0,
+      "weekly_pnl_pct": 0.0,
+      "spy_weekly_return_pct": 1.90,
+      "relative_performance_pct": -1.90
+    },
+    "dar_status": {
+      "est_close": 65.0,
+      "50ma": 57.96,
+      "pct_above_50ma_est": 12.1,
+      "inside_entry_zone": false,
+      "entry_zone_low": 57.96,
+      "entry_zone_high": 60.86,
+      "next_catalyst": "Investor Day Monday May 11 — post-event pullback is primary entry trigger"
+    },
+    "watchlist_eod": {
+      "DAR": "NO_ENTRY — ~$65 est., ~12% above 50MA. Pre-Investor Day bid. Trigger: May 11 post-event pullback to $57.96–$60.86.",
+      "PINS": "MONITORING — ~$22 est.; 50MA retest target ~$18–19 in 1–2 weeks; lawsuit overhang (deadline May 29) warrants 30% size reduction",
+      "AMD": "FUTURE_WATCHLIST — ~$415 est.; 50MA retest in 3–5 weeks",
+      "DDOG": "FUTURE_WATCHLIST — 50MA retest in 4–6 weeks",
+      "FTNT": "FUTURE_WATCHLIST — 50MA retest in 4–6 weeks"
+    },
+    "weekly_summary": {
+      "week": "2026-05-04 to 2026-05-08",
+      "inception_week": true,
+      "trades_executed": 0,
+      "plans_created": 1,
+      "plans_cancelled": 1,
+      "weekly_return_pct": 0.0,
+      "spy_weekly_return_pct": 1.90,
+      "relative_performance_pct": -1.90,
+      "key_missed_opportunity": "DAR $58.98 gap-down on May 6 oil crash — entry window lasted 1 trading day; deferred execution cost the only entry of the week",
+      "protocol_change": "Macro-event gap entries: execute 50% starter position intraday, do not wait for EOD confirmation"
+    },
+    "action_items_monday": [
+      "CRITICAL — DAR Investor Day May 11: Pre-set limit order at $60.00 (center of entry zone), alerts at $60.86 and $57.96",
+      "Scenario A (Sell-the-news selloff to $57.96–$60.86): EXECUTE 305 shares, stop $54.85, target $66.06",
+      "Scenario B (Price stays elevated >$61): Stay in cash, await next pullback",
+      "Scenario C (Gap below $57.96): Cancel plan, reassess thesis",
+      "Begin PINS full-plan sizing: ~230 shares at ~$18.50 = ~$4,255 (12% adjusted for lawsuit risk)",
+      "Monitor WTI: $88 = DAR thesis floor, $85 = reduce size, $80 = cancel thesis"
+    ]
+  },
+  {
+    "date": "2026-05-08",
     "action": "MARKET_OPEN_SCAN",
     "routine": "market_open_execution",
     "symbol": "DAR",

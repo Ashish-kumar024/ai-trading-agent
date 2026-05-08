@@ -18,6 +18,17 @@
       "next_entry_trigger": "Pullback to $57.96–$60.86 entry zone, ideally on Investor Day (May 11) post-event reaction"
     }
   ],
-  "updated_at": "2026-05-07T16:00:00Z",
-  "inception_date": "2026-05-04T00:00:00Z"
+  "updated_at": "2026-05-08T16:00:00Z",
+  "inception_date": "2026-05-04T00:00:00Z",
+  "weekly_performance": {
+    "week_ending": "2026-05-08",
+    "starting_value": 100000.0,
+    "ending_value": 100000.0,
+    "weekly_return_pct": 0.0,
+    "weekly_return_usd": 0.0,
+    "spy_weekly_return_pct": 1.90,
+    "relative_performance_pct": -1.90,
+    "trades_executed": 0,
+    "note": "Inception week — cash-only; single entry opportunity (DAR May 6 gap-down) missed due to EOD confirmation delay"
+  }
 }

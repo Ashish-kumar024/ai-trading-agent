@@ -1,5 +1,143 @@
 # Trading Lessons
 
+## EOD Summary - 2026-05-08 (Friday — Market Close)
+
+**Portfolio Value:** $100,000.00
+**Daily P&L:** $0.00 (0.00%) — no positions executed
+**Active Positions:** 0 executed | 0 planned
+
+EOD: Full cash. No entries triggered. DAR at ~$65 est. close — ~12% above 50MA, well outside entry zone.
+
+Position Details:
+- No open positions. Cash: $100,000.
+
+Market Context (May 8, 2026 — Estimated Close):
+- Regime: **BULLISH** — S&P 500 ~+0.4% to est. 7,368; SPY est. close ~$737.26 (new 52-wk high $737.75 intraday)
+- Strong April jobs report (beat consensus) drove gap-up open; Iran deal progress continues
+- Nasdaq and S&P 500 extended weekly win streak; SPY 200MA spread remains +12%
+- Oil: WTI ~$90 range — stabilizing after last week's crash from $104; Iran MOU framework nearing
+
+Watchlist Status EOD (May 8):
+- **DAR:** ~$65 est. — NO ENTRY. ~12% above 50MA ($57.96). Pre-Investor Day bid intact.
+  Next gate: **Monday May 11 Investor Day** — watch for post-event selloff to $57.96–$60.86
+- **PINS:** ~$22 est. — monitoring; lawsuit overhang (lead plaintiff deadline May 29) adds risk
+- **AMD:** ~$415 est. — future watchlist; 50MA retest in 3–6 weeks
+- **DDOG / FTNT:** Extended; future watchlist; 50MA retests 4–6 weeks out
+
+Action Items for Monday (May 8 → May 11):
+- **CRITICAL — DAR Investor Day (Monday May 11):** Pre-set limit orders and alerts
+  - Scenario A: "Sell the news" selloff to $57.96–$60.86 → EXECUTE (305 shares, stop $54.85, target $66.06)
+  - Scenario B: Price remains elevated → stay in cash, await next structural pullback
+  - Scenario C: DAR gaps DOWN below $57.96 → cancel, reassess thesis; check oil direction
+- **Protocol review:** Apply new "macro-event gap" execution protocol this week (see Weekly Review below)
+- **Oil:** Monitor WTI $88 support level — break below $85 = re-evaluate DAR thesis entirely
+
+---
+
+## Weekly Review — Week of May 4–8, 2026
+
+### ⚠️ INCEPTION WEEK — First Full Trading Week
+
+---
+
+## Performance Summary
+
+| Metric | Value |
+|--------|-------|
+| Starting Value (May 4 inception) | $100,000.00 |
+| Ending Value (May 8 est. close) | $100,000.00 |
+| **Weekly Return** | **$0 (0.00%)** |
+| SPY Weekly Return (est.) | **+1.94%** (~$723 → ~$737) |
+| Relative Performance | **Lagged SPY by ~1.94%** |
+| Benchmark (prior Fri S&P) | 7,230.12 (May 1 close) |
+| Benchmark (this Fri S&P est.) | ~7,368 (+1.90%) |
+
+> Note: Portfolio is in cash-only inception mode. SPY weekly return is estimated based on confirmed May 1 close (7,230.12 / SPY ~$723) and Fox Business intraday data showing SPY ~$737.26 with 52-wk high $737.75 set today. S&P 500 May 7 confirmed close: 7,337.11.
+
+---
+
+## Trade Statistics
+
+| Metric | Value |
+|--------|-------|
+| Trades Executed | 0 |
+| Plans Created | 1 (DAR May 6 — cancelled May 7) |
+| Winners | 0 (N/A) |
+| Losers | 0 (N/A) |
+| Win Rate | N/A — no closed positions |
+| Average Win | N/A |
+| Average Loss | N/A |
+| Largest Win | N/A |
+| Largest Loss | N/A |
+| Max Drawdown | 0.00% (all cash) |
+| Sharpe Ratio | N/A (insufficient data) |
+
+**Only opportunity:** DAR gap-down to $58.98 on May 6 (oil crash) — entered entry zone but plan was not executed before price recovered.
+
+---
+
+## What Worked ✅
+
+1. **Entry discipline held.** DAR was tracked all week at 9–14% above the 50MA ($57.96). Despite strong conviction in the thesis, the system correctly stayed in cash rather than chasing. Prevented buying near the top of a 14% extension.
+2. **Regime identification was accurate.** BULLISH regime correctly maintained throughout. SPY stayed well above 200MA all week (+10–12% spread). No false regime shifts despite oil volatility and daily moves.
+3. **Catalyst identification was correct.** Correctly flagged May 11 Investor Day as the primary entry trigger event well in advance. Pre-event buying pressure anticipated and observed all week. Entry plan pre-staged and ready for Monday.
+4. **Oil impact analysis was sound.** Correctly identified oil crash (WTI -9% on May 6) as creating a gap into entry zone while simultaneously noting the crack spread headwind — balanced, not reactive.
+5. **Watchlist development.** By end of week, a structured pipeline exists: DAR (primary, near-term), PINS (secondary, 1–3 weeks), AMD/DDOG/FTNT (future, 3–6 weeks). No gaps in coverage.
+
+---
+
+## What Didn't Work ❌
+
+1. **Missed the May 6 entry window.** Oil crashed overnight → DAR gapped from $64.38 to $58.98 at open, entering the exact entry zone ($57.96–$60.86). Plan was created but execution deferred for "EOD close confirmation." Price recovered +$3.30 (+5.6%) in one session (May 7 open at $61+). Entry window lasted ~1 trading day. **This is the defining failure of inception week.**
+2. **Single-name dependence.** Only DAR was actionable all week. When DAR's entry window opened and closed in one day, there was no backup opportunity to execute. Zero deployed capital in a strong bull week (+1.94% SPY) was the result.
+3. **EOD confirmation protocol too slow for macro-event gaps.** Standard protocol: wait for EOD close to confirm price is above 50MA before executing. This protocol is designed for gradual technical pullbacks. It is too slow for macro-driven gap entries where price can recover in hours, not days.
+4. **No PINS entry plan fully sized.** PINS had a +15% earnings pop on May 5. With a 1–3 week 50MA retest horizon, initial sizing research (lawsuit risk quantification, position sizing adjustment) should have been completed this week to be ready for next week.
+
+---
+
+## Key Lessons Learned
+
+1. **Macro-event gap entries require intraday execution.** When a macro event (oil crash, earnings gap, geopolitical shock) drops a stock INTO the entry zone, the standard "wait-for-EOD" protocol fails. New protocol: if price gaps into entry zone on macro news, execute a **50% starter position intraday** (not the full plan), confirm thesis integrity, and add the other 50% at EOD or next session if price holds. This captures the entry without requiring perfect timing.
+
+2. **Always maintain 2–3 ready setups, not 1.** Inception week had DAR as the only executable name. A single missed entry = zero deployment. Going forward, at minimum 2 names should be in "ready to execute" status (entry plan fully sized, risk defined, catalysts noted). PINS is the next candidate for full-plan status.
+
+3. **"Thesis risk in the same event as entry signal" = smaller starter position.** The May 6 oil crash created the entry signal (gap to $58.98) AND created thesis risk (oil falling compresses DGD margins). When the same macro event does both simultaneously, the correct response is NOT to skip the trade entirely, but to take a smaller initial position (50% of plan) and use the next 24-48 hours to confirm thesis still holds before adding. Skipping entirely was too conservative.
+
+4. **Pre-event positioning vs. post-event positioning.** The Investor Day May 11 hypothesis is post-event entry (sell the news selloff). This is the right approach for DAR. However, pre-Investor Day buying pressure was predictable and kept the stock elevated all week. Log this behavior for future catalyst events: pre-event bid is real; post-event window is the entry opportunity.
+
+5. **Confirmed vs. estimated prices in the trade log.** Several logged prices this week (SPY, S&P 500, DAR EOD) were estimates based on available web data rather than confirmed closes. External sources (Fox Business, Yahoo) showed some divergence from logged values (e.g., S&P 500 May 7 logged as 7,350.63 vs. confirmed 7,337.11). Prioritize confirmed closes from primary sources; flag estimates explicitly.
+
+---
+
+## Strategy Adjustments
+
+- **New Protocol — "Macro-Event Gap Entry":** If price gaps into entry zone due to macro catalyst (NOT technical breakdown), execute 50% of planned position intraday. Confirm thesis holds over next session. Execute remaining 50% if: (a) price still in zone, (b) macro catalyst resolved or priced in, (c) company fundamentals unchanged.
+- **Risk parameter — unchanged:** 7% stop loss, 12% target, max 18% position size per name, max 7 positions, SPY above 200MA required. These performed correctly this week; no changes needed.
+- **Watchlist management:** Maintain at minimum 2 names in "full plan ready" status at all times. Before end of next week, PINS plan should be fully sized (including lawsuit risk adjustment).
+- **Oil sensitivity trigger:** If WTI closes below $85.00, reduce planned DAR position from 18% → 12% of portfolio. Below $80.00 = cancel thesis and remove from watchlist.
+
+---
+
+## Next Week Focus
+
+**Watchlist Priorities:**
+- **DAR (PRIMARY — Monday decision gate):** Investor Day May 11. Execute if price pulls back to $57.96–$60.86. Full plan: 305 shares, stop $54.85 (-7%), target $66.06 (+12%), ~$18,000 (18% of portfolio).
+- **PINS (SECONDARY — build full plan):** Target 50MA retest ~$18–19 in 1–2 weeks. Size down ~30% due to securities fraud lawsuit overhang (lead plaintiff deadline May 29). Full plan target: 230 shares × ~$18.50 = ~$4,255 (~12% of portfolio adjusted for risk).
+- **AMD:** Continue tracking 50MA level (~$350–370 est.). 3–5 week horizon. No entry yet.
+
+**Key Themes:**
+- Iran peace deal progress → oil stabilization is critical for DAR thesis
+- AI demand cycle (AMD, DDOG, NVDA ecosystem) driving extended valuations; await 50MA retests
+- Strong jobs market (April beat) supports BULLISH regime; watch Fed signals on PCE
+
+**Cautions:**
+- WTI oil direction: $88 = DAR support floor, $85 = size reduction trigger, $80 = thesis cancellation
+- PINS lawsuit uncertainty (May 29 deadline) — size conservatively
+- DAR Investor Day "buy the rumor, sell the news" risk — entry is AFTER event, not before
+- Any SPY close below 200MA ($657.54) = regime shift to NEUTRAL, halt all new entries
+
+---
+
 ## EOD Summary - 2026-05-07
 
 **Portfolio Value:** $100,000.00
