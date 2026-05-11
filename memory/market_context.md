@@ -1,5 +1,211 @@
 # Market Context
 
+## Last Updated: 2026-05-11 (Midday Check — ~12:00 ET)
+
+---
+
+## Midday Update — 2026-05-11 ~12:00 ET
+
+**Run Time:** Midday
+**Checked By:** AI Trading Agent
+**Date:** DAR INVESTOR DAY — May 11, 2026
+
+---
+
+### PART 1: Risk Management
+
+#### Portfolio Health
+
+| Metric | Value |
+|--------|-------|
+| Cash | $100,000.00 |
+| Open Positions | **0** |
+| Total Value | $100,000.00 |
+| Daily P&L | $0.00 |
+| Stop-Loss Flags | None — no active positions |
+
+> **Portfolio 100% cash. No stop-loss or P&L monitoring required.**
+
+---
+
+### PART 2: Market Regime — Midday May 11, 2026
+
+| Index | Level | Status | Notes |
+|-------|-------|--------|-------|
+| SPY | $740.31 | ✅ BULLISH | Day range $735.75–$740.43 — new ATH territory |
+| SPY 200MA | ~$657.54 | — | +12.6% above — firmly bullish |
+| WTI Oil | $96.83 | ✅ ABOVE $90 GATE | Day range $96.63–$100.35; Trump rejected Iran deal → oil gate OPEN |
+| Brent | ~$104+ | — | Elevated |
+| Regime | **BULLISH** | ✅ | SPY at new ATHs; oil risk removed for DAR |
+
+**Oil Context:** Trump rejected Iran's peace proposal ("TOTALLY UNACCEPTABLE") over the weekend. WTI jumped +4–5% and is holding $96–100. The $90 oil tripwire that blocked DAR entry for two weeks is now definitively cleared.
+
+---
+
+### PART 3: Watchlist Status — Midday May 11
+
+| Symbol | Price | 50MA | Entry Zone | % from 50MA | Status |
+|--------|-------|------|------------|-------------|--------|
+| DAR | $63.65 | $58.65 | $58.65–$61.58 | +8.5% | ⚠️ TOUCHED ENTRY ZONE INTRADAY |
+| SUI | ~$125.94 | N/A | 50MA pullback | — | ⏳ MONITORING |
+| PINS | $20.68 | $18.77 | $18.77–$19.71 | +10.2% | ⏳ EXTENDED — trending right |
+| AMD | $455.19 | ~$360 est. | 50MA retest | ~+26% | 📋 FUTURE WATCHLIST |
+| DDOG | $199.94 | $124.41 | 50MA retest | +60.7% | 📋 FUTURE WATCHLIST |
+| FTNT | $114.42 | TBD | 50MA retest | — | 📋 FUTURE WATCHLIST |
+
+---
+
+### DAR — ⚠️ CRITICAL ALERT: ENTRY ZONE TOUCHED INTRADAY
+
+| Parameter | Value |
+|-----------|-------|
+| Current Price | $63.65 |
+| Day Range | $61.35 – $63.96 |
+| 50MA (confirmed May 10) | $58.65 |
+| Entry Zone | $58.65 – $61.58 |
+| Intraday Low | **$61.35 — INSIDE THE ENTRY ZONE** |
+| % from 50MA (current) | +8.5% |
+| WTI Oil | $96.83 — ✅ Above $90 gate |
+| Entry Triggered? | ⚠️ INTRADAY TOUCH — not sustained |
+
+**What Happened:**
+
+Today is DAR Investor Day (10 AM ET, NYC). Management presented the 3-year strategic plan, debt reduction target (below $3B from $4.01B), and Diamond Green Diesel outlook. The stock exhibited a partial "sell the news" reaction, hitting an intraday low of **$61.35** — which is inside the entry zone ($58.65–$61.58) — before recovering to $63.65.
+
+**This is the closest the stock has come to a clean entry since May 6.**
+
+Key observations:
+- Intraday low $61.35 < entry zone top $61.58 → zone was briefly penetrated
+- Strong recovery to $63.65 (+2.3% from the low) suggests buyers defending $61–62
+- Oil at $96.83 removes the key execution risk that blocked entry for 2 weeks
+- Stock is NOT in the entry zone at current price ($63.65)
+
+**Decision:** No entry at $63.65. However, the intraday dip to $61.35 confirms the "sell the news" thesis is in play. If DAR retests $61.58 or below into the close or early May 12, the entry is ACTIVE.
+
+**Entry parameters (ready to deploy):**
+- Shares: ~300
+- Limit order: $58.65–$61.58 (ideally $60.00–$61.00 midzone)
+- Stop loss: $54.55 (-7% from entry midpoint ~$60)
+- Take profit: ~$67.30 (+12%)
+- R/R: ~1.71
+
+---
+
+### SUI — No Change
+
+- Price: ~$125.94 (continuing to drift lower from $130 high)
+- Still extended above estimated 50MA
+- Real Estate sector performing modestly (+0.46% today)
+- No entry signal. Continue monitoring.
+
+---
+
+### PINS — Favorable Trajectory, Lawsuit Deadline Approaching
+
+| Parameter | Value |
+|-----------|-------|
+| Current Price | $20.68 |
+| Day Range | $20.62 – $21.35 |
+| 50MA | $18.77 |
+| Entry Zone | $18.77 – $19.71 |
+| % from Entry Zone Top | +4.9% above $19.71 |
+| % from 50MA | +10.2% |
+| Lawsuit Deadline | May 29 — **18 days away** |
+
+- Trending in the right direction (down from $23 post-earnings → $20.68)
+- Need ~4–5% more pullback to enter the zone
+- ⚠️ Lawsuit deadline May 29 is approaching — elevated headline risk window opening
+- If entering near 50MA, size down ~30%
+
+---
+
+### AMD — Future Watchlist
+
+- Price: $455.19 (day range $418.29–$456.29); near 52-week high $456.29
+- ~26% above estimated 50MA (~$360)
+- Not actionable. Future watchlist — 4–8 weeks.
+
+---
+
+### DDOG — Future Watchlist
+
+- Price: $199.94 (day range $193.16–$203.58); near 52-week high $201.69
+- 50MA confirmed $124.41. +60.7% extended.
+- Not actionable. Future watchlist — 4–6 weeks.
+
+---
+
+### FTNT — Future Watchlist
+
+- Price: $114.42 (day range $111.48–$114.80); 52-week high $114.80
+- 50MA: TBD (need confirmation)
+- Not actionable. Future watchlist — 4–6 weeks.
+
+---
+
+### INTC — New Future Watchlist Addition (added morning alert May 11)
+
+- Catalyst: Apple-Intel foundry agreement to manufacture A/M-series chips by 2027
+- +5.7% today; BofA estimates $10B/year revenue potential by 2030
+- Not actionable today (just gapped). Monitor 2–4 weeks for 50MA pullback.
+- Score: Technical 1/5, Fundamental 4/5, News 5/5 → **3.3/5 — FUTURE WATCHLIST**
+
+---
+
+### Breaking News — Midday May 11, 2026
+
+| Event | Ticker | Move | Relevance |
+|-------|--------|------|-----------|
+| Trump rejects Iran peace proposal ("TOTALLY UNACCEPTABLE") | Macro | WTI +4–5% to ~$97–100 | 🔴 OIL GATE REMOVED — DAR execution conditions met |
+| DAR Investor Day (10 AM ET) — 3yr plan, debt <$3B target | DAR | Day low $61.35 (entry zone touch) | ⚠️ CRITICAL — "sell the news" partial; monitoring for sustained entry |
+| Apple-Intel foundry deal confirmed | INTC | +5.7% | Future watchlist added |
+| S&P 500 new intraday ATH | SPY | $740.43 high | ✅ Regime BULLISH confirmed |
+| The Trade Desk Q1 miss | TTD | -9% | Mild negative read-through for PINS ad-tech thesis |
+| Lumentum added to Nasdaq-100 | LITE | +7.7% | Index flows catalyst — not actionable |
+
+---
+
+### Recommended Actions
+
+#### Today (May 11 — Afternoon/EOD):
+
+1. **DAR — HIGHEST PRIORITY: MONITOR FOR RETEST OF ENTRY ZONE**
+   - Oil gate is OPEN ($96.83 WTI, well above $90 threshold)
+   - Entry zone: $58.65–$61.58
+   - If DAR closes below $61.58 → ENTRY SIGNAL ACTIVE; place limit order overnight
+   - If DAR holds $62–64 → wait; stock is extended but showing "sell the news" pressure
+   - Watch the $61.58 level like a hawk into the close
+   - If entered: 300 shares, limit $58.65–$61.58, stop $54.55, target $67.30
+
+2. **PINS — Continue monitoring**
+   - On track toward entry zone (~4–5% more pullback needed)
+   - May 29 lawsuit deadline is 18 days out — increasing headline risk
+   - No action yet; waiting for $18.77–$19.71 zone
+
+3. **SUI — No action**
+
+4. **INTC — Added to future watchlist** — monitor 2–4 weeks for 50MA pullback
+
+#### Pre-Market May 12, 2026:
+
+1. **DAR EOD close** — Was it in or near the entry zone ($58.65–$61.58)?
+2. **WTI oil direction** — Holding $95+? Or retreating?
+3. **PINS close** — Any acceleration lower toward $19?
+
+---
+
+### Key Risk Flags — Midday May 11
+
+| Flag | Detail | Severity |
+|------|--------|----------|
+| DAR still above entry zone | Current $63.65 — needs pullback to $61.58 or below | 🟡 MEDIUM — entry not yet active |
+| PINS lawsuit deadline May 29 | 18 days — increasing risk window | 🟡 MEDIUM |
+| TTD ad-tech miss | -9% — mild negative signal for PINS thesis | 🟢 LOW |
+| Iran rejection could escalate | Geopolitical risk elevated; oil spike possible | 🟡 MEDIUM |
+| Market at ATH | Consolidation expected — healthy, not alarming | 🟢 LOW |
+
+---
+
 ## Last Updated: 2026-05-08 (Market Open Execution — ~9:30 ET)
 
 ---
