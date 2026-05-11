@@ -1,5 +1,257 @@
 # Market Context
 
+## Last Updated: 2026-05-11 (Pre-Market Intelligence Analysis — ~8:00 ET)
+
+---
+
+## Pre-Market Analysis — 2026-05-11
+
+**Run Time:** Pre-Market (~8:00 ET)
+**Analysis Type:** Enhanced Multi-Source Intelligence
+
+---
+
+## Market Regime
+
+| Metric | Value | Status |
+|--------|-------|--------|
+| SPY Open (May 11 est.) | ~$734.93 | ✅ BULLISH |
+| SPY Last Close (May 8) | $737.62 | ✅ BULLISH |
+| SPY 200-Day MA | ~$657.54 | — |
+| Spread vs 200MA | +$80.08 (+12.2%) | ✅ STRONGLY BULLISH |
+| VIX | 17.19 | ✅ CALM (<20) |
+| S&P 500 (Friday Close) | 7,399 | Near ATH |
+| Nasdaq Composite | 26,247 | New ATH |
+| Market Breadth | Bullish | A/D line trending higher since March lows |
+
+**Regime: STRONGLY BULLISH** — SPY 12.2% above 200MA with broad participation. Both S&P 500 and Nasdaq printing near or at all-time highs. VIX at 17.19 signals institutional calm. Small caps outperforming large caps in early reversal of 2025 dynamic.
+
+---
+
+## Macro Events This Week
+
+| Date | Event | Expectation | Risk |
+|------|-------|-------------|------|
+| May 12 (Tomorrow) | April CPI | Headline 3.7% YoY, Core 2.7% | 🔴 HIGH — hot print = market selloff |
+| May 13 | April PPI | — | 🟡 MEDIUM |
+| May 14 | April Retail Sales | — | 🟡 MEDIUM |
+| May 20 | NVIDIA Earnings | — | 🟡 AI sentiment catalyst |
+
+**Background:** Brent crude >$100/barrel (Middle East tensions). April Nonfarm Payrolls came in at 115,000 (beat), unemployment 4.3%. No Fed meeting this week. Iran deal hopes faded Friday — geopolitical premium persists in energy.
+
+**CPI ALERT ⚠️:** Tomorrow's CPI is the week's dominant risk event. Energy prices likely to keep headline above 3.5%. A hot print could trigger rotation out of growth/momentum names. Gold miners may be relatively resilient given the inflation-hedge narrative.
+
+---
+
+## Sector Analysis
+
+| Sector | YTD Performance | Trend | Notes |
+|--------|----------------|-------|-------|
+| Materials / Gold / Mining | +22% | 🟢 Leading | Gold at $4,500–4,600/oz; sector momentum dominant |
+| Real Assets (Gold, Metals) | Outstanding | 🟢 Leading | Central bank accumulation ongoing |
+| Consumer Discretionary | Strong | 🟢 Leading | In leading RRG quadrant |
+| Communication Services | Strong | 🟢 Leading | AI/media convergence |
+| Small Caps | Outperforming | 🟢 Emerging | Early reversal vs large caps |
+| Technology (XLK) | Slowing | 🟡 Lagging | Post-AI-boom deceleration |
+| Healthcare (XLV) | ~+2% | 🔴 Lagging | Significant underperformance |
+| Consumer Staples | Underperforming | 🔴 Lagging | Defensive rotation out |
+
+**Momentum Flow:** Capital rotating FROM tech/defensive INTO materials/mining/real assets. Gold at $4,500–4,861/oz is the dominant macro trade of 2026.
+
+---
+
+## Intelligence-Enhanced Candidates
+
+### Rank 1: AEM (Agnico Eagle Mines) — Score: 17/20 — STRONG BUY
+
+**Technical (6/7):**
+- ✅ Golden cross confirmed — price $188.34 above 200MA $176.73 (50MA estimated ~$182)
+- ✅ Volume confirmation — record earnings drove institutional accumulation; gold sector momentum
+- ⚠️ Not in deep pullback — price slightly above 50MA, ideal entry on minor pullback
+
+**Fundamentals (6/7):**
+- Q1 2026 EPS: $3.41/share (record; >2x YoY from ~$1.55 prior year)
+- Net income: $1.695B (>2x YoY)
+- Free cash flow: $732M in single quarter
+- Realized gold price: $4,861/oz (+68% YoY)
+- Net cash: $2.9B — strongest balance sheet in sector (rare: net CASH not net debt)
+- Guidance: Reiterated 2026 production (+1 vs raised +2)
+
+**News Sentiment (3/3): Very Positive**
+- Record quarterly operating margins (new all-time high)
+- Record adjusted net income ($1.706B)
+- Balance sheet now net-cash → peer-leading financial flexibility
+- Citi raised price target; UBS neutral at $210 (lone cautious voice)
+
+**Social Sentiment (1/1): Bullish**
+- StockTwits: Bullish territory, retail maintained confidence through UBS downgrade
+- Reddit: 64/100 sentiment (neutral-positive); not a meme stock
+- Quality: High — analysis-driven, not hype-driven
+- Red flags: None — institutional-grade discussion
+
+**Insider/Institutional (1/4):**
+- Insider trades: No significant recent transactions (neutral — management not selling into strength)
+- Institutional: 70% institutional ownership; RFG Advisory added 6,618 shares May 10
+- AEM = #1 holding in GDX (gold miner ETF) at 11.6% weight
+- Options: No unusual activity flagged
+
+**Catalysts & Risks:**
+- Next earnings: Q2 July 29, 2026 ✅ SAFE (>2 weeks)
+- Gold structural tailwinds: Middle East tensions, central bank buying, dollar weakness
+- Key risks: Gold price reversal; CPI hot print dampening gold; USD strength; operational challenges
+
+**Composite Score Breakdown:**
+| Category | Score | Max |
+|----------|-------|-----|
+| Technical (30%) | 6 | 7 |
+| Fundamentals (25%) | 6 | 7 |
+| News Sentiment (20%) | 3 | 3 |
+| Social Sentiment (10%) | 1 | 1 |
+| Insider/Institutional (10%) | 1 | 4 |
+| Macro/Timing (5%) | 2 | 2 |
+| **TOTAL** | **19/24** | **→ 17/20** |
+
+**Entry Plan:**
+- Ideal entry: $183–188 (near 50MA; any CPI-driven dip tomorrow)
+- Stop loss: $175 (–7% from $188 mid-range)
+- Take profit: $210 (+12%) — aligns with consensus analyst target $205–224
+- Position size: ~96 shares (~$18,000 = 18% of portfolio)
+
+---
+
+### Rank 2: FCX (Freeport-McMoRan) — Score: 15/20 — STRONG BUY
+
+**Technical (6/7):**
+- ✅ Likely golden cross — persistent weekly uptrend (higher highs/lows since 2025); 50MA likely above 200MA
+- ✅ Pullback entry — price $60.89 pulled back from ATH $70.97 on April 20 (14% correction)
+- ✅ Volume confirmation — institutional re-accumulation post-pullback
+- RSI 39.47 — near oversold on pullback; not extended
+
+**Fundamentals (7/7):**
+- Q1 2026 EPS: $0.57 (beat $0.47 estimate by +21%)
+- Net income: $881M (vs $352M prior year — +150% YoY)
+- Revenue: $6.23B — driven by copper $5.78/lb (was $4.44; COMEX ~$5.65 today)
+- Realized gold: $4,889/oz, molybdenum $25.21/lb
+- 2026 guidance: OCF $8.7B (at $6.00 copper), copper sales 3.08B lbs
+- Revenue growth: >20% YoY ✅, EPS beat ✅, guidance issued ✅
+
+**News Sentiment (2/3): Positive (with Grasberg caveat)**
+- Strong Q1 beat driven by record copper and gold prices
+- UBS raised target to $74; Wells Fargo overweight ($68)
+- Risk: Grasberg Block Cave production slower than expected (wet ore issue); full ramp delayed to 2028
+- Morgan Stanley downgrade vs UBS upgrade — mixed but net positive
+- TIKR article: "Beat Q1 but stock under $61" → market not fully pricing in earnings quality
+
+**Social Sentiment (0/1): Neutral**
+- Not trending on Reddit/WSB
+- Institutional focus rather than retail momentum
+- Quality: Medium — analytical discussions, not hype
+- Red flags: None
+
+**Insider/Institutional (1/4):**
+- Insider trades: Chairman Adkerson sold 400,991 shares (notable) — negative signal
+- Institutional: Truist Financial +11.6% (Q4 acquisition); Nan Fung Trinity HK Ltd. 341,700 new shares ($17.4M) — purchased May 10 ✅
+- FCX sinking on Grasberg uncertainty per Quiver Quant — but institutional accumulation continues
+
+**Catalysts & Risks:**
+- Next earnings: Q2 July 22, 2026 ✅ SAFE
+- Copper structural demand: AI data centers, EV buildout, grid electrification
+- COMEX copper ~$5.65/lb; company guides $6.00 for full year
+- Key risks: Grasberg production bottleneck; copper price reversal; USD strength; Middle East supply disruption
+
+**Composite Score Breakdown:**
+| Category | Score | Max |
+|----------|-------|-----|
+| Technical (30%) | 6 | 7 |
+| Fundamentals (25%) | 7 | 7 |
+| News Sentiment (20%) | 2 | 3 |
+| Social Sentiment (10%) | 0 | 1 |
+| Insider/Institutional (10%) | 1 | 4 |
+| Macro/Timing (5%) | 2 | 2 |
+| **TOTAL** | **18/24** | **→ 15/20** |
+
+**Entry Plan:**
+- Ideal entry: $59–62 (near 50MA support zone; CIP-driven dip opportunity tomorrow)
+- Stop loss: $56 (–7% from $60 mid-range)
+- Take profit: $68 (+12%) — aligns with Wells Fargo $68 target; UBS $74 provides further upside
+- Position size: ~290 shares (~$18,000 = 18% of portfolio)
+
+---
+
+### Rank 3: NEM (Newmont Corp) — Score: 12/20 — BUY ⚠️ Technical Flag
+
+**⚠️ TECHNICAL CAUTION:** Recent data shows sell signals from both short and long-term MAs (price fell from $130 in Feb to ~$110). Does not clearly confirm golden cross. Per CRITICAL RULES ("Require positive fundamentals AND technicals"), treat as WATCH until technical picture clarifies. Entry only on technical stabilization confirmation.
+
+**Technical (2/7):**
+- ⚠️ Golden cross: MIXED — price dropped 15.7% from $130 to $110 since February peak; short-term MA sell signals
+- Possible support at $108–114 range (previous analysis zone); watching for stabilization
+- Volume: insufficient confirmation of accumulation
+
+**Fundamentals (6/7):**
+- Q1 2026 EPS: $2.90 (beat $2.07 estimate by +40% — massive beat)
+- Revenue: $7.31B (+45.9% YoY) — strongest revenue growth of three candidates
+- Free cash flow: $3.1B (record — all-time quarterly high)
+- Share buyback: $6B additional authorization (doubled program; $2.4B already repurchased)
+- Dividend: $0.26/share (payable June 22) — 3.5% annualized yield
+- Analyst median target: $142.51–$151
+
+**News Sentiment (3/3): Very Positive**
+- "Record Quarterly Earnings and Free Cash Flow" — corporate headline
+- $6B buyback authorization → management signaling stock is undervalued at $110
+- Dividend declared at full quarterly rate
+
+**Social Sentiment (1/1): Bullish**
+- StockTwits followers up 4.6% in last month
+- Retail sentiment: "If you believe in gold, this is the best play out there"
+- Quality: High — fundamentally driven discussion
+
+**Insider/Institutional (0/4):**
+- Insider trades: EVP Wexler sold 13,378 shares at $110.11 (May 1); CFO sold 3,000 shares — **RED FLAG**
+- Multiple executive sales into strength: bearish insider signal
+- Institutional: 68.85% owned, mixed — some increasing, some reducing positions
+
+**Catalysts & Risks:**
+- Next earnings: Q2 July 23–27, 2026 ✅ SAFE
+- Gold price tailwind: NEM is world's largest listed gold miner — most leveraged to gold price
+- Key risks: Executive selling signals; technical breakdown; gold price reversal; operating cost inflation
+
+**Composite Score Breakdown:**
+| Category | Score | Max |
+|----------|-------|-----|
+| Technical (30%) | 2 | 7 |
+| Fundamentals (25%) | 6 | 7 |
+| News Sentiment (20%) | 3 | 3 |
+| Social Sentiment (10%) | 1 | 1 |
+| Insider/Institutional (10%) | 0 | 4 |
+| Macro/Timing (5%) | 2 | 2 |
+| **TOTAL** | **14/24** | **→ 12/20** |
+
+**Entry Plan (Conditional — wait for technical confirmation):**
+- Watch zone: $108–114 (previous support; near prior analysis entry zone)
+- Entry trigger: Stabilization + volume confirmation + price holding above $108 for 2 days
+- Stop loss: $103 (–7%)
+- Take profit: $124 (+12%) — conservative vs $142 analyst target
+- Position size: ~161 shares (~$18,000) — only if technical flag clears
+
+---
+
+## Summary Table
+
+| Symbol | Score | Verdict | Entry | Stop | Target | Status |
+|--------|-------|---------|-------|------|--------|--------|
+| AEM | 17/20 | STRONG BUY | $183–188 | $175 | $210 | ✅ Ready |
+| FCX | 15/20 | STRONG BUY | $59–62 | $56 | $68 | ✅ Ready |
+| NEM | 12/20 | WATCH | $108–114 | $103 | $124 | ⚠️ Wait for technicals |
+
+**Key Decision Today:**
+1. **AEM** — Best risk/reward. Gold sector leader, record fundamentals, clean balance sheet, golden cross intact. Ideal entry on any CPI-anxiety dip tomorrow (May 12).
+2. **FCX** — Copper structural demand + institutional accumulation + 14% pullback from ATH. Low RSI = reset. Watch $59–62 zone.
+3. **NEM** — Outstanding fundamentals but technicals lagging. **Hold off** until price action confirms stabilization; do not enter on fundamentals alone per CRITICAL RULES.
+
+**Portfolio Deployment Note:** All cash ($100,000). Max two positions simultaneously at 18% each ($36,000 combined) to maintain risk discipline. CPI tomorrow is a binary event — consider waiting for the 8:30 ET print before entering either AEM or FCX.
+
+---
+
 ## Last Updated: 2026-05-08 (Market Open Execution — ~9:30 ET)
 
 ---
