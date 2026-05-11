@@ -1,5 +1,257 @@
 # Market Context
 
+## Last Updated: 2026-05-11 (Pre-Market Analysis — Enhanced Multi-Source)
+
+---
+
+## Pre-Market Analysis — 2026-05-11
+
+**Run Time:** Pre-Market
+**Checked By:** AI Trading Agent (Enhanced Multi-Source Intelligence)
+
+---
+
+### PHASE 1: Market Regime
+
+#### Regime Summary
+
+| Metric | Value | Status |
+|--------|-------|--------|
+| SPY Price (May 10 close) | $737.62 | ✅ BULLISH |
+| SPY 52-Week High | $738.08 | — ATH proximity |
+| SPY 200-Day MA | ~$674 | — |
+| SPY vs 200MA | +9.5% | ✅ Firmly above threshold |
+| VIX | 17.19 | ✅ CALM (<20) |
+| Market Regime | **BULLISH** | ✅ |
+
+> SPY hit new all-time highs last week (52-week high $738.08). VIX at 17.19 signals calm conditions with no elevated fear. Market is up 30.5% YoY and 9.05% in the last month. Regime firmly BULLISH.
+
+#### Sector Leadership (May 11, 2026)
+
+| Sector | Status | Driver |
+|--------|--------|--------|
+| Technology (XLK) | ✅ LEADING | AI infrastructure wave — AMD +18.6%, Nasdaq +1.71% |
+| Energy (XLE) | ✅ LEADING | Oil surge; Brent $104.80 (+3.5% Mon.) on Iran rejection |
+| Materials (XLB) | ✅ LEADING | Gold strength supporting materials |
+| Transportation | 🔴 LAGGING | Spirit Airlines bankrupt (jet fuel costs); airlines broadly pressured |
+| Consumer Discretionary | ⚠️ MIXED | AI beneficiary stocks rising; fuel-cost-exposed lagging |
+
+**Momentum flow:** Technology (AI/semiconductor) and Energy leading. Small-cap mixed (Kospi +4.32% record; Russell 2000 breadth narrow).
+
+#### Macro Events This Week (May 11–15, 2026)
+
+| Date | Event | Consensus | Market Impact |
+|------|-------|-----------|---------------|
+| **Tuesday May 12** | **April CPI** | Headline +3.7% YoY, Core +2.7% | 🔴 **HIGHEST** — single biggest catalyst this week |
+| **Wednesday May 13** | **PPI** | Core +0.3% MoM | 🟡 MEDIUM — producer pipeline signal |
+| Week of May 11 | Cisco, Alibaba, AMAT earnings | — | 🟡 MEDIUM — AI/tech sentiment test |
+| Ongoing | US-Iran conflict (oil) | Trump rejected latest Iran proposal | 🔴 HIGH — oil at $104.80 Brent, $99 WTI |
+
+> **KEY RISK:** Fed is on hold for all of 2026 (CME FedWatch: zero cuts priced). CPI at 3.7% annual rate is elevated. If Tuesday's print surprises to the upside, risk-off reaction likely. This is the #1 gate for entries this week.
+
+---
+
+### PHASE 2: Golden Cross Candidates
+
+Scan identified stocks with 50MA > 200MA in technology/AI sector with strong momentum:
+
+| Ticker | 50MA | 200MA | Golden Cross | Current Price | % Above 50MA |
+|--------|------|-------|-------------|---------------|--------------|
+| AMD | $365 | $284 | ✅ | $455.19 | +24.6% (extended) |
+| NVDA | $204 | $195 | ✅ | $215.20 | +5.4% (near zone) |
+| AAPL | $282 | $268 | ✅ | $293.86 | +4.3% (in zone) |
+
+---
+
+### PHASE 3 & 4: Multi-Source Intelligence + Composite Scores
+
+---
+
+### 1. AMD — Score: 17/20 — STRONG BUY ⚠️ Wait for Pullback
+
+**Technical (5/7):**
+- Golden cross confirmed: 50MA $365 > 200MA $284 (+28.5% spread) ✅ (+3)
+- Near 50MA pullback: ❌ Price $455.19 is 24.6% above 50MA — very extended (0)
+- Volume confirmation: Post-earnings surge on massive institutional volume ✅ (+2)
+
+**Fundamentals (7/7):**
+- Q1 2026 Revenue: $10.25B (+38% YoY, beat $9.89B est.) ✅ (+3)
+- Q1 2026 EPS: $1.37 adj. (beat $1.29 est. +6.2%) ✅ (+2)
+- Q2 2026 Guidance: $11.2B (vs $10.5B consensus — major beat, +46% YoY) ✅ (+2)
+- Data Center: $5.8B (+57% YoY); Free cash flow: record $2.6B; Gross margin: 55%
+
+**News Sentiment (3/3):**
+- Blowout earnings + blowout guide. CEO Lisa Su: "Strong and increasing confidence." ✅
+- Bernstein nearly doubled price target to $525. Stock hit ATH $456.29 on May 8.
+- Warning: gaming hardware headwinds H2 2026 from rising memory costs (minor near-term risk)
+- Overall: **Very Positive** (+3)
+
+**Social Sentiment (1/1):**
+- Strong WSB and retail momentum; quality analysis-driven (not meme) ✅ (+1)
+- No meme stock red flags. AI infrastructure thesis is institutional/retail consensus.
+
+**Insider/Institutional (1/2):**
+- No specific insider buying reported (0)
+- Strong analyst consensus upgrades; Bernstein, multiple Buy ratings ✅ (+1)
+
+**Upcoming Catalysts:**
+- No near-term earnings (just reported Q1 May 5). Next earnings ~August 2026.
+- Risk: 24.6% above 50MA — extended. Ideal entry on pullback to 50MA zone.
+- Risk: Gaming segment headwind H2 2026 (memory cost inflation)
+
+**Entry Plan (Pullback Strategy):**
+- Entry zone: $347–$385 (within 5% of 50MA $365) — WAIT for pullback
+- Alternative extended entry: $455 current (lower conviction, higher risk)
+- Stop loss: $323 (-7% from bottom of entry zone)
+- Take profit: $432 (+12% from $385 top of entry zone)
+- Position size: ~52 shares @ $347 ≈ $18,044 (~18% portfolio)
+
+> **ACTION: WATCH — Do not chase at $455. Wait for pullback to 50MA zone ($347–$385). CPI Tuesday is a potential catalyst for a cooling reset. Place alert at $395.**
+
+---
+
+### 2. NVDA — Score: 17/20 — STRONG BUY ⚠️ Earnings Risk May 20
+
+**Technical (7/7):**
+- Golden cross confirmed: 50MA $204 > 200MA $195 (+4.6% spread) ✅ (+3)
+- Near 50MA pullback: Price $215.20 is only 5.4% above 50MA ✅ (+2) — approaching entry zone
+- Volume confirmation: Consistent institutional volume, AI leadership ✅ (+2)
+
+**Fundamentals (5/7):**
+- Revenue growth: +65% YoY (fiscal 2026) ✅ (+3) — well above 20% threshold
+- EPS: $4.77 adj. (fiscal 2026), strong beat track record ✅ (+2)
+- Guidance: Cannot confirm — Q1 FY27 earnings May 20 (not yet reported) (0)
+- Analyst consensus: 37 analysts Strong Buy; avg target $270.73 (+25.8% upside from $215)
+- Forward P/E: 23.8x (FY27 EPS $8.34 est.); PEG 0.63 — attractively valued vs growth rate
+
+**News Sentiment (3/3):**
+- May 20 Q1 FY27 earnings catalyst: Motley Fool "stock will soar after May 20" ✅
+- Institutional accumulation strong ahead of earnings (68.14% inst. ownership)
+- AI data center demand narrative intact: Vera Rubin GPU demand, Meta/OpenAI as customers
+- Overall: **Very Positive** (+3)
+
+**Social Sentiment (1/1):**
+- AI trade continuing; MSCI Asia Pacific tech +0.6% Monday ✅ (+1)
+- South Korea Kospi +4.32% (record high) led by tech
+
+**Insider/Institutional (1/2):**
+- Insider activity: CFO and director SELLING ($38.5M net sales) — bearish signal (0)
+- Institutional accumulation: 68.14% ownership, recent buying ahead of earnings ✅ (+1)
+
+**Upcoming Catalysts:**
+- 🔴 **Q1 FY27 Earnings: May 20, 2026 (9 days away) — HIGH VOLATILITY RISK**
+- Earnings could be explosive catalyst up OR down — avoid entering ahead of report
+
+**Entry Plan (Post-Earnings Strategy):**
+- Entry zone: $194–$214 (within 5% of 50MA $204)
+- Current price $215.20 is just above entry zone top — essentially at zone
+- ⚠️ **WAIT for post-May 20 earnings clarity before entering**
+- Post-earnings entry (if positive reaction holds): $194–$214
+- Stop loss: $200 (-7% from $215)
+- Take profit: $241 (+12% from $215)
+- Position size: ~84 shares @ $215 ≈ $18,060 (~18% portfolio)
+
+> **ACTION: WATCH — Strongest fundamental setup but earnings in 9 days creates binary risk. DO NOT enter before May 20. Post-earnings, if stock holds/pulls back to $194–$214, immediate entry trigger.**
+
+---
+
+### 3. AAPL — Score: 13/20 — BUY ✅ At Entry Zone
+
+**Technical (6/7):**
+- Golden cross confirmed: 50MA $282 > 200MA $268 (+5.2% spread) ✅ (+3)
+- Near 50MA pullback: Price $293.86 is 4.3% above 50MA ✅ (+2) — INSIDE entry zone
+- Volume confirmation: At ATH with normal institutional volume (+1)
+
+**Fundamentals (4/7):**
+- Q2 FY2026 Revenue: $111.18B (+17% YoY, strongest March quarter ever) — below 20% threshold (0)
+- Q2 FY2026 EPS: Beat consensus — iPhone revenue surged 22% to $57B ✅ (+2)
+- Raised guidance: Not confirmed explicitly (0)
+- Q1 FY2026: Revenue $143.8B (+16% YoY, beat $141.3B est.); EPS $2.84 vs $2.73 est. ✅
+- Services: All-time revenue record (+14% YoY) — high-margin recurring
+- Analyst median target: $310; Wedbush: $400 (AI wave thesis)
+
+**News Sentiment (3/3):**
+- CEO Transition: Tim Cook → John Ternus (Sep 1, 2026) — product-focused leadership ✅
+- Foldable iPhone launch autumn 2026 + AI Siri integration at WWDC 2026 ✅
+- Stock at all-time high $294.76 on May 8. Baird, BofA raised targets; Fisher Asset Mgmt added stake ✅
+- Overall: **Very Positive** (+3)
+
+**Social Sentiment (1/1):**
+- Mainstream bullish; strong institutional/retail consensus ✅ (+1)
+
+**Insider/Institutional (1/2):**
+- No specific insider buying (0)
+- Fisher Asset Management disclosed incremental stake ✅ (+1)
+- 22 Buy / 11 Hold / 1 Sell from analysts = Moderate Buy consensus
+
+**Upcoming Catalysts:**
+- WWDC 2026 (AI Siri, foldable iPhone announcement) — significant upside catalyst
+- CEO transition Sep 1 — smooth succession planned, market reacted positively
+- ⚠️ Revenue growth below 20% is the primary score limiter
+
+**Entry Plan:**
+- Entry zone: $268–$297 (within 5% of 50MA $282) ✅ — CURRENTLY IN ZONE
+- Current price $293.86 is 4.3% above 50MA — valid entry
+- Stop loss: $273 (-7% from $293.86)
+- Take profit: $329 (+12%)
+- Position size: ~61 shares @ $294 ≈ $17,934 (~18% portfolio)
+
+> **ACTION: BUY CANDIDATE — Currently in entry zone. Wait for CPI clarity Tuesday (May 12) before executing. If CPI is benign, AAPL is the first entry. If CPI hot, hold for pullback toward $268–$280 for better entry.**
+
+---
+
+### Watchlist Priority — May 11, 2026
+
+| Rank | Ticker | Action | Score | Entry Zone | Rationale |
+|------|--------|--------|-------|-----------|-----------|
+| 1 | AMD | WATCH (wait for pullback) | 17/20 | $347–$385 | Highest conviction; extended post-earnings; alert at $395 |
+| 2 | NVDA | WATCH (wait post-May 20) | 17/20 | $194–$214 | Equal score; binary earnings risk May 20; enter after |
+| 3 | AAPL | BUY (CPI-dependent) | 13/20 | $268–$297 | Currently in zone; WWDC catalyst; lower score on rev growth |
+
+---
+
+### Key Risk Flags — May 11, 2026
+
+| Flag | Detail | Severity |
+|------|--------|----------|
+| CPI Tuesday May 12 | Headline 3.7% YoY (above 3%) — upside surprise = risk-off | 🔴 HIGH — execution gate |
+| US-Iran conflict | Trump rejected Iran proposal; Brent +3.5% to $104.80 | 🔴 HIGH — inflation/geopolitical |
+| NVDA earnings May 20 | Binary volatility event — do not enter before | 🔴 HIGH for NVDA |
+| Fed on hold all 2026 | Zero cuts priced — inflation premium in all valuations | 🟡 MEDIUM |
+| AMD extended +24.6% vs 50MA | Chasing risk at current levels | 🟡 MEDIUM |
+| Oil at $104 Brent | Ongoing Iran conflict keeps energy costs elevated | 🟡 MEDIUM |
+
+---
+
+### Recommended Actions — Pre-Market May 11
+
+1. **CPI Watch (MOST CRITICAL)** — Tuesday May 12 CPI is the gate for all entries this week
+   - Benign CPI (≤3.5%) → Proceed with AAPL entry $268–$297; set NVDA alert for post-May 20
+   - Hot CPI (>4.0%) → Hold all entries; wait for market to reprice
+   - In-line CPI (3.6–3.8%) → AAPL entry valid; tighten stop to -5%
+
+2. **AAPL (PRIMARY CANDIDATE)** — Currently in entry zone at $293.86
+   - Conditional entry post-CPI Tuesday if benign
+   - Limit order: $290–$297, 61 shares, stop $273, target $329
+
+3. **NVDA (SECONDARY)** — Do NOT enter before May 20 earnings
+   - Monitor post-earnings. If beats and holds $200+, enter at $194–$214
+   - Place alert at $215 post-May 20 for reassessment
+
+4. **AMD (FUTURE)** — Do NOT chase at $455
+   - Place price alert at $395 (approaching 50MA zone)
+   - Formal entry trigger: $347–$385
+
+5. **DAR (PRIOR WATCHLIST)** — Reassess in light of oil surge (Brent $104.80)
+   - Oil rising is POSITIVE for DAR's biofuel economics (DGD crack spreads widen)
+   - Check current price vs 50MA ($57.96) — if still elevated, wait for pullback
+   - Oil above $100 strengthens fundamental thesis
+
+6. **PINS (PRIOR WATCHLIST)** — Continue monitoring for 50MA retest (~$18–19)
+   - Securities fraud lawsuit (May 29 lead plaintiff deadline) remains overhang
+
+---
+
 ## Last Updated: 2026-05-08 (Market Open Execution — ~9:30 ET)
 
 ---
