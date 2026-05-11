@@ -1,3 +1,183 @@
+# Intraday Alert — 2026-05-11 (~10:30 AM ET)
+
+**Run Window:** Market Open → Midday (8:30 AM – 12:00 PM)
+**Portfolio:** $100,000 cash | 0 open positions | Regime: BULLISH
+**Date:** May 11, 2026 — DAR INVESTOR DAY
+
+---
+
+## Watchlist Status Update
+
+### Phase 1: Watchlist Status vs Entry Zones
+
+| Symbol | Price | 50MA | Entry Zone | % from 50MA | Status |
+|--------|-------|------|------------|-------------|--------|
+| DAR | $63.70 | $58.65 | $58.65–$61.58 | +8.6% | ⏳ EXTENDED |
+| SUI | $125.94 | N/A | 50MA pullback | — | ⏳ MONITORING |
+| PINS | $20.68 | $18.77 | $18.77–$19.71 | +10.2% | ⏳ EXTENDED (trending right) |
+| AMD | $455.19 | ~$360 est. | 50MA retest | ~+26% | 📋 FUTURE WATCHLIST |
+| DDOG | $198.99 | $124.41 | 50MA retest | +60% | 📋 FUTURE WATCHLIST |
+| FTNT | — | TBD | 50MA retest | — | 📋 FUTURE WATCHLIST |
+
+**DAR — ⚠️ HIGH PRIORITY TODAY:**
+- Price: $63.70 (day range $62.63–$63.96). 52-wk high $66.02.
+- 50MA (May 10): $58.65 (up from $57.96 on May 3 as trend advances)
+- Entry zone: $58.65–$61.58
+- Still 8.6% above entry zone top — NOT yet in zone
+- **BUT: Investor Day underway (10 AM ET)**. Management presenting 3-year strategic plan, margin recovery road map, and debt reduction target ($3B). Post-event "sell the news" reaction is the scenario we've been waiting for since May 5.
+- **Oil context FLIPPED BULLISH** (see Breaking News below): WTI back to $99. The key risk that blocked execution (oil below $88) is now removed.
+- Watch Level: Any intraday drop to $61.58 or below activates monitoring mode; $58.65–$61.58 = entry trigger zone.
+
+**SUI — No Change:**
+- Drifted down from $130 to ~$125.94. Real Estate sector +0.46% today. Still extended above estimated 50MA. No entry signal. Continue monitoring.
+
+**PINS — Favorable Direction:**
+- $20.68 today vs $22+ post-earnings (May 5). Down ~6–8% from the gap high — trending toward the entry zone.
+- 50MA: $18.77. Entry zone top: $19.71. Currently 10.2% above 50MA. Need another ~4–5% pullback to hit entry zone.
+- Trajectory is correct. Estimated 1–2 more weeks to reach zone.
+- ⚠️ Lawsuit risk flag remains: Securities fraud class action, lead plaintiff deadline May 29. Size down 30% if entering.
+
+**AMD — Future Watchlist:**
+- $455.19, near 52-week high ($456.29). Day range $418.29–$456.29 (volatile but recovering).
+- ~26% above estimated 50MA (~$360). Not actionable. Future watchlist — 4–8 weeks.
+
+**DDOG — Future Watchlist:**
+- $198.99, near 52-week high ($201.69).
+- 50MA confirmed at $124.41. Currently 60% above 50MA. Not actionable. Future watchlist — 4–6 weeks.
+
+---
+
+## Breaking Events (Last 3 Hours)
+
+### 🔴 CRITICAL — Iran/Oil: Trump Rejects Peace Proposal
+
+**THIS IS THE MOST IMPORTANT DEVELOPMENT FOR OUR PORTFOLIO.**
+
+- Trump posted on Truth Social that Iran's response to the U.S. 14-point peace proposal was "TOTALLY UNACCEPTABLE"
+- Oil surged immediately: **WTI +4% to ~$99/bbl**, Brent +3.5% to $104.80
+- This reverses the 3-day oil decline (from $104 → $89) that was blocking DAR execution
+- WTI now back above the $90 tripwire — DAR DGD crack spreads improving
+- **Net impact on DAR thesis:** STRONGLY POSITIVE. The oil-risk gate that had been forcing us to stand aside is now removed.
+
+### 🏢 DAR Investor Day — Underway Now (10 AM ET, NYC)
+
+- Management presenting: 3-year strategic plan, margin recovery, capital allocation, Diamond Green Diesel outlook
+- Key themes: strong foundation from multi-year investments; disciplined execution; long-term growth platform
+- Debt reduction target: below $3B (from $4.01B at Q1)
+- Analyst context: avg target $64.56; TD Cowen $76, Jefferies $75; Wall Street Zen upgrade
+- Stock reaction: $63.70 is holding — no sell-off yet as of 10:30 AM. Monitor through midday.
+
+### Other Market Events
+
+| Event | Ticker | Move | Relevance |
+|-------|--------|------|----------|
+| Apple-Intel chip manufacturing deal confirmed | INTC | +5.7% | Foundry pivot; $10B revenue potential by 2030; U.S. manufacturing theme |
+| Lumentum added to Nasdaq-100 | LITE | +7.7% | Index inclusion catalyst |
+| The Trade Desk Q1 miss | TTD | -9% | Ad-tech weakness; mild negative read-through to PINS thesis |
+| W.W. Grainger profit-taking after record highs | GWW | -18% | Profit-taking in industrial names after strong run |
+| S&P 500 at new intraday ATH | SPY | +0.3–0.84% | Regime: BULLISH ✅ |
+
+### Sector Performance Today
+
+| Sector | Move | Notes |
+|--------|------|-------|
+| Basic Materials | +1.75% | Leading |
+| Energy | +1.10% | Iran rejection → oil up |
+| Technology | +0.70% | AI theme intact |
+| Healthcare | +0.65% | Steady |
+| Real Estate | +0.46% | Mild positive |
+| Communication Services | -1.00% | Lagging |
+| Consumer Cyclical | -0.97% | Lagging (oil up = gas cost ↑) |
+| Consumer Defensive | -0.92% | Lagging |
+
+---
+
+## Unusual Activity / New Opportunities
+
+### Top Movers — Intraday May 11
+
+| Symbol | Move | Catalyst | Cap >$1B | Price >$10 | Fundamental | Action |
+|--------|------|----------|----------|-----------|-------------|--------|
+| INTC | +5.7% | Apple foundry deal | ✅ | ✅ | ✅ | Monitor — too extended today |
+| LITE | +7.7% | Nasdaq-100 addition | ✅ | ✅ | ⚠️ Index flows only | Pass — no earnings catalyst |
+| TTD | -9% | Earnings miss | ✅ | ✅ | ❌ Miss | Pass |
+| GWW | -18% | Profit-taking | ✅ | ✅ | Neutral | Pass |
+
+### New Opportunity Assessment: INTC (Intel)
+
+- **Catalyst:** Preliminary agreement with Apple to manufacture A-series/M-series chips for iPhones/MacBooks by 2027. Bank of America: could add $10B/yr to Intel by 2030 ($35–40B total market).
+- **Fundamental thesis:** Major foundry transformation underway. TSMC diversification = structural multi-year demand driver.
+- **Today's state:** +5.7% on news — extended immediately. Not actionable today.
+- **Entry strategy:** Wait for news premium to fade. Monitor in 2–4 weeks for pullback toward 50MA.
+- **Score:** Technical 1/5 (just gapped up), Fundamental 4/5, News 5/5 → Overall: **3.3/5 — WATCH LIST (future)**
+
+### Monthly May 2026 Top Gainers (context)
+
+| Symbol | Move | Notes |
+|--------|------|-------|
+| AGL | +105% | Healthcare managed care — too extended |
+| RXT | +99% | Unknown |
+| EVC | +74% | AI ad-tech microcap — not our strategy |
+| BLZE | +69% | — |
+| AVTX | +67% | — |
+
+> None of the monthly leaders meet our entry criteria (all extended on catalysts; most are microcaps outside our strategy).
+
+---
+
+## Position Monitoring
+
+**No active positions.** Portfolio 100% cash. No stop-loss or P&L monitoring required.
+
+---
+
+## Recommended Actions
+
+### Immediate — Today (May 11)
+
+1. **DAR — CRITICAL WATCH: Investor Day sell-the-news opportunity**
+   - Oil back at $99 → execution gate is NOW OPEN from an oil perspective
+   - DAR still extended at $63.70 (8.6% above 50MA $58.65)
+   - **The scenario we've been waiting for:** Post-Investor Day "sell the news" selloff
+   - If DAR pulls back to $61.58 or below during/after the 10 AM presentation → monitor closely
+   - If DAR drops to $58.65–$61.58 today or tomorrow → **ENTRY SIGNAL ACTIVE**
+   - Entry parameters: ~300 shares, limit order $58.65–$61.58, stop $54.55 (-7%), target $66.10 (+12%)
+   - If DAR holds above $63 all day → no action; wait for tomorrow's pullback pattern
+
+2. **PINS — Continue monitoring**
+   - Pulling back in the right direction. No action yet.
+   - Target zone: $18.77–$19.71. Current: $20.68 (need ~4–5% more pullback).
+
+3. **SUI — No action**
+
+4. **INTC — Add to future watch list**
+   - Apple deal is a multi-year structural catalyst. Monitor 2–4 weeks for entry.
+
+### Pre-Market May 12, 2026
+
+1. **DAR post-Investor Day close** — Did it sell off? Where did it close vs. $58.65–$61.58 entry zone?
+2. **WTI oil direction** — Did it hold $99 or continue higher? Critical for DGD economics.
+3. **PINS settling level** — Any continued pullback toward $19?
+
+---
+
+## Key Risk Flags
+
+| Flag | Detail | Severity |
+|------|--------|----------|
+| DAR not yet in entry zone | 8.6% above 50MA — needs pullback | 🟡 MEDIUM — actively monitoring |
+| PINS lawsuit | Lead plaintiff deadline May 29 | 🟡 MEDIUM |
+| Iran rejection escalation | Could further spike oil; broader geopolitical risk | 🟡 MEDIUM |
+| TTD ad-tech miss | Mild negative for digital ad sector (PINS adjacent) | 🟢 LOW |
+| Market at ATH | Normal consolidation expected; not a regime threat | 🟢 LOW |
+
+---
+
+*Telegram alert attempted — blocked by network restrictions in this environment.*
+*Next scheduled check: Midday Review (~12:00 PM ET)*
+
+---
+
 # Intraday Alert — 2026-05-07 (~10:30 AM ET)
 
 **Run Window:** Market Open → Midday (8:30 AM – 12:00 PM)
