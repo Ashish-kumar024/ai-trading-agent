@@ -1,5 +1,109 @@
 # Market Context
 
+## Last Updated: 2026-05-11 (Market Open Execution — ~9:30 ET)
+
+---
+
+## Market Open Execution — 2026-05-11
+
+**Run Time:** Market Open
+**Checked By:** AI Trading Agent
+
+---
+
+### Regime Check
+
+| Metric | Value | Status |
+|--------|-------|--------|
+| SPY Price | $736.57 | ✅ BULLISH |
+| SPY Day Range | $735.75–$737.45 | — |
+| SPY 200-Day MA | ~$668.41 | — |
+| SPY vs 200MA | +10.2% | ✅ Firmly above threshold |
+
+Market regime: **BULLISH** — SPY well above 200MA. All conditions met for potential entries.
+
+---
+
+### Candidate Check Results — May 11 Open
+
+| Symbol | Conviction | Price | 50MA | % vs 50MA | Entry Zone | In Zone? | Status |
+|--------|------------|-------|------|-----------|------------|----------|--------|
+| DAR | PREFERRED | $63.70 | $58.65 | +8.6% | $58.65–$61.58 | ❌ NO | WAITING |
+| SUI | SECONDARY | $125.94 | $127.22 | -1.0% | $127.22–$133.58 | ❌ NO | INVALID |
+
+**Result: 0 candidates READY_TO_EXECUTE. No trade plans created.**
+
+---
+
+### DAR — Investor Day Analysis (May 11, 2026)
+
+| Parameter | Value |
+|-----------|-------|
+| DAR Price | $63.70 |
+| Day Range | $62.63–$63.96 |
+| 50-Day MA | $58.65 (May 10 confirmed) |
+| % Above 50MA | +8.6% |
+| Entry Zone | $58.65–$61.58 |
+| In Zone? | ❌ NO — $2.12 above zone top |
+| Investor Day Reaction | Muted — no "sell the news" drop |
+| Status | **WAITING** |
+
+**Investor Day outcome:** DAR held the $62.63–$63.96 range throughout the session. The anticipated "sell the news" pullback toward the entry zone did NOT materialize on the event day itself. Stock is +8.6% above its 50MA — must retrace to $58.65–$61.58 for entry. Monitor May 12–14 for any post-event drift lower.
+
+---
+
+### SUI — Status Downgrade
+
+| Parameter | Value |
+|-----------|-------|
+| SUI Price | $125.94 (May 8 close) / ~$125.69 predicted May 11 open |
+| 50-Day MA | $127.22 |
+| % vs 50MA | -1.0% (BELOW 50MA) |
+| Entry Zone | $127.22–$133.58 |
+| In Zone? | ❌ NO — below 50MA |
+| Q1 2026 EPS | -$0.07 vs $0.26 est. (-126.92% miss) |
+| Q1 Revenue | $507.9M vs $473.5M est. (+7.27% beat) |
+| Core FFO Guidance | $6.87–$7.07 (raised $0.04) |
+| Technical Signals | 10 Sell / 1 Buy → Strong Sell |
+| Status | **INVALID** |
+
+**Assessment:** SUI setup is broken. The stock is below its 50MA, the Q1 GAAP EPS miss was severe (-127%), and technical indicators are uniformly bearish. The golden cross momentum has stalled. The Core FFO guidance raise is a mild positive for the REIT thesis but insufficient to overcome the technical breakdown. **Downgrading SUI from SECONDARY candidate to MONITOR/WATCH status.** Re-evaluate only if price recovers above 50MA ($127.22+) on volume.
+
+---
+
+### Watchlist Status — May 11 Open
+
+| Symbol | Price | 50MA | Entry Zone | Status |
+|--------|-------|------|------------|--------|
+| DAR | $63.70 | $58.65 | $58.65–$61.58 | ⏳ WAITING — post-Investor Day drift watch |
+| SUI | ~$125.94 | $127.22 | $127.22–$133.58 | ⚠️ INVALID — below 50MA, EPS miss |
+| PINS | ~$22 | ~$18–19 est. | 50MA retest | 📋 WATCHLIST — 1–2 weeks |
+| AMD | ~$409–421 | ~$350–370 | 50MA retest | 📋 FUTURE — 3–5 weeks |
+| DDOG | Extended | TBD | 50MA retest | 📋 FUTURE — 4–5 weeks |
+| FTNT | Extended | TBD | 50MA retest | 📋 FUTURE — 4–5 weeks |
+
+---
+
+### Next Entry Triggers
+
+1. **DAR (PRIMARY)** — Post-Investor Day drift to $58.65–$61.58. Monitor May 12–14. Investor Day reaction was muted (no sell-off), so patience required. Oil direction (WTI) remains a secondary gating variable.
+2. **PINS (SECONDARY)** — 50MA retest (~$18–19 est.) in 1–2 weeks. Note: securities fraud lawsuit lead plaintiff deadline May 29 — size down ~30% if entering.
+3. **AMD / DDOG / FTNT** — Future watchlist; 50MA retests 3–5 weeks out.
+
+---
+
+### Upcoming Catalysts
+
+| Date | Event | Action |
+|------|-------|--------|
+| May 11–14, 2026 | DAR post-Investor Day drift watch | Primary entry trigger window |
+| May 29, 2026 | PINS securities lawsuit lead plaintiff deadline | Elevated headline risk for PINS |
+| 3–5 weeks | AMD 50MA retest (est. $350–370) | Future entry zone |
+| 4–5 weeks | DDOG 50MA retest (TBD) | Future entry zone |
+| 4–5 weeks | FTNT 50MA retest (TBD) | Future entry zone |
+
+---
+
 ## Last Updated: 2026-05-08 (Market Open Execution — ~9:30 ET)
 
 ---

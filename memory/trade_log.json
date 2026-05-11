@@ -288,5 +288,74 @@
       "DDOG: Pullback to 50MA (TBD) — 4–6 week horizon"
     ],
     "notes": "All regime conditions met (SPY $735.54 vs 200MA $657.54, +11.9%). No watchlist names are in the entry zone. DAR approaching Investor Day May 11 — pre-event bid is expected. Post-event pullback remains the primary entry opportunity. Monitor DAR reaction to Investor Day for setup. Oil (WTI $90.22 May 7 close) continues sliding; if it breaks $88 decisively, DAR thesis weakens and size reduction may be warranted on any entry."
+  },
+  {
+    "date": "2026-05-11",
+    "action": "MARKET_OPEN_SCAN",
+    "routine": "market_open_execution",
+    "decision": "NO_ENTRY",
+    "reason": "0 of 2 candidates in entry zone. DAR extended +8.6% above 50MA; Investor Day held today with no sell-the-news reaction. SUI below 50MA (-1.0%) after Q1 EPS miss; Strong Sell technicals.",
+    "regime_check": {
+      "spy_price": 736.57,
+      "spy_day_range": "735.75-737.45",
+      "spy_200ma": 668.41,
+      "spy_above_200ma_pct": 10.2,
+      "regime": "BULLISH",
+      "proceed": true
+    },
+    "candidates_checked": [
+      {
+        "symbol": "DAR",
+        "conviction": "PREFERRED (STRONG BUY)",
+        "current_price": 63.70,
+        "day_range": "62.63-63.96",
+        "ma_50": 58.65,
+        "pct_from_50ma": 8.61,
+        "entry_zone_min": 58.65,
+        "entry_zone_max": 61.58,
+        "in_entry_zone": false,
+        "status": "WAITING",
+        "log": "Too far above 50MA (+8.6%), awaiting pullback. Investor Day held today — no sell-the-news pattern materialized. Stock held $62.63-$63.96 range. Next trigger: pullback to $58.65-$61.58 entry zone.",
+        "investor_day_note": "DAR 2026 Investor Day held May 11 at 10am ET. Stock showed muted reaction, range $62.63-$63.96. No clean sell-the-news drop into entry zone. Continue monitoring for post-event drift lower."
+      },
+      {
+        "symbol": "SUI",
+        "conviction": "SECONDARY (BUY)",
+        "current_price": 125.94,
+        "ma_50": 127.22,
+        "pct_from_50ma": -1.01,
+        "entry_zone_min": 127.22,
+        "entry_zone_max": 133.58,
+        "in_entry_zone": false,
+        "status": "INVALID",
+        "log": "Below 50MA (-1.0%), setup invalidated. Q1 2026 EPS miss: -$0.07 vs $0.26 est (-126.92% surprise). Revenue beat ($507.9M vs $473.5M). Core FFO guidance raised to $6.97 midpoint. However: GAAP EPS miss, stock below 50MA, 10 technical sell signals. Golden cross setup deteriorating.",
+        "q1_2026": {
+          "eps_actual": -0.07,
+          "eps_estimate": 0.26,
+          "eps_surprise_pct": -126.92,
+          "revenue_actual_m": 507.9,
+          "revenue_estimate_m": 473.48,
+          "revenue_surprise_pct": 7.27,
+          "core_ffo_guidance_midpoint": 6.97,
+          "assessment": "Mixed — revenue beat but GAAP EPS miss and technical breakdown. Watchlist candidate status downgraded."
+        }
+      }
+    ],
+    "ready_to_execute": [],
+    "waiting_stocks": [
+      {"symbol": "DAR", "price": 63.70, "pct_above_50ma": 8.61, "reason": "Extended above entry zone; awaiting pullback"}
+    ],
+    "invalid_stocks": [
+      {"symbol": "SUI", "price": 125.94, "pct_from_50ma": -1.01, "reason": "Below 50MA, EPS miss, Strong Sell technicals"}
+    ],
+    "telegram_sent": true,
+    "telegram_type": "no_entry_summary",
+    "next_entry_triggers": [
+      "DAR: Pullback to $58.65-$61.58 (50MA ±5%) — monitor post-Investor Day drift (May 12-14)",
+      "PINS: Continue monitoring for 50MA retest (~$18-19 est.) — 1-2 week horizon",
+      "AMD: Future watchlist — 50MA retest in 3-5 weeks",
+      "DDOG: Future watchlist — 50MA retest in 4-5 weeks",
+      "FTNT: Future watchlist — 50MA retest in 4-5 weeks"
+    ]
   }
 ]
