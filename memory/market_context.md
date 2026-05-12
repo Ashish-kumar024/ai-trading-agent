@@ -1,5 +1,243 @@
 # Market Context
 
+## Last Updated: 2026-05-12 (Pre-Market Analysis — Enhanced Multi-Source)
+
+---
+
+## Pre-Market Analysis — 2026-05-12
+
+**Run Time:** Pre-Market
+**Checked By:** AI Trading Agent (Enhanced Multi-Source Intelligence)
+
+---
+
+### PHASE 1: Market Regime
+
+#### Regime Summary
+
+| Metric | Value | Status |
+|--------|-------|--------|
+| SPY Price | $739.28 (range: $735.75–$740.75) | ✅ BULLISH |
+| SPY 200-Day MA | ~$668.41 (SMA) | — |
+| SPY vs 200MA | +$70.87 (+10.6%) | ✅ Firmly above — bull market confirmed |
+| VIX | 18.11 | ✅ CALM (below 20) |
+| Market Regime | **BULLISH** | — |
+
+SPY is firmly above its 200MA (+10.6%) and both the 50MA and 200MA have maintained bullish alignment since April 2026. The 52-week high of $740.75 was tested today — markets at record territory.
+
+#### Sector Leaders (Momentum Flowing IN)
+- **Semiconductors / Technology:** +0.70% daily; YTD leaders (NVDA, AVGO, ANET)
+- **Energy:** +1.10% daily; Brent crude ~$104.80 on US-Iran tensions
+- **Defense / Industrials:** YTD leaders (LMT, CAT); defense primes expanding margins
+- **Basic Materials:** +1.75% daily
+
+#### Sector Laggards (Avoid / Consider Short Side)
+- Communication Services: −1.00% (Disney FCC license probe weighing)
+- Consumer Defensive: −0.92%
+- REITs: Office vacancy + refinancing risk
+- Consumer Discretionary: Cautious guidance from most names
+
+#### Macro Events This Week (Ranked by Impact)
+
+| Date | Event | Significance |
+|------|--------|-------------|
+| **Tue May 12 (TODAY)** | **April CPI 8:30 AM ET** | Consensus: +0.6% MoM / +3.7% YoY — BIGGEST catalyst of week |
+| Wed May 13 | April PPI + Trump departs for Beijing | Inflation follow-through + geopolitical |
+| Wed May 13 | FOMC Chair speech (Powell's last week) | Rate policy signals |
+| Thu–Fri May 14–15 | Trump-Xi summit in Beijing | Trade/tariff inflection — semiconductor exposure HIGH |
+| Fri May 15 | Powell term ends / Kevin Warsh confirmation vote | Warsh = dovish → bullish for growth stocks |
+| Wed May 20 | **NVDA Earnings** (after close) | Sector-wide catalyst; market pricing ±7.15% reaction |
+| Jun 24–29 | MU Q3 FY2026 Earnings (est.) | Memory sector catalyst |
+| Jul 21 | TXN Q2 2026 Earnings | Low near-term risk for TXN holders |
+
+> **Geopolitical Context:** US-Iran tensions elevated. Brent at $104.80 (+3.5% surge). Trump rejected Iran's latest peace response — oil bull for energy but inflationary headwind. Trump-Xi meeting (May 13–15) is a critical semiconductor tariff wildcard.
+
+---
+
+### PHASE 2 & 3: Golden Cross Candidates — Multi-Source Intelligence
+
+Top 3 candidates identified from sector-leading golden cross screener (all qualify: market cap >$1B, price >$10, volume >1M, 50MA > 200MA):
+
+---
+
+### 1. TXN (Texas Instruments) — Score: 17/20 — **STRONG BUY** 🥇
+
+**Technical (6/7):**
+- Golden cross confirmed: 50MA >200MA ✅
+- Price: $292.10 (May 11); back near all-time highs post +7.5% earnings gap
+- Volume: Strong — confirmed on breakout, gap up on earnings
+- Slightly extended from 50MA (~$260–265 est.) — minor deduction
+
+**Fundamentals (7/7):**
+- Q1 2026 EPS: $1.68 (beat $1.37 estimate by **+22.6%**) ✅
+- Revenue: $4.83B (**+19% YoY**) — Analog segment +22%, Embedded +12%
+- Q2 2026 Guidance: $5.0–5.4B revenue, EPS $1.77–$2.05 (RAISED) ✅
+- Strategic catalyst: $7.5B Silicon Labs acquisition (closes H1 2027)
+- Free Cash Flow: $4.35B (23.6% of revenue) including CHIPS Act incentives
+
+**News Sentiment (2/3):**
+- Stifel raised PT $250→$290 (Buy) | Wolfe Research raised $260→$315 (Outperform)
+- Truist raised $225→$278 (Hold) | Zacks Rank #1 (Strong Buy)
+- Positive (not "very positive" due to CEO insider sale offsetting)
+
+**Social Sentiment (1/1):**
+- Minimal WSB/Reddit hype — institutional-grade stock ✅
+- Quality: High analytical discussion; no meme characteristics
+
+**Insider/Institutional (1/2):**
+- Institutional ownership: **84.57%** (highest of three candidates)
+- New position: Maple Capital Management acquired shares recently ✅
+- ⚠️ CEO Haviv Ilan sold 20,000 shares May 4 (~$5.6M via option exercise) — bearish signal
+- Net: Institutional bullish, insider neutral-to-negative
+
+**Upcoming Catalysts:**
+- Next earnings: **July 21, 2026** — NO binary event near-term ✅
+- Silicon Labs acquisition milestones
+
+**Entry Plan:**
+- Entry zone: **$278–$293** (watch for CPI-driven dip today)
+- Stop loss: $272 (−7% from $292)
+- Take profit: $327 (+12%)
+- Position size: ~185 shares (~18% portfolio at $292)
+- Risk/Reward: 1:1.7
+
+---
+
+### 2. NVDA (NVIDIA) — Score: 17/20 — **STRONG BUY** ⚡ ⚠️ EARNINGS BINARY MAY 20
+
+**Technical (5/7):**
+- Golden cross confirmed: 50MA $187.10 > 200MA $185.90 ✅
+- Price: ~$215.20 (May 8); 52-week high $216.61 — approaching resistance
+- Volume: Exceptional — 84 WSB mentions/session, top institutional flows
+- Support: $165.17 | Resistance: $216.61
+
+**Fundamentals (7/7):**
+- Q1 FY2026 EPS: $0.81 (beat $0.75 estimate by +8.0%) ✅
+- Revenue: $44.1B (**+69% YoY**) — Data Center $39.11B dominant ✅
+- H20 headwind absorbed: $4.5B charge (export controls); normalized EPS $0.96, GM 71.3%
+- Q2 Guidance: $45B (absorbs $8B H20 loss); gross margins recovering to 72.0% ✅
+- Blackwell/NVLink adoption: networking revenue +64% sequentially
+- 37 analysts: Strong Buy consensus, avg PT $272 (+25.8% upside from current)
+
+**News Sentiment (3/3):**
+- Goldman Sachs: "Major Re-Rating" ahead of May 20 earnings
+- Nvidia topped $40B in AI equity bets (CNBC May 9)
+- Best 4-session gain of 2026 recorded last week
+- Intel partnership: Lip-Bu Tan touts "exciting new products" with NVDA ✅
+- **Very Positive** — strongest news sentiment of the three
+
+**Social Sentiment (1/1):**
+- Sentiment score: 75/100 | 63% positive vs 37% negative on WSB
+- 84 mentions/day from 58 unique users; 7-day sentiment change **+23.35 points**
+- Quality: High — fundamental AI thesis drives discussion; not meme-driven
+- No red flags for meme characteristics ✅
+
+**Insider/Institutional (1/2):**
+- Institutional ownership: 68.14%; 2,920 buyers vs 2,375 sellers (net accumulation) ✅
+- Insider: mixed older signals; current picture net institutional buy
+
+**⚠️ CRITICAL EARNINGS RISK:**
+- **Earnings: May 20, 2026 (8 DAYS AWAY)**
+- Market pricing ±7.15% reaction — binary event
+- Palantir precedent: beats can trigger selloffs on guidance
+- **Strategy: Size to 10% portfolio pre-earnings; add aggressively on any post-earnings dip**
+
+**Entry Plan:**
+- Pre-earnings entry: **$208–$215** (10% portfolio, ~50 shares)
+- Post-earnings preferred: **$195–$205** dip zone (full 18% position, ~175 shares)
+- Stop loss: $200 (−7% from $215)
+- Take profit: $241 (+12%)
+- Risk/Reward: 1:1.7
+
+---
+
+### 3. MU (Micron Technology) — Score: 17/20 — **STRONG BUY** 🔥 ⚠️ WAIT FOR PULLBACK
+
+**Technical (5/7):**
+- Golden cross confirmed: 50MA > 200MA ✅
+- Price: ~$798 (range May 12: $764.68–$818.67); 12 buy signals / 0 sell signals on MAs
+- MACD: +14.65 | RSI: 62.63 (healthy — not overbought)
+- Volume: Very high — most-discussed semiconductor stock on social media
+- ⚠️ Price up **>100% since end of March** — significantly extended from 50MA
+
+**Fundamentals (7/7):**
+- Q2 FY2026 EPS: $12.07/share GAAP; $12.20 non-GAAP (massive beat) ✅
+- Revenue: $23.86B (**+196% YoY** from $8.05B) ✅
+- Q3 FY2026 Guidance: **$33.5B revenue** (+40% QoQ); EPS ~$19.15 (MASSIVE RAISE) ✅
+- S&P 100 inclusion (March 2026) → passive fund structural buying
+- AI memory (HBM) structural supply constraint = pricing power; "memory crunch" thesis intact
+- Mizuho raised PT May 6: $545→**$740** (Outperform); high target $1,000
+
+**News Sentiment (3/3):**
+- "Memory rally unstoppable" (CNBC May 11); shares up 11 of last 15 sessions
+- Wall Street AI chip love moving to Micron alongside NVDA (CNBC May 8)
+- MU up **+70% YTD in 2026**; analysts still see more upside
+- **Very Positive** — exceptional fundamental momentum
+
+**Social Sentiment (1/1):**
+- "Most hyped stocks on social media" per JPMorgan analysts
+- WSB: Traders posting +2,000%+ options gains (e.g., $23.6K→$577K on June calls)
+- Sentiment: Extremely bullish; fundamental thesis (AI memory) backing the hype
+- ⚠️ Elevated euphoria level — option gain posts signal retail crowding risk
+- Quality: Medium-High; flagging bubble risk at current price
+
+**Insider/Institutional (1/2):**
+- Institutional ownership: 78–80% ✅ (Swiss Life, McDonald Partners new buyers in May)
+- S&P 100 inclusion forces passive fund buying ✅
+- ⚠️ Insiders sold **104,000 shares ($45.5M)** in last 90 days — significant selling
+- Vanguard largest holder: 106.6M shares (9.45%)
+
+**Upcoming Catalysts:**
+- Next earnings: **June 24–29, 2026** (est.) — ~6 weeks away
+- Risk: $33.5B Q3 guidance sets very high bar; any miss = significant correction
+
+**Entry Plan:**
+- ⚠️ Current $798 is EXTENDED — **DO NOT CHASE**
+- Ideal entry: **$740–$760** (pullback to −5% to −7% from current; could occur on hot CPI today)
+- Stop loss: $740 (−7% from $795 midpoint)
+- Take profit: $895 (+12% from $795)
+- Position size: ~23 shares (~18% portfolio at $780)
+- **Strategy: Set alert at $760, watch for CPI selloff entry**
+
+---
+
+### PHASE 4: Composite Intelligence Scores
+
+| Stock | Technical | Fundamentals | News Sentiment | Social | Insider/Inst | **TOTAL** | Decision |
+|-------|-----------|-------------|----------------|--------|-------------|-----------|---------|
+| TXN | 6/7 | 7/7 | 2/3 | 1/1 | 1/2 | **17/20** | STRONG BUY |
+| NVDA | 5/7 | 7/7 | 3/3 | 1/1 | 1/2 | **17/20** | STRONG BUY* |
+| MU | 5/7 | 7/7 | 3/3 | 1/1 | 1/2 | **17/20** | STRONG BUY† |
+
+*NVDA: Size down pre-earnings; full position post-May 20 dip
+†MU: Wait for pullback to $740–$760 entry zone
+
+---
+
+### Watchlist Priority — May 12, 2026
+
+| Rank | Ticker | Action | Score | Conviction | Entry Zone | Rationale |
+|------|--------|--------|-------|------------|------------|-----------|
+| 1 | **TXN** | **STRONG BUY** | 17/20 | Highest | $278–$293 | Cleanest setup, no near-term earnings binary, 22.6% EPS beat, 84.57% institutional. CEO sold but fundamentals dominant. |
+| 2 | **NVDA** | **STRONG BUY (small)** | 17/20 | High (cautious) | $208–$215 pre; $195–$205 post-earnings | Best sector + analyst consensus. EARNINGS MAY 20 = binary risk. Size to 10% pre; add on dip. |
+| 3 | **MU** | **WATCH → BUY on Pullback** | 17/20 | High (wait) | $740–$760 | Exceptional fundamentals (+196% rev YoY). Extended +100% from March lows. Most hyped. Wait for CPI selloff entry. |
+
+---
+
+### Risk Flags — May 12
+
+| Flag | Detail | Severity |
+|------|--------|----------|
+| **CPI TODAY 8:30 AM ET** | Hot print (+0.6%+) triggers broad selloff — potential entry gift for TXN/MU | 🔴 HIGH — acts first |
+| NVDA Earnings May 20 | Binary ±7.15% event; Palantir precedent of beat-then-fall | 🔴 HIGH for NVDA sizing |
+| Trump-Xi Summit May 14–15 | Semiconductor tariff wildcard | 🟡 MEDIUM |
+| Powell Transition May 15 | Warsh (dovish) = bullish; confirmation risk exists | 🟡 MEDIUM |
+| MU euphoria / insider selling | $45M insider sales + retail crowding = correction risk | 🟡 MEDIUM |
+| TXN CEO insider sale May 4 | $5.6M sale; option exercise but still bearish signal | 🟢 LOW |
+| Oil >$100 (Brent $104.80) | Inflationary; hurts consumer but not semi/energy names | 🟢 LOW-MEDIUM |
+
+---
+
 ## Last Updated: 2026-05-08 (Market Open Execution — ~9:30 ET)
 
 ---
