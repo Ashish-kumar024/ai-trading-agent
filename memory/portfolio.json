@@ -15,9 +15,57 @@
       "planned_date": "2026-05-06",
       "cancelled_date": "2026-05-07",
       "cancel_reason": "Entry window closed. Price rebounded from $58.98 gap-down to $61.09–$62.76 (+5.5% range) — now 7.5% above 50MA ($57.96), outside entry zone ($57.96–$60.86). Oil WTI continuing lower to $90.22 (was $92.50 yesterday). Next opportunity: Investor Day May 11 post-event pullback.",
-      "next_entry_trigger": "Pullback to $57.96–$60.86 entry zone, ideally on Investor Day (May 11) post-event reaction"
+      "next_entry_trigger": "Pullback to updated entry zone $58.65–$61.58 (50MA updated to $58.65)"
     }
   ],
-  "updated_at": "2026-05-07T16:00:00Z",
+  "watchlist": {
+    "DAR": {
+      "current_price": 63.12,
+      "50ma": 58.65,
+      "pct_above_50ma": 7.62,
+      "entry_zone_low": 58.65,
+      "entry_zone_high": 61.58,
+      "status": "MONITOR — outside entry zone; post-Investor Day",
+      "next_entry_trigger": "Pullback to $58.65–$61.58 (updated 50MA zone). Watch oil: sustained $99–100 WTI = elevated DAR floor.",
+      "investor_day_outcome": "BULLISH — Q2 April materially stronger vs expectations; DGD 1.2B gal RD + 235M SAF; $800M+ 2026 FCF; $4–6B 5yr cash. Sell-the-news intraday May 11 (low $61.35 briefly in zone), closed $63.65.",
+      "standing_plan_if_triggered": {
+        "shares": 300,
+        "entry_price_target": 60.00,
+        "stop_loss": 55.80,
+        "stop_loss_pct": -7.0,
+        "take_profit": 67.20,
+        "take_profit_pct": 12.0,
+        "position_value": 18000.0,
+        "position_pct_portfolio": 18.0,
+        "risk_reward_ratio": 1.71
+      }
+    },
+    "PINS": {
+      "status": "MONITOR — ~$22–24 range; 50MA entry zone in ~2–3 weeks"
+    },
+    "AMD": {
+      "status": "FUTURE_WATCHLIST — 50MA retest in 3–5 weeks"
+    },
+    "DDOG": {
+      "status": "FUTURE_WATCHLIST — 50MA retest in 4–6 weeks post-earnings surge (+30%)"
+    },
+    "FTNT": {
+      "status": "FUTURE_WATCHLIST — 50MA retest in 4–6 weeks post-earnings surge (+22%)"
+    }
+  },
+  "daily_summary": {
+    "date": "2026-05-12",
+    "starting_value": 100000.0,
+    "ending_value": 100000.0,
+    "daily_pnl_usd": 0.0,
+    "daily_pnl_pct": 0.0,
+    "trades_executed": 0,
+    "open_positions": 0,
+    "market_regime": "BULLISH",
+    "spy_est": 742.50,
+    "sp500_est": 7425.0,
+    "wti_oil": 99.99
+  },
+  "updated_at": "2026-05-12T16:00:00Z",
   "inception_date": "2026-05-04T00:00:00Z"
 }

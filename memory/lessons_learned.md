@@ -1,5 +1,90 @@
 # Trading Lessons
 
+## EOD Summary - 2026-05-12
+
+**Portfolio Value:** $100,000.00
+**Daily P&L:** $0.00 (0.00%) — no positions executed
+**Active Positions:** 0/7
+
+EOD: No executed positions. Cash: $100,000. DAR at $63.12 — outside entry zone post-Investor Day.
+
+> **Note: Catching up on 3 missed sessions (May 8, May 11, May 12). Entries for all three days below.**
+
+Position Details:
+- None (cash only)
+
+Market Context (May 12):
+- Regime: **BULLISH** — SPY ~$742.50 est.; 200MA $657.54 → +13% spread
+- S&P 500: ~7,425 est. (second consecutive session above 7,400)
+- Oil: WTI **$99.99** — near $100; recovering from $90 crash, now reversing on Hormuz near-shutdown re-escalation
+- Oil narrative flip: Bearish for biofuels two weeks ago ($90 WTI); now strongly bullish ($100 WTI = wider DGD crack spreads for DAR)
+
+Watchlist Status:
+- **DAR:** $63.12 — 7.6% above updated 50MA ($58.65); outside entry zone ($58.65–$61.58). Post-Investor Day drift lower. Fundamentals upgraded. Need pullback to entry zone — oil reversal or market correction would be the catalyst.
+- **PINS:** ~$22–24; 50MA entry approaching in ~2–3 weeks — begin fundamental review
+- **AMD/DDOG/FTNT:** Future watchlist; 3–6 week 50MA retest horizon
+
+Action Items for Tomorrow (May 13):
+- DAR: Have limit order ready near $60 — any dip to ≤$61.58 is a clean entry trigger
+- Watch WTI: sustained $99–100 = DAR elevated floor; oil pullback = primary entry catalyst
+- PINS: Begin fundamental review — entry window approaching
+
+Key Lesson Today:
+- Oil's recovery from $90 to $100 (Hormuz re-escalation) is a full thesis restoration for DAR. The crash that briefly opened the entry window is now reversed AND oil is back to levels that strengthen DGD crack spread economics. DAR is now a better fundamental story at $63 with oil at $100 than it was at $64 with oil at $104 — but the stock price hasn't given us the technical entry yet.
+
+---
+
+## EOD Summary - 2026-05-11 (DAR Investor Day)
+
+**Portfolio Value:** $100,000.00
+**Daily P&L:** $0.00 (0.00%) — no positions executed
+**Active Positions:** 0/7
+
+EOD: Investor Day delivered exceptional guidance. Sell-the-news intraday briefly touched updated entry zone ($61.35 low vs. zone top $61.58) — not a clean setup; no entry.
+
+Position Details:
+- **DAR (MONITORING — post-Investor Day):**
+  - Investor Day at NYSE: Q2 April "materially stronger" vs expectations
+  - DGD: 1.2B gallons RD + 235M gal SAF; 2026–27 demand requirement 5.4B gal (vs 3.35B prior)
+  - $800M+ FCF in 2026 (based on Q1 run rate); $4–6B over 5 years (mid-to-up-cycle)
+  - Capital allocation: debt paydown first, then shareholder returns
+  - Stock: Range $61.35–$63.96; close ~$63.65 — sell-the-news intraday with strong-hand buyers at $61.35
+  - Updated 50MA: $58.65 (from $57.96); entry zone updated to $58.65–$61.58
+  - Entry signal: ❌ — intraday low $61.35 briefly in zone, but no sustained close; stock recovered
+
+Market Context (May 11):
+- Regime: **BULLISH** — S&P 500 7,412.84 (+0.19%) — **first close above 7,400** (despite Iran setback)
+- Oil: WTI ~$98 (+2.3%) — Hormuz near-shutdown reverses Iran deal optimism; traffic severely disrupted
+- Oil context: Was $90 last week on Iran deal hopes → now $98–100 as Hormuz tensions re-spike → **bullish for DAR crack spreads**
+
+Key Lessons:
+1. **"Sell the news" can create intraday zone entries that are too brief to act on.** The $61.35 low lasted minutes before recovering. Requires a pre-set limit order at the entry price to capture — mental decision-making is too slow.
+2. **Fundamentals upgraded post-Investor Day.** Story is now stronger than at inception (Q2 better than expected, $800M+ FCF visibility). This justifies holding the full 18% position plan if price ever reaches entry zone.
+3. **Oil recovery is a double-positive:** Higher WTI = better crack spreads AND re-establishes the geopolitical bid that keeps DAR elevated — making entry zone harder to reach.
+
+---
+
+## EOD Summary - 2026-05-08 (Friday — Retroactive)
+
+**Portfolio Value:** $100,000.00
+**Daily P&L:** $0.00 (0.00%) — no positions executed
+**Active Positions:** 0/7
+
+> **NOTE: Weekly review (Week of May 4–8, inception week) was NOT run — session gap. Abbreviated retroactive entry.**
+
+Market Context (May 8):
+- Regime: **BULLISH** — SPY $737.62 (+0.83%); 200MA $657.54 → +12.2%
+- Oil: WTI ~$90.00 (continued lower from $92.50 May 7; Iran deal optimism persisting)
+- DAR: ~$64.50 est. — pre-Investor Day bid holding stock elevated, ~11% above 50MA
+
+Week 1 Summary (May 4–8, inception week — UNREVIEWED):
+- **Trades executed:** 0
+- **P&L:** $0.00 (all cash)
+- **Key event:** DAR May 6 gap-down to $58.98 created 1-day entry window — missed due to EOD confirmation protocol
+- **Lesson:** Macro-driven gap-INTO-zone moves require intraday execution, not EOD confirmation
+
+---
+
 ## EOD Summary - 2026-05-07
 
 **Portfolio Value:** $100,000.00

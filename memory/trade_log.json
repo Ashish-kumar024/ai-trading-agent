@@ -288,5 +288,150 @@
       "DDOG: Pullback to 50MA (TBD) — 4–6 week horizon"
     ],
     "notes": "All regime conditions met (SPY $735.54 vs 200MA $657.54, +11.9%). No watchlist names are in the entry zone. DAR approaching Investor Day May 11 — pre-event bid is expected. Post-event pullback remains the primary entry opportunity. Monitor DAR reaction to Investor Day for setup. Oil (WTI $90.22 May 7 close) continues sliding; if it breaks $88 decisively, DAR thesis weakens and size reduction may be warranted on any entry."
+  },
+  {
+    "date": "2026-05-08",
+    "action": "EOD_SCAN",
+    "routine": "market_close",
+    "symbol": "DAR",
+    "decision": "NO_ENTRY",
+    "reason": "DAR ~$64.50 est. — ~11% above 50MA ($57.96), firmly outside entry zone ($57.96–$60.86). Pre-Investor Day buying (May 11) keeping stock elevated. No new signals. Weekly review not executed (session gap).",
+    "note": "RETROACTIVE — May 8 EOD session was not logged at time of close. Added retroactively on 2026-05-12.",
+    "market_eod": {
+      "spy": 737.62,
+      "spy_change_pct": 0.83,
+      "spy_200ma": 657.54,
+      "spy_above_200ma_pct": 12.2,
+      "wti_oil": 90.00,
+      "wti_trend": "Continuing lower from $92.50 (May 7); Iran deal hopes suppressing energy prices"
+    },
+    "portfolio_eod": {
+      "cash": 100000.0,
+      "executed_positions": 0,
+      "total_value": 100000.0,
+      "daily_pnl_usd": 0.0,
+      "daily_pnl_pct": 0.0
+    },
+    "dar_status": {
+      "price_est": 64.50,
+      "50ma": 57.96,
+      "pct_above_50ma": 11.3,
+      "entry_zone_low": 57.96,
+      "entry_zone_high": 60.86,
+      "inside_entry_zone": false
+    },
+    "missed_weekly_review": "Week of May 4-8 (inception week) — weekly review not executed. Summary: 0 trades, all cash, $100K flat. DAR was sole focus; only touched entry zone on May 6 gap-down ($58.98) which closed without execution."
+  },
+  {
+    "date": "2026-05-11",
+    "action": "EOD_SCAN",
+    "routine": "market_close",
+    "symbol": "DAR",
+    "decision": "NO_ENTRY",
+    "reason": "DAR Investor Day delivered bullish guidance but produced sell-the-news intraday. Range $61.35–$63.96; closed ~$63.65. Intraday low $61.35 briefly entered updated entry zone ($58.65–$61.58) but stock recovered same session — no clean entry signal. Oil rebounded to ~$98 on Hormuz near-shutdown (bullish for biofuel crack spreads).",
+    "market_eod": {
+      "sp500": 7412.84,
+      "sp500_change_pct": 0.19,
+      "sp500_milestone": "First close above 7,400 — despite Iran Hormuz setback",
+      "spy_est": 741.28,
+      "spy_200ma": 657.54,
+      "spy_above_200ma_pct": 12.7,
+      "wti_oil": 98.00,
+      "wti_change_pct": 2.3,
+      "oil_driver": "Hormuz near-shutdown; severe disruption to crude/LNG/fuel traffic — Iran re-escalation reversing the $90 crash"
+    },
+    "portfolio_eod": {
+      "cash": 100000.0,
+      "executed_positions": 0,
+      "total_value": 100000.0,
+      "daily_pnl_usd": 0.0,
+      "daily_pnl_pct": 0.0
+    },
+    "dar_investor_day": {
+      "venue": "New York Stock Exchange",
+      "key_messages": [
+        "Q2 April 'materially stronger' vs prior expectations — volumes, prices, fuel demand, margins all beating",
+        "DGD producing 1.2B gal renewable diesel + 235M gal SAF annually",
+        "2026–2027 demand requirement 5.4B gal (vs 3.35B prior year) — structural tailwind",
+        "On-track to generate $800M+ FCF in 2026 (based on Q1 run rate)",
+        "5-year FCF: $4–6B (mid-cycle to up-cycle scenarios)",
+        "Capital allocation: debt paydown first, then shareholder returns"
+      ],
+      "stock_reaction": {
+        "day_range": "61.35-63.96",
+        "close_est": 63.65,
+        "intraday_low_in_updated_zone": true,
+        "zone_low": 58.65,
+        "zone_high": 61.58,
+        "close_in_zone": false,
+        "pattern": "Sell-the-news intraday, strong hands bought $61.35 low; recovered to $63.65 close"
+      }
+    },
+    "dar_status": {
+      "close_est": 63.65,
+      "50ma_updated": 58.65,
+      "pct_above_50ma": 8.56,
+      "entry_zone_low": 58.65,
+      "entry_zone_high": 61.58,
+      "inside_entry_zone": false,
+      "entry_signal": false
+    },
+    "oil_thesis_update": "WTI recovering from $90 trough back to $98 on Hormuz re-escalation. This RESTORES bullish DAR biofuel thesis (higher oil = wider DGD crack spreads). Reverses the headwind from last week's oil crash.",
+    "watchlist_eod": {
+      "DAR": "MONITOR — $63.65 close, Investor Day fundamentals upgraded. Next entry: pullback to $58.65–$61.58.",
+      "PINS": "~$22–24 est. — 50MA entry zone still 2–3 weeks out",
+      "AMD": "Future watchlist — 50MA retest 3–5 weeks",
+      "DDOG": "Future watchlist — 4–6 weeks",
+      "FTNT": "Future watchlist — 4–6 weeks"
+    }
+  },
+  {
+    "date": "2026-05-12",
+    "action": "EOD_SCAN",
+    "routine": "market_close",
+    "symbol": "DAR",
+    "decision": "NO_ENTRY",
+    "reason": "DAR $63.12 — 7.62% above updated 50MA ($58.65), outside entry zone ($58.65–$61.58). Slight post-Investor Day drift lower (from $63.65 Monday close). Oil at $99.99 WTI (near $100) is strongly supportive of biofuel thesis. No catalyst to bring DAR to entry zone near-term unless oil retraces or market corrects.",
+    "market_eod": {
+      "sp500_est": 7425.0,
+      "sp500_prev_close": 7412.84,
+      "spy_est": 742.50,
+      "spy_200ma": 657.54,
+      "spy_above_200ma_pct": 13.0,
+      "wti_oil": 99.99,
+      "wti_prev_close": 98.00,
+      "wti_change_pct": 2.0,
+      "oil_driver": "Hormuz disruption sustained — WTI approaching $100 recovery from $90 crash low"
+    },
+    "portfolio_eod": {
+      "cash": 100000.0,
+      "executed_positions": 0,
+      "total_value": 100000.0,
+      "daily_pnl_usd": 0.0,
+      "daily_pnl_pct": 0.0
+    },
+    "dar_status": {
+      "close": 63.12,
+      "50ma_updated": 58.65,
+      "pct_above_50ma": 7.62,
+      "entry_zone_low": 58.65,
+      "entry_zone_high": 61.58,
+      "pct_drop_needed_for_entry": -4.0,
+      "inside_entry_zone": false,
+      "analyst_consensus": "Strong Buy — avg target $66.36 (+5.1% from current)"
+    },
+    "watchlist_eod": {
+      "DAR": "MONITOR — $63.12, 7.6% above 50MA ($58.65). Post-Investor Day fundamentals upgraded. Oil $99.99 supports DGD crack spreads. Need pullback to $58.65–$61.58. Watch for oil pullback or macro correction as primary entry catalyst.",
+      "PINS": "MONITOR — ~$22–24 range; 50MA entry zone still ~2–3 weeks out",
+      "AMD": "FUTURE_WATCHLIST — 50MA retest in ~3–5 weeks",
+      "DDOG": "FUTURE_WATCHLIST — 50MA retest in ~4–6 weeks",
+      "FTNT": "FUTURE_WATCHLIST — 50MA retest in ~4–6 weeks"
+    },
+    "action_items_tomorrow": [
+      "Monitor DAR: any dip to $61.58 or below is entry trigger — have limit order ready near $60",
+      "Track WTI: if oil holds $99–100+, DAR floors may stay elevated ($63+); oil pullback = entry opportunity",
+      "Review PINS: approaching 50MA entry zone in ~2 weeks — begin fundamental review",
+      "AMD 50MA tracking: note level for 4-5 week entry horizon"
+    ]
   }
 ]
