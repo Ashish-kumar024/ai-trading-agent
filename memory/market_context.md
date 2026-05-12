@@ -1,5 +1,186 @@
 # Market Context
 
+## Last Updated: 2026-05-12 (Pre-Market Analysis — Enhanced Multi-Source)
+
+---
+
+## Pre-Market Analysis — 2026-05-12
+
+**Run Time:** Pre-Market
+**Checked By:** AI Trading Agent (Enhanced Multi-Source Intelligence)
+
+---
+
+### Market Regime
+
+| Metric | Value | Status |
+|--------|-------|--------|
+| SPY | ~$739.30 | ✅ BULLISH |
+| SPY 200-Day MA | ~$668.41 (SMA) | — |
+| SPY vs 200MA | +10.6% | ✅ Firmly above threshold |
+| VIX | 17.19 | ✅ CALM (<20) |
+| Regime | **BULLISH** | Near all-time highs |
+
+**Sector Leaders:** Semiconductors/AI (AMD, NVDA, AVGO), Energy (XOM), Defense (LMT), Industrials (CAT)
+**Sector Laggards:** REITs, Utilities, Consumer Staples, Materials
+**Momentum Flow:** AI infrastructure spend → data center names dominating
+
+---
+
+### Macro Events This Week
+
+| Date | Event | Impact |
+|------|-------|--------|
+| **TODAY May 12** | April CPI 8:30 AM ET (+0.6% MoM, +3.7% YoY est.) | 🔴 HIGH — rate path signal |
+| May 13-15 | Trump-Xi meeting Beijing (trade, Taiwan, AI, rare earths) | 🔴 HIGH — geopolitical |
+| May 15 | Powell term ends; Kevin Warsh Senate vote | 🟡 MEDIUM — leadership |
+| Wednesday | FOMC Chair speech | 🟡 MEDIUM |
+| May 20 | NVIDIA earnings (10%+ implied move) | 🔴 HIGH — sector catalyst |
+| Ongoing | Oil: Brent ~$105, WTI ~$99 (rising) | 🟡 MEDIUM — inflation pressure |
+
+---
+
+### Golden Cross Candidates
+
+#### 1. AMD — Score: 16/20 — STRONG BUY
+
+**Technical (5/7):**
+- Golden cross confirmed (50MA > 200MA) → +3
+- Volume confirmation on breakout → +2
+- At all-time high ($455.19) — NOT near 50MA pullback → 0
+- Price: $455.19 | 52-week range: $106.98–$456.29 | ATH May 8
+
+**Fundamentals (7/7):**
+- Q1 Revenue: $10.3B (+38% YoY) — beat $9.91B consensus → +3
+- Q1 non-GAAP EPS: $1.37 vs $1.29 expected (+6.2% beat) → +2
+- Q2 Guidance: $11.2B (+46% YoY) — RAISED above $10.5B consensus → +2
+- Data Center: $5.78B (+57% YoY) | Gross margin: 55% | Record FCF: $2.57B
+
+**News Sentiment (3/3): Very Positive**
+- Bernstein Outperform → $525 (from $265); Goldman Buy → $450; Barclays/Cantor $500
+- Stock +17.46% on earnings day (May 5); +112.6% YTD
+
+**Social Sentiment (0/1): Neutral**
+- WSB: 18 mentions/24h, 45% positive / 55% negative (post-run skepticism)
+- Institutional quality stock — no meme flags
+
+**Insider/Institutional (1/2):**
+- Insider buying: None (tax-related activity only) → 0
+- Institutional: 67.13% ownership → +1
+
+**Catalysts:**
+- Next earnings: ~August 4, 2026 ✅ (no near-term risk — clear runway)
+
+**Entry Plan:**
+- Entry zone: $440–$460 (current momentum) OR wait for pullback to $420–$435
+- Stop loss: $423 (-7% from $455)
+- Take profit: $510 (+12% from $455)
+- Position size: ~18% portfolio
+- ⚠️ Extended from 50MA — scale in or wait for 5% retracement for better R/R
+
+---
+
+#### 2. AVGO (Broadcom) — Score: 16/20 — STRONG BUY ⚠️ EARNINGS JUNE 3
+
+**Technical (6/7):**
+- Golden cross confirmed with volume → +3 | Volume confirmation → +2
+- Price near 50MA range (estimated within 5-8%) → +1
+- Market cap: ~$2T | Price: ~$428
+
+**Fundamentals (7/7):**
+- Q1 Revenue: $19.3B (+29% YoY) record → +3
+- Q1 EPS: $2.05 vs $1.88 expected (+9% beat) → +2
+- Q2 Guidance: ~$22B revenue — RAISED → +2
+- AI revenue: $8.4B (+106% YoY) | Gross margin: ~77% | FCF: $8B
+
+**News Sentiment (2/3): Positive**
+- ⚠️ Financing snag: OpenAI $18B chip deal uncertainty (May 7) — stock -4%
+- Institutional accumulation: Fisher Asset, Point72, AQR adding positions
+- Net: Positive fundamental story vs one deal-financing headwind
+
+**Social Sentiment (0/1): Neutral**
+- Institutional-dominated stock; low retail noise; no meme flags
+
+**Insider/Institutional (1/2):**
+- Insider: Net -$106.2M selling past 90 days → 0
+- Institutional: 76.43% ownership; major funds accumulating → +1
+
+**Catalysts:**
+- ⚠️ Next earnings: **June 3, 2026 (~22 days away)** — 8-10% implied move
+- OpenAI deal resolution = major positive catalyst if financing confirmed
+
+**Entry Plan:**
+- Entry zone: $415–$435 (within 5% of 50MA)
+- Stop loss: $398 (-7% from $428)
+- Take profit: $480 (+12% from $428)
+- Position size: ~12–15% portfolio (reduced — earnings proximity)
+- ⚠️ Plan to close or hedge before June 3 earnings
+
+---
+
+#### 3. PLD (Prologis) — Score: 13/20 — BUY ⚠️ RATE SENSITIVITY
+
+**Technical (6/7):**
+- Golden cross confirmed: 50MA $136.75 > 200MA $131.76 → +3
+- Price $142.52 (+4.2% above 50MA) — near pullback zone → +2
+- Volume: moderate → +1 | 52-week range: $103.02–$145.44
+
+**Fundamentals (4/7):**
+- Q1 Revenue: $2.3B (+7.4% YoY) — below 20% threshold → 0
+- Q1 FFO: $1.52/share vs $1.48 expected (beat) → +2
+- 2026 FFO Guidance: RAISED to $6.23–$6.70 → +2
+- Occupancy: 95.3% | Data center logistics demand driving rerating
+
+**News Sentiment (2/3): Positive**
+- BMO upgrade: Outperform, target $162 (data center demand catalyst)
+- RBC $148, Truist $154, DA Davidson $160
+- ⚠️ Rate-sensitive REIT; rising oil → inflation → higher-for-longer risk
+- ⚠️ CPI TODAY is critical read for REITs
+
+**Social Sentiment (0/1): Neutral**
+- Low retail visibility; institutional stock; no meme flags
+
+**Insider/Institutional (1/2):**
+- Insider: 0 buys, 4 sells past 6 months → 0
+- Institutional: 861 added vs 575 decreased; 93.5% ownership → +1
+
+**Catalysts:**
+- Next earnings: ~July 15, 2026 ✅ (no near-term risk)
+- ⚠️ Hot CPI today → REITs sell off; wait for CPI data before entering
+- ⚠️ Trump-Xi trade outcome could affect logistics/supply chain demand
+
+**Entry Plan:**
+- Entry zone: $136–$143 (near 50MA $136.75)
+- Stop loss: $132.50 (-7% from $142.52)
+- Take profit: $160 (+12% from $142.52)
+- Position size: ~18% portfolio
+- ⚠️ WAIT for CPI print at 8:30 AM before entering
+
+---
+
+### Watchlist Priority
+
+| Rank | Ticker | Action | Score | Rationale |
+|------|--------|--------|-------|-----------|
+| 1 | AMD | STRONG BUY | 16/20 | AI chip leader, blowout Q1+Q2 guide, no earnings til Aug; enter on 5% pullback |
+| 2 | AVGO | STRONG BUY* | 16/20 | AI rev +106%, record FCF, Q2 $22B guide; ⚠️ reduce size — earnings Jun 3 |
+| 3 | PLD | BUY* | 13/20 | Golden cross near 50MA, Q1 beat, analyst upgrades; ⚠️ wait for CPI today |
+
+*Conditional entry — see individual notes
+
+### Risk Flags Today
+
+| Flag | Detail | Severity |
+|------|--------|----------|
+| April CPI (8:30 AM ET today) | Hot print → rate fears → REIT/growth sell-off | 🔴 HIGH |
+| Trump-Xi Meeting (May 13-15) | Trade/tariff headlines = market-moving | 🔴 HIGH |
+| AVGO Earnings June 3 | 8-10% implied move — don't hold through unhedged | 🟡 MEDIUM |
+| Oil at $105 Brent / $99 WTI | Inflation input; headwind for REITs | 🟡 MEDIUM |
+| Powell Transition May 15 | Policy uncertainty under Warsh | 🟡 MEDIUM |
+| NVDA Earnings May 20 | Sector-wide catalyst; 10%+ implied move | 🟡 MEDIUM |
+
+---
+
 ## Last Updated: 2026-05-08 (Market Open Execution — ~9:30 ET)
 
 ---
@@ -183,7 +364,7 @@ DAR has bounced from $63.11 (May 7 close) to $64.74 today — moving **away** fr
 #### Breaking News — Midday May 7, 2026
 
 | Event | Ticker | Impact | Relevance |
-|-------|--------|--------|-----------|
+|-------|--------|--------|----------|
 | Iran formally delivering response to U.S. 14-point peace proposal | Macro | WTI -3% to $89–93 | 🔴 **KEY VARIABLE** — if deal, oil to $85; DAR thesis at risk |
 | Datadog Q1 2026: Rev $1.006B (+32%), EPS $0.60 (+43% beat), FY26 guide raised | DDOG | **+30%** | Future watchlist — AI observability |
 | Fortinet: Raised full-year billings guidance | FTNT | **+22%** | Future watchlist — cybersecurity |
@@ -341,7 +522,7 @@ DAR has bounced from $63.11 (May 7 close) to $64.74 today — moving **away** fr
 ### Key Market Events — May 6, 2026
 
 | Event | Ticker | Impact | Relevance |
-|-------|--------|--------|-----------|
+|-------|--------|--------|----------|
 | U.S.-Iran MOU framework nearing; Project Freedom paused | Macro | Oil -9% to ~$92.50 | ⚠️ DAR headwind; market tailwind |
 | AMD Q1 2026: Rev $10.25B (+38%), Q2 guide $11.2B (+46%), EPS $1.37 beat | AMD | +17-20% | AI/agentic demand surge; future watchlist |
 | Nvidia-Corning $2.7B U.S. manufacturing deal | GLW/NVDA | GLW +10-17%, NVDA +4.78% | U.S. manufacturing theme |
@@ -484,7 +665,7 @@ WTI crude oil has dropped **~9%** today to approximately **$93–100/barrel** (f
 #### Breaking News — Last 6 Hours
 
 | Event | Ticker | Impact | Relevance |
-|-------|--------|--------|-----------|
+|-------|--------|--------|----------|
 | U.S.-Iran nearing deal; White House "close to MOU" | Macro | Oil -9% to ~$93 | ⚠️ DAR headwind; market tailwind |
 | AMD Q1 2026: Rev $10.25B (+38% YoY), Q2 guide $11.2B (+46%) | AMD | +17–20% | AI/agentic demand surge confirmed |
 | Nvidia-Corning: $2.7B investment, 3 U.S. manufacturing plants | GLW/NVDA | GLW +10–17%, NVDA +4.78% | U.S. manufacturing theme; AI infrastructure |
@@ -981,7 +1162,7 @@ Three stocks flagged with fresh golden cross signals and assessed for fundamenta
 ## Watchlist Priority
 
 | Rank | Ticker | Action | Rationale |
-|------|--------|--------|-----------|
+|------|--------|--------|----------|
 | 1 | DAR | **Watch for entry** | Earnings momentum + golden cross + biofuel tailwind |
 | 2 | SUI | **Watch for pullback** | Defensive quality, raised guidance, dividend |
 | 3 | WVE | Pass | Pre-commercial biotech; too binary |
